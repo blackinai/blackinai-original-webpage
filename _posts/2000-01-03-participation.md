@@ -1,5 +1,5 @@
 ---
-title: "participationn"
+title: "participation"
 bg: white
 color: black
 emph: blue
