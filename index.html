@@ -41,6 +41,10 @@
           </span>
           <h5 class="icon-title">{{ page.title }}</h5>
         </div>
+	{% else %}
+	<div class="sectiondivider">
+          <hr>
+        </div>
         {% endif %}
         <div class="container {{ page.style }}">
           {{ page.content }}
@@ -57,7 +61,7 @@
     </div>
   </div>
 
-{% include analytics.html %}
+
 </body>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="site.js"></script>

@@ -22,7 +22,7 @@ html { box-sizing: border-box; }
   {% capture emph %}{% if site.colors[node.emph] %}{{ site.colors[node.emph] }}{% else %}{{ node.emph }}{% endif %}{% endcapture %}
   nav .p-{{id}} { border-color: {{ bg }}; }
   #{{id}} { background-color: {{ bg }} !important; color: {{ fg }}; }
-  #{{id}} a { color: {{ emph }}; }
+  #{{id}} a { color: {{ emph }}; text-decoration: none;}
   #{{id}} h1, h2, h3 { color: {{ emph }}; }
   #{{id}} .sectiondivider { color: {{ bg }}; }
 {% endfor %}
@@ -68,13 +68,14 @@ img {
 }
 
 hr {
-  margin:60px auto;
+  margin:20px auto;
   width:50%;
   border-color: {{ site.colors.black }};
 }
 
 .container { word-wrap: break-word; }
 .center { text-align: center; }
+.justify { text-align: justify;}
 .left, .container .left { text-align: left; }
 
 .container h1, .container h2, .container h3, .container h4 {
@@ -84,12 +85,12 @@ hr {
 }
 .container p, .container ol, .container ul, .container li {
   font-size: 22px;
-  padding: 0 5%;
+  padding: 0 0%;
   line-height: 150%;
 }
 .container ol, .container ul { padding: 0 8%; }
 .container p:first-of-type {
-    margin-top: 40px;
+    margin-top: 10px;
 }
 
 /* keep embedded videos fluid! */
@@ -180,8 +181,7 @@ nav ul li:hover, nav ul li.active {
   display:block;
   width:100%;
   min-height:300px;
-  padding:210px 0;
-  background:url(img/bgnoise.png);
+  padding:50px 0;
   /* generated noise from noisetexturegenerator.com */
 }
 
@@ -205,8 +205,7 @@ nav ul li:hover, nav ul li.active {
   border-radius:50%;
   -moz-border-radius:50%;
   -webkit-border-radius:50%;
-  box-shadow: 0px 1px 15px rgba(0,0,0,0.05);
-  background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAF0lEQVQIHWP8//+/MQMaYELjg7kUCgIASm8DOqGzfp8AAAAASUVORK5CYII=);
+  box-shadow: 0px 1px 15px rgba(0,0,0,0.05););
 }
 
 .sectiondivider {
@@ -224,6 +223,16 @@ nav ul li:hover, nav ul li.active {
   height:240px;
   position: static;
   margin-top: -20px;
+}
+
+.sectiondivider hr {
+  border: none;
+  border-top: 1px solid #aaaaaa;
+  border-bottom: 1px solid #ffffff;
+  position:absolute;
+  top:100px;
+  left:-365px;
+  width:1000px;
 }
 
 .sectiondivider .fa-stack {

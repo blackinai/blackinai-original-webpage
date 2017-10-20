@@ -3,6 +3,7 @@ title: "participation"
 bg: white
 color: black
 emph: blue
+style: justify
 ---
 
 # Call for Participation
