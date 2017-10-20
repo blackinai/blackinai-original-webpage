@@ -19,9 +19,11 @@ html { box-sizing: border-box; }
   {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
   {% capture bg %}{% if site.colors[node.bg] %}{{ site.colors[node.bg] }}{% else %}{{ node.bg }}{% endif %}{% endcapture %}
   {% capture fg %}{% if site.colors[node.color] %}{{ site.colors[node.color] }}{% else %}{{ node.color }}{% endif %}{% endcapture %}
+  {% capture emph %}{% if site.colors[node.emph] %}{{ site.colors[node.emph] }}{% else %}{{ node.emph }}{% endif %}{% endcapture %}
   nav .p-{{id}} { border-color: {{ bg }}; }
   #{{id}} { background-color: {{ bg }} !important; color: {{ fg }}; }
-  #{{id}} a { color: {{ fg }}; }
+  #{{id}} a { color: {{ emph }}; }
+  #{{id}} h1, h2, h3 { color: {{ emph }}; }
   #{{id}} .sectiondivider { color: {{ bg }}; }
 {% endfor %}
 
@@ -65,11 +67,6 @@ img {
     max-width:300px!important;
 }
 
-.heading-bai{
-    position: relative;
-    color: #007299;
-}
-
 hr {
   margin:60px auto;
   width:50%;
@@ -86,8 +83,9 @@ hr {
   padding: 0 4%;
 }
 .container p, .container ol, .container ul {
-  font-size: 17px;
+  font-size: 22px;
   padding: 0 5%;
+  line-height: 150%;
 }
 .container ol, .container ul { padding: 0 8%; }
 .container p:first-of-type {

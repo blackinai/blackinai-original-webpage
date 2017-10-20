@@ -2,6 +2,7 @@
 title: "participationn"
 bg: white
 color: black
+emph: blue
 ---
 
 # Call for Participation
