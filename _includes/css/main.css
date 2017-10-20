@@ -60,6 +60,10 @@ img {
   vertical-align:middle;
 }
 
+.img-left{
+    float: left; 
+}
+
 .img-sponsor
 {
     margin: 0 auto;
