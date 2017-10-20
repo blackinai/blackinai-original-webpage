@@ -29,4 +29,4 @@ If you are a student who has not conducted research and would like a travel gran
  1. Submitting an abstract, and a paragraph describing financial need on the conference submission page OR
  2. Submitting a one page statement describing your research interests in AI and reasons for participating in the workshop, and a paragraph describing financial need on the conference submission page
 
-These must be done by the deadline, _October 13, 2017_.
+These must be done by the deadline, __October 13, 2017__.

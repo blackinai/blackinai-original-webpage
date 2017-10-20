@@ -1,7 +1,7 @@
 ---
 title: "organizers"
-bg: white
-color: black
+bg: blue
+color: white
 ---
 
 # Organizers 

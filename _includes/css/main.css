@@ -65,6 +65,11 @@ img {
     max-width:300px!important;
 }
 
+.heading-bai{
+    position: relative;
+    color: #007299;
+}
+
 hr {
   margin:60px auto;
   width:50%;
