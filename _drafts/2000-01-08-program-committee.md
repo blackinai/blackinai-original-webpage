@@ -8,40 +8,41 @@ color: black
 
 Thanks to the following members of the Black in AI community and supportive allies for helping review the submissions. 
 
- - Ashley Edwards
- - Bernease Herman
- - Frank Lanke Fu Tarimo
- - nyalleng moorosi
- - Marcelo Worsley
- - Sanmi Koyejo
- - Sarah M. Brown
- - Moustapha Cisse
- - Charles Earl
- - Samy Bengio
- - Ousmane Dia
- - Basiliyos Tilahun
- - George Musumba
- - Justice Amoh
- - Ndapa Nakashole
- - Alvin Grissom II 
- - Jack Hessel
  - Rediet Abebe
- - Charles Onu
- - Joy Buolamwini
- - Emmanuel Johnson
- - Fisseha Gidey Gebremedhin
- - Oluwaseun Francis Egbelowo
- - Billy Okal
- - Hal Daumé III
- - Irwan Bello
- - Christan Grant
- - Tewodros Dagnew
- - Timnit Gebru
- - Dylan Foster
- - Wil Thomason
- - Forough Poursabzi
- - Xanda Schofield
+ - Justice Amoh
  - Silèye Ba
- - Abbie Jacobs
- - Diana Cai
+ - Irwan Bello
+ - Samy Bengio
+ - Sarah M. Brown
+ - Joy Buolamwini
+ - Diana Ca
+ - Moustapha Cisse
+ - Charles Cearl
+ - Tewodros Dagnew
+ - Hal Daumé III
+ - Ousmane Dia
+ - Ashley Edwards
+ - Oluwaseun Francis Egbelowo
+ - Dylan Foster
+ - Fisseha Gidey Gebremedhin
+ - Timnit Gebru
+ - Christan Grant
+ - Alvin Grissom II 
+ - Bernease Herman
+ - Jack Hessel
+ - Abbie Jacobsi
+ - Emmanuel Johnson
+ - Sanmi Koyejo
  - Ciira Maina
+ - nyalleng moorosi
+ - George Musumba
+ - Ndapa Nakashole
+ - Billy Okal
+ - Charles Onu
+ - Forough Poursabzi-Sangdeh
+ - Alexandra Schofield
+ - Frank Lanke Fu Tarimo
+ - Kaleab Tessera
+ - Basiliyos Tilahun
+ - Wil Thomason
+ - Marcelo Worsley
