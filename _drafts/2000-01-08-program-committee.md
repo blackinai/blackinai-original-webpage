@@ -15,7 +15,7 @@ Thanks to the following members of the Black in AI community and supportive alli
  - Samy Bengio
  - Sarah M. Brown
  - Joy Buolamwini
- - Diana Ca
+ - Diana Cai
  - Moustapha Cisse
  - Charles Cearl
  - Tewodros Dagnew
@@ -30,19 +30,20 @@ Thanks to the following members of the Black in AI community and supportive alli
  - Alvin Grissom II 
  - Bernease Herman
  - Jack Hessel
- - Abbie Jacobsi
+ - Abigail Jacobs
  - Emmanuel Johnson
  - Sanmi Koyejo
  - Ciira Maina
  - nyalleng moorosi
  - George Musumba
  - Ndapa Nakashole
+ - Ehi Nosakhare
  - Billy Okal
  - Charles Onu
  - Forough Poursabzi-Sangdeh
  - Alexandra Schofield
  - Frank Lanke Fu Tarimo
  - Kaleab Tessera
- - Basiliyos Tilahun
+ - Basiliyos Tilahun Betru
  - Wil Thomason
  - Marcelo Worsley
