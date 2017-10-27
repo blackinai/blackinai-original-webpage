@@ -73,6 +73,15 @@ img {
     clear: right;
 }
 
+
+.img-sponsor-second-c{
+    margin: auto;
+    margin-bottom: 25px;
+    display: block;
+    float: center;
+    max-width:200px!important;
+}
+
 .img-sponsor-c
 {
     margin: auto;
@@ -97,6 +106,25 @@ img {
     display: block;
     float:right;
     max-width:300px!important;
+}
+
+.img-sponsor-third-l
+{
+    margin: auto;
+    margin-left:200px;
+    margin-bottom: 25px;
+    display: block;
+    float:left;
+    max-width:150px!important;
+}
+.img-sponsor-third-r
+{
+    margin: auto;
+    margin-right:200px;
+    margin-bottom: 25px;
+    display: block;
+    float:right;
+    max-width:150px!important;
 }
 
 hr {
