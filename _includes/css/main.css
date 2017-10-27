@@ -63,11 +63,39 @@ img {
 .img-left{
     float: left; 
 }
-
-.img-sponsor
+.img-sponsor-icon
 {
     margin: 0 auto;
+    max-width:75px!important;
+    margin-bottom: 15px;
+    margin-top:25px;
+    clear: left;
+    clear: right;
+}
+
+.img-sponsor-c
+{
+    margin: auto;
+    margin-bottom: 25px;
     display: block;
+    float: center;
+    max-width:300px!important;
+}
+
+.img-sponsor-l
+{
+    margin: auto;
+    margin-bottom: 25px;
+    display: block;
+    float:left;
+    max-width:300px!important;
+}
+.img-sponsor-r
+{
+    margin: auto;
+    margin-bottom: 25px;
+    display: block;
+    float:right;
     max-width:300px!important;
 }
 

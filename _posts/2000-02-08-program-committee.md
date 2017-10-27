@@ -2,6 +2,7 @@
 title: "PC"
 bg: white
 color: black
+emph: blue
 ---
 
 # Program Committee
