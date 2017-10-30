@@ -17,7 +17,7 @@ emph: color of headings
 ---
 ```
 
-__Note:__ colors can be defined using standard html names, or using plain english names as defined in `_config.yaml` 
+__Note:__ colors can be defined using standard html names or using plain english names as defined in `_config.yaml` 
 
 
 ## Speakers are a collection, to add: 
