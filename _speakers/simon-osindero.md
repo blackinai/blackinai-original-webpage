@@ -3,7 +3,7 @@ layout: speaker
 display: Simon Osindero
 img: simon-osindero.jpg
 ---
-Dr Simon Osindero is a pioneer in the field of machine learning and his 2006
+Dr Simon Osindero is a pioneer in the field of machine learning. His 2006
 post-doctoral research on deep belief networks in collaboration with Geoff Hinton
 and Yee Whye Teh helped kickstart the deep learning revolution.  
 He is currently a scientist at DeepMind, where he researches machine learning
