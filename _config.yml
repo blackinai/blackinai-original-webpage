@@ -42,6 +42,8 @@ collections:
   speakers:
     output: true
     permalink: /:collection/:name
+  segments:
+    
 
 
 

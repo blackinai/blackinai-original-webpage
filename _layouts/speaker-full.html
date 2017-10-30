@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="../combo.css">
   <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
-  {% if site.favicon %}<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon">{% endif %}
+  {% if site.favicon %}<link rel="shortcut icon" href="../{{ site.favicon }}" type="image/x-icon">{% endif %}
 	{% if site.touch_icon %}<link rel="apple-touch-icon" href="{{ site.touch_icon }}">{% endif %}
 </head>
 <body>
@@ -20,22 +20,18 @@
     <nav><ul>
       {% for node in site.posts reversed %}
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
-        <li class="p-{{id}}"><a href="../#{{id}}">{{node.title}}</a></li>
+        <li class="p-{{id}}"><a href="{{id}}">{{node.title}}</a></li>
       {% endfor %}
     </ul></nav>
 
-    {% for item in site.speakers %}
-	{% capture id %}{{ item.id | remove:'/' | downcase }}{% endcapture %}
-      <div id="{{id}}" class="section">
-	<div class="container">	 	
-	 <h2>{{ item.display }}</h2>
-	
-	<img src="../img/{{ item.img }}" alt="{{ item.display }}" class="img-bio-left"> 
-	<p>{{ item.content }}</p>
+    <div id="{{id}}" class="section p-{{id}}">
+	<div class="container">	
+ 	<h2>{{ page.display }}</h2>	
+	<img src="../img/{{ page.img }}" alt="{{ page.display }}" class="img-bio-left"> 
+	<p>{{ page.content }}</p>
 	</div>
-	 </div>
-    {% endfor %}
-
+    </div>
+	 
 
     <div id="footer" class="section text-white">
       <div class="container">
