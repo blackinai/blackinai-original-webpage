@@ -8,12 +8,17 @@ Black in AI
  - Add md file to `_posts` folder, date for order (oldest at top)
  - include yaml front matter
  
-    --- 
-    title: will display in the menu
-    bg: back ground color, plain names ae as defined in yaml, otherwise use html name
-    color: text color
-    emph: color of headings
-    ---
+```yaml
+---  
+title: will display in the menu  
+bg: background color, 
+color: text color  
+emph: color of headings  
+---
+```
+
+__Note:__ colors can be defined using standard html names, or using plain english names as defined in `_config.yaml` 
+
 
 ## Speakers are a collection, to add: 
  - create a markdown file named after the speaker
@@ -23,8 +28,10 @@ Black in AI
  - see `2000-01-05-program.md` on how to include speakers within another section
  - all speakers are added to `/speaker-list ` page
 
-    ---
-    layout: speaker 
-    display: Name as to be displayed on page
-    img: image name with extenstion (that must be in img dir)
-    ---
+```yaml
+---
+layout: speaker   
+display: Name as to be displayed on page  
+img: image name with extenstion (that must be in img dir)  
+---
+```
