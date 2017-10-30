@@ -1,11 +1,10 @@
-Fancy jekyll powered single page site
-======================
+Black in AI
+============
+
+ Based on this theme: [Demo](http://t413.com/SinglePaged) and  [github project page](https://github.com/t413/SinglePaged)
 
 
-- Based on this theme: [Demo](http://t413.com/SinglePaged) and  [github project page](https://github.com/t413/SinglePaged)
-
-
-Adding a section on main page:
+## Adding a section on main page:
  - Add md file to `_posts` folder, date for order (oldest at top)
  - include yaml front matter
  
@@ -16,7 +15,7 @@ Adding a section on main page:
     emph: color of headings
     ---
 
-Speakers are a collection, to add: 
+## Speakers are a collection, to add: 
  - create a markdown file named after the speaker
  - add yaml front matter as below
  - name image same as the md file up to extension add it to `img/` directory

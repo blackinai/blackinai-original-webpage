@@ -25,6 +25,7 @@
     </ul></nav>
 
 
+
     {% for page in site.segments  %}
       {% capture id %}{{ page.title | remove:'/' | downcase }}{% endcapture %}
       <div id="{{id}}" class="section p-{{id}}">

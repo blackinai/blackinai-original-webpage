@@ -17,23 +17,33 @@
 <body>
   <div id="main">
 
-    <nav><ul>
+    <div id="nav">
+    <ul>
       {% for node in site.segments %}
-        {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
+        {% capture id %}{{ node.title | remove:'/' | downcase }}{% endcapture %}
         <li class="p-{{id}}"><a href="../#{{id}}">{{node.title}}</a></li>
       {% endfor %}
-    </ul></nav>
+    </ul></div>
+
+      
+		
+
+<h1> Black in AI 2017 </h1>
+	
 
     {% for item in site.speakers %}
 	{% capture id %}{{ item.id | remove:'/' | downcase }}{% endcapture %}
-      <div id="{{id}}" class="section">
+	<div id="{{id}}" class="section p-{{id}}">
+	<div class="sectiondivider">
+          	<hr>
+        	</div>
+      
 	<div class="container">	 	
-	 <h2>{{ item.display }}</h2>
-	
-	<img src="../img/{{ item.img }}" alt="{{ item.display }}" class="img-bio-left"> 
+	   	<h1>{{ item.display }}</h1>
+	   <img src="../img/{{ item.img }}" alt="{{ item.display }}" class="img-bio-left"> 
 	<p>{{ item.content }}</p>
 	</div>
-	 </div>
+	</div>
     {% endfor %}
 
 

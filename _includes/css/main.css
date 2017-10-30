@@ -21,6 +21,7 @@ html { box-sizing: border-box; }
   {% capture fg %}{% if site.colors[node.color] %}{{ site.colors[node.color] }}{% else %}{{ node.color }}{% endif %}{% endcapture %}
   {% capture emph %}{% if site.colors[node.emph] %}{{ site.colors[node.emph] }}{% else %}{{ node.emph }}{% endif %}{% endcapture %}
   nav .p-{{id}} { border-color: {{ bg }}; }
+  #nav .p-{{id}} { border-color: {{ bg }}; }
   #{{id}} { background-color: {{ bg }} !important; color: {{ fg }}; }
   #{{id}} a { color: {{ emph }}; text-decoration: none;}
   #{{id}} h1, h2, h3 { color: {{ emph }}; }
@@ -56,8 +57,9 @@ summary::-webkit-details-marker {
   display: none
 }
 
-summary:after {
-  
+.speaker-name {
+  text-align:left!important; 
+  border: none;
 }
 
 details[open] i{
@@ -215,6 +217,7 @@ nav {
   background:#2e2e2e;
 }
 
+
 nav ul {
   list-style:none;
   text-align:center;
@@ -254,7 +257,67 @@ nav ul li:hover, nav ul li.active {
 }
 
 
+#nav {
+  font-size:15px;
+  width:100%;
+  position:fixed;
+  z-index:100;
+  top:0;
+  left:0;
+  background:#2e2e2e;
+  margin-bottom:100px;
+}
+
+
+#nav ul {
+  list-style:none;
+  text-align:center;
+  padding:0;
+  margin:0;
+  letter-spacing:-4px;
+}
+
+#nav ul li {
+  display:inline-block;
+  border-top:{{navborder}}px solid;
+  padding: {{navborder}}px;
+  *display:inline;
+  zoom:1;
+  line-height:normal;
+  letter-spacing:normal;
+  text-transform:uppercase;
+  min-width:110px;
+  line-height:60px;
+  margin:0;
+}
+
+#nav ul li a, #nav ul li a:visited {
+  display:block;
+  color:#fff;
+  text-decoration:none;
+  font-weight:600;
+  opacity:.75;
+}
+
+#nav ul li a:hover {
+  opacity:1
+}
+#nav ul li:hover, #nav ul li.active {
+  border-top-width: {{navborder_active}}px;
+  padding-top: 0;
+}
+
+
+
+
+
 /* ----- sections/articles ----- */
+
+
+.section:first-of-type {
+    padding-top: 140px;
+}
+
 
 .section {
   position:relative;
@@ -263,10 +326,6 @@ nav ul li:hover, nav ul li.active {
   min-height:300px;
   padding:50px 0;
   /* generated noise from noisetexturegenerator.com */
-}
-
-.section:first-of-type {
-    padding-top: 140px;
 }
 
 
