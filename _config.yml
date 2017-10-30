@@ -6,7 +6,7 @@ safe: false
 
 
 ### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
+exclude: [CNAME, README.md, .gitignore, junk]
 permalink: /:title ## disables post output
 timezone: null
 lsi: false
@@ -35,4 +35,13 @@ colors:
 
 kramdown:
   auto_ids:  false
+
+
+# for speaker individual pages: 
+collections:
+  speakers:
+    output: true
+    permalink: /:collection/:name
+
+
 

@@ -63,6 +63,13 @@ img {
 .img-left{
     float: left; 
 }
+
+.img-bio-left{
+    float: left;
+    max-width:350px!important;
+    margin: 25px;
+}
+
 .img-sponsor-icon
 {
     margin: 0 auto;
