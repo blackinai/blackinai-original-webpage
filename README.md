@@ -20,6 +20,8 @@ Black in AI
  - add yaml front matter as below
  - name image same as the md file up to extension add it to `img/` directory
  - the `layout: speaker` line should be included as is, that tells jekyll how to process the `.md` file for inclusion elsewhere
+ - see `2000-01-05-program.md` on how to include speakers within another section
+ - all speakers are added to `/speaker-list ` page
 
     ---
     layout: speaker 
