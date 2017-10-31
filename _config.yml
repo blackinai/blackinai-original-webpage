@@ -20,7 +20,7 @@ description: "Black in AI workshop home"
 source_link: "https://github.com/blackinai/blackinai.github.io"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/favicon.ico"
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
 
 
 
@@ -41,8 +41,6 @@ kramdown:
 # for speaker individual pages: 
 collections:
   speakers:
-    output: true
-    permalink: /:collection/:name
   segments:
     
 
