@@ -66,6 +66,13 @@ details[open] i{
   display:none;
 }
 
+/* ----- speaker page ------*/
+
+.speaker-role{
+  text-transform: capitalize;
+  text-align:center;
+}
+
 
 /* ----- base elements ----- */
 
