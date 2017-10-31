@@ -18,7 +18,7 @@
   <div id="main">
 
     <nav><ul>
-      {% for node in site..segments %}
+      {% for node in site.segments %}
         {% capture id %}{{ node.title | remove:'/' | downcase }}{% endcapture %}
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
       {% endfor %}
