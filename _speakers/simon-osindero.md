@@ -2,7 +2,7 @@
 layout: speaker
 display: Simon Osindero
 img: simon-osindero.jpg
-type:dinner
+type: dinner
 ---
 Dr Simon Osindero is a pioneer in the field of machine learning. His 2006
 post-doctoral research on deep belief networks in collaboration with Geoff Hinton
