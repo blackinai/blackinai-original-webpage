@@ -15,8 +15,8 @@ cofounded in 2009 to productize cutting-edge research from the fields of machine
 learning and human-computer interaction. Prior to starting LookFlow, he worked
 with a Montreal-based start-up, Idilia, designing machine learning algorithms for
 natural language processing.  
-He holds a MSci in physics, a BA/MA in natural sciences (physics, biochemistry,
-molecular biology, mathematics) from Cambridge University (1st Class), and a PhD
+He holds a MSci in physics and a BA/MA in natural sciences (physics, biochemistry,
+molecular biology, mathematics) from Cambridge University (1st Class) and a PhD
 in Computational Neuroscience from the Gatsby Unit, University College London. He
 has also worked as a visual and new-media artist, and holds degrees in Photography
 and Digital Design from Concordia University.
