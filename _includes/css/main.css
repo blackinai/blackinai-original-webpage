@@ -24,7 +24,7 @@ html { box-sizing: border-box; }
   #nav .p-{{id}} { border-color: {{ bg }}; }
   #{{id}} { background-color: {{ bg }} !important; color: {{ fg }}; }
   #{{id}} a { color: {{ emph }}; text-decoration: none;}
-  #{{id}} h1, h2, h3 { color: {{ emph }}; }
+  #{{id}} h1, h2, h3, h1 a { color: {{ emph }}; }
   #{{id}} .sectiondivider { color: {{ bg }}; }
 {% endfor %}
 
@@ -62,9 +62,20 @@ summary::-webkit-details-marker {
   border: none;
 }
 
+.speaker-more{
+  text-align:right!important;
+}
+
+.speaker-more a{
+  color: {{ emph }}; 
+  text-decoration: none;
+}
+
 details[open] i{
   display:none;
 }
+
+
 
 /* ----- speaker page ------*/
 
