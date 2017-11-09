@@ -166,6 +166,14 @@ img {
     float:right;
     max-width:150px!important;
 }
+.img-sponsor-third-c
+{
+    margin: auto;
+    margin-bottom: 25px;
+    display: block;
+    float:center;
+    max-width:150px!important;
+}
 
 hr {
   margin:20px auto;
