@@ -58,7 +58,7 @@ summary::-webkit-details-marker {
 }
 
 .speaker-name {
-  text-align:left!important; 
+  text-align:left!important;
   border: none;
 }
 
@@ -67,7 +67,7 @@ summary::-webkit-details-marker {
 }
 
 .speaker-more a{
-  color: {{ emph }}; 
+  color: {{ emph }};
   text-decoration: none;
 }
 
@@ -94,7 +94,7 @@ img {
 }
 
 .img-left{
-    float: left; 
+    float: left;
 }
 
 .img-bio-left{
@@ -146,6 +146,11 @@ img {
     display: block;
     float:right;
     max-width:300px!important;
+}
+
+.img-sponsor-third
+{
+    max-width:150px!important;
 }
 
 .img-sponsor-third-l
