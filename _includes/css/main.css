@@ -88,7 +88,6 @@ details[open] i{
 /* ----- base elements ----- */
 
 img {
-  max-width:100%!important;
   height:auto;
   vertical-align:middle;
 }
