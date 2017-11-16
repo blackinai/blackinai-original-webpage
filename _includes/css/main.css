@@ -187,6 +187,7 @@ hr {
 
 .container { word-wrap: break-word; }
 .center { text-align: center; }
+.center ul { text-align: left; }
 .justify { text-align: justify;}
 .left, .container .left { text-align: left; }
 
