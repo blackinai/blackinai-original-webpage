@@ -44,6 +44,7 @@ Thanks to the following members of the Black in AI community and supportive alli
  - Forough Poursabzi-Sangdeh
  - Alexandra Schofield
  - Frank Lanke Fu Tarimo
+ - Lyne Tchapmi
  - Kale-ab Tessera
  - Basiliyos Tilahun BETRU
  - Wil Thomason
