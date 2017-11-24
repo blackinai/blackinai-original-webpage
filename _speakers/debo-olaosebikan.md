@@ -1,6 +1,6 @@
 ---
 layout: speaker
-display: Debo Olaosebikan
+display: Debo Olaosebikan, Gigster
 img: debo-olaosebikan.jpg
 type: keynote
 link: https://www.linkedin.com/in/dolaoseb/

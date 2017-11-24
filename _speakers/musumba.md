@@ -1,0 +1,8 @@
+---
+layout: oral
+display: George W Musumba, Dedan Kimathi University of Technology
+type: oral
+---
+__Title__: Modelling Virtual Enterprises Using a Multi-Agent Systems Approach: A Case of Construction Industry for Third World Countries
+<br><br>
+__Abstract__: Nowadays enterprises work together towards a common goal by sharing responsibilities and profits as is the case for construction related projects. The construction sector’s potential contribution to the economic growth of developing countries can be enhanced if the challenges facing the sector that include delayed completion of projects, frequent collapse of buildings, lack of ethics, incompetent design, use of inappropriate materials, poor coordination and management of contractors are effectively addressed. These can be attributed to poor choice of partner enterprises for the tasks due to insufficient information available about them and lack of facilitation techniques. Selection of best partner among many for construction project is a Multi-Criteria Decision Making (MCDM) process. Existing MCDM techniques cannot be used to select right partners for construction projects. Fuzzy Analytical Hierarchy Process (FAHP) and Group Fuzzy Analytical Hierarchy Process (GFAHP), MCDM algorithms that learns partner attributes (machine learning technique incorporated), were designed and applied. A Multi-Agent Systems(MAS) approach was used for simulations. The approach provide efficient decision-making support for human beings using software agents. Results show that this technique is both efficient and effective. Validation of the system, carried out by stakeholders, show that it is approximately 99.7% accurate in the evaluation and selection of partners and partners's performance evaluation.

@@ -1,6 +1,6 @@
 ---
 layout: speaker
-display: Danielle Belgrave
+display: Danielle Belgrave, Microsoft Research
 img: danielle-belgrave.jpg
 type: keynote
 link: http://www.imperial.ac.uk/people/d.belgrave

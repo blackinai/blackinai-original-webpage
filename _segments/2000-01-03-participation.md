@@ -7,6 +7,7 @@ style: justify
 ---
 
 # Call for Participation
+
 ## Important Dates
  - October 13, 2017: Abstract submission deadline
  - October 13, 2017: Travel grant application deadline
@@ -23,6 +24,7 @@ Submissions can be up to two page abstracts and must state the research problem,
  - Submission page: [Black in AI CMT Page](https://cmt3.research.microsoft.com/BLACKINAI2017)
  - Travel Grants: In order to be considered for a travel grant, please select yes to the question Do you need a travel grant?
 
+<br>
 ## Travel Awards
 Need-based travel grants will be awarded to workshop participants. The travel grant can be used for covering costs associated with the workshop such as NIPS registration, accommodation and travel. Please note that the travel grants may not cover all of your costs and we may not be able to award them to all applicants. The amount of money we award to each person will depend on the number of applicants and the location each applicant will be traveling from.
 

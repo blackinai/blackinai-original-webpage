@@ -1,6 +1,6 @@
 ---
 layout: speaker
-display: Haben Girma
+display: Haben Girma, Harvard Law School
 img: haben-girma.jpg
 type: keynote
 link: https://habengirma.com/

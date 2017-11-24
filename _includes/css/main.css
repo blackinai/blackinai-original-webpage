@@ -60,6 +60,7 @@ summary::-webkit-details-marker {
 .speaker-name {
   text-align:left!important;
   border: none;
+  font-size:18px;
 }
 
 .speaker-more{
@@ -96,8 +97,8 @@ img {
 .img-logo{
     float: left;
     padding-right: 30px;
-    padding-bottom: 15px;
-    padding-top: 25px;
+    padding-bottom: 20px;
+    padding-top: 0px;
 }
 
 .img-left{
@@ -208,6 +209,8 @@ hr {
   font-size: 22px;
   padding: 0 0%;
   line-height: 150%;
+  margin-bottom: 0px;
+
 }
 .container ol, .container ul { padding: 0 8%; }
 .container p:first-of-type {

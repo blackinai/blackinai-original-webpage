@@ -12,4 +12,4 @@ __Sarah M. Brown__, University of California, Berkeley
 __Mouhamadou Moustapha Cisse__, Facebook AI Research  
 __Timnit Gebru__, Microsoft Research  
 __Sanmi Koyejo__, University of Illinois, Urbana-Champaign  
-__Lyne Tchapmi__, Stanford University
+__Lyne P. Tchapmi__, Stanford University

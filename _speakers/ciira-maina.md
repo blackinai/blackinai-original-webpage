@@ -1,6 +1,6 @@
 ---
 layout: speaker
-display: Ciira Maina
+display: Ciira Maina, Dedan Kimathi University of Technology
 img: ciira-maina.jpg
 type: keynote
 link: https://sites.google.com/site/cwamainadekut/
