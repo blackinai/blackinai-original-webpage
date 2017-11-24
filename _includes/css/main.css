@@ -92,6 +92,14 @@ img {
   vertical-align:middle;
 }
 
+
+.img-logo{
+    float: left;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    padding-top: 25px;
+}
+
 .img-left{
     float: left;
 }
