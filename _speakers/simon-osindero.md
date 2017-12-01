@@ -1,6 +1,6 @@
 ---
 layout: speaker
-display: Simon Osindero
+display: Simon Osindero, DeepMind
 img: simon-osindero.jpg
 type: dinner
 link: https://www.linkedin.com/in/osindero/

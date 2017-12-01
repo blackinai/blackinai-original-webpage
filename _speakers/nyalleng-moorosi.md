@@ -1,6 +1,6 @@
 ---
 layout: speaker
-display: Nyalleng Moorosi
+display: Nyalleng Moorosi, CSIR
 img: nyalleng-moorosi.jpg
 type: dinner
 link: http://dsideweb.github.io/people/program-leads/nyalleng-moorosi/
