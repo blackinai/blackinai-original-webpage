@@ -98,7 +98,7 @@ img {
     float: left;
     padding-right: 30px;
     padding-bottom: 10px;
-    padding-top: 10px;
+    padding-top: 35px;
 }
 
 .img-left{
@@ -147,10 +147,28 @@ img {
     float:left;
     max-width:300px!important;
 }
+.img-sponsor-l2
+{
+    margin: auto;
+    margin-bottom: 25px;
+    margin-left: 125px;
+    display: block;
+    float:left;
+    max-width:300px!important;
+}
 .img-sponsor-r
 {
     margin: auto;
     margin-bottom: 25px;
+    display: block;
+    float:right;
+    max-width:300px!important;
+}
+.img-sponsor-r2
+{
+    margin: auto;
+    margin-bottom: 25px;
+    margin-right: 125px;
     display: block;
     float:right;
     max-width:300px!important;
