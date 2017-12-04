@@ -1,2 +1,5 @@
 _site/
 junk/
+data
+*.py
+*ropeproject
