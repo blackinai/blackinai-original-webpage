@@ -14,7 +14,7 @@ style: justify
  - October 29, 2017: Notification of acceptance
  - October 31, 2017: Workshop registration deadline
  - December 8th from 1:30pm-5:30pm: Workshop
- - TBD: Dinner
+ - December 8th from 6:30pm-9:00pm: Dinner
 
 ## Submission Instructions
 We welcome theoretical, empirical, and applied work in machine learning and artificial intelligence, including, but not limited to, search, planning, knowledge representation, reasoning, natural language processing, computer vision, robotics, multiagent systems, statistical reasoning, and deep learning. Work may be previously published, completed, or ongoing. Submissions will be peer-reviewed by at least 2 reviewers. The workshop will not publish proceedings. The presenter must be a Black researcher in AI, and does not need to be first author.
