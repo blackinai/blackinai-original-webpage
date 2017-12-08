@@ -156,3 +156,5 @@ display: Accepted Posters
 <br>
 76.   An empirical experimental survey of application of Wilson’s edited Nearest Neighbour as a sampling and data reduction scheme to alleviate class imbalance problem,  S. O. Folorunso, Olabisi Onabanjo University; A. B. Adeyemo, University of Ibadan
 <br>
+77.   Luganda Text-to-Speech Machine, Irene Nandutu, Uganda Technology and Management University; Ernest Mwebaze, Makerere University
+<br>
