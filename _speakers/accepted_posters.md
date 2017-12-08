@@ -62,7 +62,7 @@ display: Accepted Posters
 <br>
 29.   DETECTION OF ULCERS FROM CAPSULE ENDOSCOPIC IMAGES USING CONVOLUTIONAL NEURAL NETWORKS, Isa Nuruddeen*, Makerere University Uganda
 <br>
-30.   Intelligent License Plate Recognition and Reporting, Misgina Tsighe Hagos*, Ethiopian Biotechnology Institute
+30.   Intelligent License Plate Recognition and Reporting, Yaecob Girmay Gezahegn, Addis Ababa University; Misgina Tsighe Hagos*, Ethiopian Biotechnology Institute; Dereje H.Mariam W.Gebreal, Addis Ababa University; Teklay GebreSlassie Zeferu, Addis Ababa University; G.agziabher Ngusse G.Tekle, Addis Ababa University; Yakob Kiros T.Haimanot, Mekelle University
 <br>
 31.   MODELLING CONTEXT FOR A DEEP RECURRENT NEURAL NETWORK LANGUAGE MODEL, Linda Khumalo*, University of the Witwatersrand
 <br>
@@ -148,7 +148,7 @@ display: Accepted Posters
 <br>
 72.   Automatic Radio Galaxy Classification using Deep Convolutional Neural Networks, Wathela Alhassan, University of Cape Town; R. Taylor, University of Cape Town, University of the Western Cape; Mattia Vaccari, University of the Western Cape
 <br>
-73.   Intelligent License Plate Recognition and Reporting, Yaecob Girmay Gezahegn, Addis Ababa University; Misgina Tsighe Hagos, Ethiopian Biotechnology Institute; Dereje H.Mariam W.Gebreal, Addis Ababa University; Teklay GebreSlassie Zeferu, Addis Ababa University; G.agziabher Ngusse G.Tekle, Addis Ababa University; Yakob Kiros T.Haimanot, Mekelle University
+73.   Dynamic Modelling of Cybercriminals Behaviour by Deep Neural Networks, Abiodun Modupe*
 <br>
 74.   Big data clustering with the use of the random projection features reduction and collaborative Fuzzy C-Means, Dang Trong Hop, Hanoi University of Industry; Pham The Long, Le Quy Don Technical University; Ngo Thanh Long, Le Quy Don Technical University; Fadugba Jeremiah, FPT University
 <br>
