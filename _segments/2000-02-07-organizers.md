@@ -5,11 +5,13 @@ color: black
 emph: blue
 ---
 
-# Organizers 
+# Workshop Co-Chairs 
 
-__Rediet Abebe__, Cornell University  
-__Sarah M. Brown__, University of California, Berkeley  
-__Mouhamadou Moustapha Cisse__, Facebook AI Research  
-__Timnit Gebru__, Microsoft Research  
-__Sanmi Koyejo__, University of Illinois, Urbana-Champaign  
-__Lyne P. Tchapmi__, Stanford University
+Rediet Abebe, Cornell University
+Esube Bekele, US Naval Research Laboratory
+Sarah Brown, Brown University
+Mouhamadou Moustapha Cisse, Google AI
+Timnit Gebru, Microsoft Research 
+Judy Wawira Gichoya, Oregon Health and Science University
+Devin Guillory, Etsy
+Sanmi Koyejo, University of Illinois, Urbana Champaign
