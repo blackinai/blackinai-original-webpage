@@ -17,7 +17,6 @@ style: justify
  - December 7th, 2018: Workshop
  - December 7th from 6:30pm-9:00pm: Dinner
 
-<br>
 ## Submission Instructions
 We welcome work in artificial intelligence, including, but not limited to, computer vision, deep learning, knowledge reasoning, machine learning, multi-agent systems, natural language processing, statistical reasoning, theory, robotics, as well as applications of AI to other domains such as health and education, and submissions concerning fairness, ethics, and transparency in AI. Papers may introduce new theory, methodology, or applications. We also welcome position papers and demos related to these areas. Work may be previously published, completed, or ongoing. Submissions will be peer-reviewed by at least 2 reviewers in the area. The workshop will not publish proceedings. We encourage all Black researchers in the field to submit their work, and do not need to be first author of the work.  
 
