@@ -1,5 +1,5 @@
 ---
-title: "CFP"
+title: "CFP 2018"
 bg: white
 color: black
 emph: blue
