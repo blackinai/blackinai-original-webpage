@@ -7,11 +7,11 @@ emph: blue
 
 # Workshop Co-Chairs 
 
-Rediet Abebe, Cornell University  
-Esube Bekele, US Naval Research Laboratory  
-Sarah Brown, Brown University  
-Mouhamadou Moustapha Cisse, Google AI  
-Timnit Gebru, Microsoft Research  
-Judy Wawira Gichoya, Oregon Health and Science University  
-Devin Guillory, Etsy  
-Sanmi Koyejo, University of Illinois, Urbana Champaign
+[Rediet Abebe](https://www.cs.cornell.edu/~red/), Cornell University  
+[Esube Bekele](), US Naval Research Laboratory  
+[Sarah Brown](http://sarahmbrown.org/), Brown University  
+[Mouhamadou Moustapha Cisse](http://moustaphacisse.com/), Google AI  
+[Timnit Gebru](http://ai.stanford.edu/~tgebru/), Microsoft Research  
+[Judy Wawira Gichoya](http://www.gichoya.me/about/), Oregon Health and Science University  
+[Devin Guillory](), Etsy  
+[Sanmi Koyejo](http://sanmi.cs.illinois.edu/), University of Illinois, Urbana Champaign
