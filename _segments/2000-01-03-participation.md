@@ -25,6 +25,8 @@ Submissions may be up to two pages including all figures and tables, with an add
 <br>
 Submissions must state the research problem, motivation, and technical contribution. Submissions must be self-contained and include all figures, tables, and references. The submission page can be found [here](https://cmt3.research.microsoft.com/BLACKINAI2018/Submission/Manage) and the submission deadline is __5:00 PM EST, August 30, 2018__. Please note that no extensions will be offered for submissions.
 
+Here are a set of good sample papers from 2017: [sample papers](https://github.com/blackinai/blackinai.github.io/tree/master/papers)
+
 ---
 
 ## Travel Awards
