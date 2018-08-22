@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Black in AI on Black in AI</title>
+    <link>https://esube.github.io/</link>
+    <description>Recent content in Black in AI on Black in AI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Black in AI</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2017 Sponsors 2017</title>
+      <link>https://esube.github.io/ws_2017/sponsors/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:05 -0400</pubDate>
+      
+      <guid>https://esube.github.io/ws_2017/sponsors/</guid>
+      <description>
+
+&lt;p&gt;Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.&lt;/p&gt;
+
+&lt;h2 id=&#34;black-power-in-ai-img-blackinai-png&#34;&gt;&lt;img src=&#34;https://esube.github.io/img/blackinai.png&#34; alt=&#34;Black Power in AI&#34; /&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://esube.github.io/img/facebook.jpg&#34; alt=&#34;Facebook&#34; /&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://esube.github.io/img/microsoft.png&#34; alt=&#34;Microsoft&#34; /&gt;
+&lt;img src=&#34;https://esube.github.io/img/google.png&#34; alt=&#34;Google&#34; /&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id=&#34;system-img-fa-code-png&#34;&gt;&lt;img src=&#34;https://esube.github.io/img/fa-code.png&#34; alt=&#34;System&#34; /&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://esube.github.io/img/deepmind.png&#34; alt=&#34;DeepMind&#34; /&gt;&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h2 id=&#34;component-img-fa-chip-png&#34;&gt;&lt;img src=&#34;https://esube.github.io/img/fa-chip.png&#34; alt=&#34;Component&#34; /&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://esube.github.io/img/elementai.png&#34; alt=&#34;ElementAI&#34; /&gt;
+&lt;img src=&#34;https://esube.github.io/img/airbnb.png&#34; alt=&#34;Airbnb&#34; /&gt;
+&lt;img src=&#34;https://esube.github.io/img/savoy.jpg&#34; alt=&#34;Savoy Venture Partners&#34; /&gt;
+&lt;img src=&#34;https://esube.github.io/img/uber.png&#34; alt=&#34;Uber&#34; /&gt;
+&lt;hr&gt;&lt;/p&gt;
+
+&lt;p&gt;We thank &lt;a href=&#34;https://b4capitalgroup.com/&#34; target=&#34;_blank&#34;&gt;B4 Capital Group&lt;/a&gt; for their support
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;We also thank the following institutions  for sponsoring their students to attend the  workshop&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cornell University&lt;/li&gt;
+&lt;li&gt;Duke University&lt;/li&gt;
+&lt;li&gt;Harvard University&lt;/li&gt;
+&lt;li&gt;Stanford University&lt;/li&gt;
+&lt;li&gt;University of California, Berkeley&lt;/li&gt;
+&lt;li&gt;University of Illinois at Urbana-Champaign&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Organizers 2017</title>
+      <link>https://esube.github.io/ws_2017/organizers/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:04 -0400</pubDate>
+      
+      <guid>https://esube.github.io/ws_2017/organizers/</guid>
+      <description>
+
+&lt;h1 id=&#34;workshop-co-chairs&#34;&gt;Workshop Co-Chairs&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Rediet Abebe&lt;/strong&gt;, Cornell University&lt;br /&gt;
+&lt;strong&gt;Sarah M. Brown&lt;/strong&gt;, University of California, Berkeley&lt;br /&gt;
+&lt;strong&gt;Mouhamadou Moustapha Cisse&lt;/strong&gt;, Facebook AI Research&lt;br /&gt;
+&lt;strong&gt;Timnit Gebru&lt;/strong&gt;, Microsoft Research&lt;br /&gt;
+&lt;strong&gt;Sanmi Koyejo&lt;/strong&gt;, University of Illinois, Urbana-Champaign&lt;br /&gt;
+&lt;strong&gt;Lyne P. Tchapmi&lt;/strong&gt;, Stanford University&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;2017-program-committee&#34;&gt;2017 Program Committee&lt;/h1&gt;
+
+&lt;p&gt;Thanks to the following members of the Black in AI community and supportive allies for helping review the submissions.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Rediet Abebe&lt;/li&gt;
+&lt;li&gt;Justice Amoh&lt;/li&gt;
+&lt;li&gt;Silèye Ba&lt;/li&gt;
+&lt;li&gt;Irwan Bello&lt;/li&gt;
+&lt;li&gt;Samy Bengio&lt;/li&gt;
+&lt;li&gt;Sarah M. Brown&lt;/li&gt;
+&lt;li&gt;Joy Buolamwini&lt;/li&gt;
+&lt;li&gt;Diana Cai&lt;/li&gt;
+&lt;li&gt;Moustapha Cisse&lt;/li&gt;
+&lt;li&gt;Charles Cearl&lt;/li&gt;
+&lt;li&gt;Tewodros Dagnew&lt;/li&gt;
+&lt;li&gt;Hal Daumé III&lt;/li&gt;
+&lt;li&gt;Ousmane Dia&lt;/li&gt;
+&lt;li&gt;Ashley Edwards&lt;/li&gt;
+&lt;li&gt;Oluwaseun Francis Egbelowo&lt;/li&gt;
+&lt;li&gt;Dylan Foster&lt;/li&gt;
+&lt;li&gt;Fisseha Gidey Gebremedhin&lt;/li&gt;
+&lt;li&gt;Timnit Gebru&lt;/li&gt;
+&lt;li&gt;Christan Grant&lt;/li&gt;
+&lt;li&gt;Alvin Grissom II&lt;/li&gt;
+&lt;li&gt;Bernease Herman&lt;/li&gt;
+&lt;li&gt;Jack Hessel&lt;/li&gt;
+&lt;li&gt;Abigail Jacobs&lt;/li&gt;
+&lt;li&gt;Emmanuel Johnson&lt;/li&gt;
+&lt;li&gt;Sanmi Koyejo&lt;/li&gt;
+&lt;li&gt;Ciira Maina&lt;/li&gt;
+&lt;li&gt;nyalleng moorosi&lt;/li&gt;
+&lt;li&gt;George Musumba&lt;/li&gt;
+&lt;li&gt;Ndapa Nakashole&lt;/li&gt;
+&lt;li&gt;Ehi Nosakhare&lt;/li&gt;
+&lt;li&gt;Billy Okal&lt;/li&gt;
+&lt;li&gt;Charles Onu&lt;/li&gt;
+&lt;li&gt;Forough Poursabzi-Sangdeh&lt;/li&gt;
+&lt;li&gt;Alexandra Schofield&lt;/li&gt;
+&lt;li&gt;Frank Lanke Fu Tarimo&lt;/li&gt;
+&lt;li&gt;Lyne P. Tchapmi&lt;/li&gt;
+&lt;li&gt;Kale-ab Tessera&lt;/li&gt;
+&lt;li&gt;Basiliyos Tilahun BETRU&lt;/li&gt;
+&lt;li&gt;Wil Thomason&lt;/li&gt;
+&lt;li&gt;Marcelo Worsley&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Organizers 2018</title>
+      <link>https://esube.github.io/ws_2018/organizers/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:03 -0400</pubDate>
+      
+      <guid>https://esube.github.io/ws_2018/organizers/</guid>
+      <description>
+
+&lt;h1 id=&#34;workshop-co-chairs&#34;&gt;Workshop Co-Chairs&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.cs.cornell.edu/~red/&#34; target=&#34;_blank&#34;&gt;Rediet Abebe&lt;/a&gt;, Cornell University&lt;br /&gt;
+[Esube Bekele](), US Naval Research Laboratory&lt;br /&gt;
+&lt;a href=&#34;http://sarahmbrown.org/&#34; target=&#34;_blank&#34;&gt;Sarah Brown&lt;/a&gt;, Brown University&lt;br /&gt;
+&lt;a href=&#34;http://moustaphacisse.com/&#34; target=&#34;_blank&#34;&gt;Mouhamadou Moustapha Cisse&lt;/a&gt;, Google AI&lt;br /&gt;
+&lt;a href=&#34;http://ai.stanford.edu/~tgebru/&#34; target=&#34;_blank&#34;&gt;Timnit Gebru&lt;/a&gt;, Microsoft Research&lt;br /&gt;
+&lt;a href=&#34;http://www.gichoya.me/about/&#34; target=&#34;_blank&#34;&gt;Judy Wawira Gichoya&lt;/a&gt;, Oregon Health and Science University&lt;br /&gt;
+[Devin Guillory](), Etsy&lt;br /&gt;
+&lt;a href=&#34;http://sanmi.cs.illinois.edu/&#34; target=&#34;_blank&#34;&gt;Sanmi Koyejo&lt;/a&gt;, University of Illinois, Urbana Champaigns&lt;/p&gt;
+
+&lt;h1 id=&#34;2018-program-committee&#34;&gt;2018 Program Committee&lt;/h1&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;Name&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Institution/Organization&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Ousmane Amadou Dia&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Element AI&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Irwan Bello&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Google Brain&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Charles Earl&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Automattic&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Zanele Munyikwa&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;MIT Sloan School of Management&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Oluwaseun Francis Egbelowo&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;University of the Witwatersrand South Africa&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Justice Amoh&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Dartmouth College&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Jack Hessel&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Cornell University&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Samy Bengio&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Google Brain&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Abigail Jacobs&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;University of California Berkeley&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Hal DaumĂŠ III&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Microsoft Research / University of Maryland&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Ben Green&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Harvard&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Basiliyos Tilahun BETRU&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;University of Yaounde I National Advanced School of Engneering&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Ehi Nosakhare&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;MIT&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Dhaval Adjodah&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;MIT Media Lab&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Kale-ab Tessera&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;University of Witwatersrand&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Lily Hu&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Harvard University&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Charles C Onu&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;McGill University&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Alvin Grissom II&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Ursinus College&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Billy Okal&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Voyage&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Zachary C Lipton&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;CMU&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Awa Dieng&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Duke University&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Adji Bousso Dieng&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Columbia&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;VICTOR C DIBIA&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;IBM Research&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Rachel Thomas&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;fast.ai &amp;amp; University of San Francisco&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Jenn Wortman Vaughan&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Microsoft Research&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;David Robinson&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Cornell AIPP&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Forough Poursabzi-Sangdeh&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Microsoft Research&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Lucio Dery&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Stanford / Facebook&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;sileye ba&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Dailymotion&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Hugo Larochelle&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Google Brain&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Diana Cai&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Princeton University&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Alemu Leulseged Tesfaye&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Ca&amp;rsquo; Foscari University of Venice&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Kristian Lum&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;HRDAG&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Ian Goodfellow&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Google Brain&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Sorelle Friedler&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Haverford College&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Johan Ugander&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Stanford University&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Melissa Woghiren&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;University of Alberta&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Robert Ness&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Gamalon Inc&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Vukosi Marivate&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;University of PRetoria&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Ciira Maina&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Dedan Kimathi University of Technology&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Margaret Mitchell&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Google&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Gebremedhin Fisseha Gidey&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;National Advanced School of Engineering University Of Yaounde I&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Bernease Herman&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;University of Washington&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Natalie Schluter&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;IT University of Copenhagen&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Evan Rosenman&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Stanford University&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Wil Thomason&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Cornell CS&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Amar Ashar&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Berkman Klein Center for Internet &amp;amp; Society&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Negar Rostamzadeh&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Element AI&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Vicente Ordonez&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;University of Virginia&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;David Bindel&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Cornell University&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Ashley Edwards&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Georgia Tech&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Emmanuel Johnson&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;USC&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Rachael Tatman&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Kaggle&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Matthew Tesfaldet&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;York University &amp;amp; Vector Institute of Artificial Intelligence&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Nyalleng Moorosi&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;None&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Ruth Fong&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;University of Oxford&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Christan Grant&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;University of Oklahoma&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Alexis Cook&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Udacity&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Yoseph Berhanu Alebachew&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Department of Computer Science Addis Ababa University&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Lanke Frank Fu&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Ascent Robotics&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Amsale Zelalem&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Addis Ababa University Computer Science Department&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Ayalew Belay (PhD)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Addis Ababa University&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Marcelo Worsley&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;NORTHWESTERN UNIVERSITY&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Solomon Gizaw&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Addis Ababa University&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Tao Xie&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;University of Illinois at Urbana-Champaign&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;Lonnie T Parker&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;NAVSEA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Travel Grants 2017</title>
+      <link>https://esube.github.io/ws_2017/grants/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:03 -0400</pubDate>
+      
+      <guid>https://esube.github.io/ws_2017/grants/</guid>
+      <description>
+
+&lt;h2 id=&#34;travel-awards&#34;&gt;Travel Awards&lt;/h2&gt;
+
+&lt;p&gt;Need-based travel grants will be awarded to workshop participants. The travel grant can be used for covering costs associated with the workshop such as NIPS registration, accommodation and travel. Please note that the travel grants may not cover all of your costs and we may not be able to award them to all applicants. The amount of money we award to each person will depend on the number of applicants and the location each applicant will be traveling from.&lt;/p&gt;
+
+&lt;p&gt;If you are a student who has not conducted research and would like a travel grant to attend our workshop, you may do so by either:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Submitting an abstract, and a paragraph describing financial need on the conference submission page OR&lt;/li&gt;
+&lt;li&gt;Submitting a one page statement describing your research interests in AI and reasons for participating in the workshop, and a paragraph describing financial need on the conference submission page&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These must be done by the deadline, &lt;strong&gt;October 13, 2017&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Submission Instructions 2017</title>
+      <link>https://esube.github.io/ws_2017/submissions/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:02 -0400</pubDate>
+      
+      <guid>https://esube.github.io/ws_2017/submissions/</guid>
+      <description>&lt;p&gt;We welcome theoretical, empirical, and applied work in machine learning and artificial intelligence, including, but not limited to, search, planning, knowledge representation, reasoning, natural language processing, computer vision, robotics, multiagent systems, statistical reasoning, and deep learning. Work may be previously published, completed, or ongoing. Submissions will be peer-reviewed by at least 2 reviewers. The workshop will not publish proceedings. The presenter must be a Black researcher in AI, and does not need to be first author.&lt;/p&gt;
+
+&lt;p&gt;Submissions can be up to two page abstracts and must state the research problem, motivation, and technical contribution. Submissions must be self-contained and include all figures, tables, and references.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Submission page: &lt;a href=&#34;https://cmt3.research.microsoft.com/BLACKINAI2017&#34; target=&#34;_blank&#34;&gt;Black in AI CMT Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Travel Grants: In order to be considered for a travel grant, please select yes to the question Do you need a travel grant?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Travel Grants 2018</title>
+      <link>https://esube.github.io/ws_2018/grants/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:02 -0400</pubDate>
+      
+      <guid>https://esube.github.io/ws_2018/grants/</guid>
+      <description>
+
+&lt;h2 id=&#34;travel-awards&#34;&gt;Travel Awards&lt;/h2&gt;
+
+&lt;p&gt;Need-based travel grants will be awarded to workshop participants. Participants do not need to submit a paper in order to be considered for a travel grant. The travel grant can be used for covering costs associated with the workshop such as NIPS registration, accommodation and travel. Please note that the travel grants may not cover all of your costs and we may not be able to award them to all applicants. The amount of money we award to each person will depend on the number of applicants and the location each applicant will be traveling from. Please submit your travel grant application by &lt;strong&gt;5:00 PM EST, August 24st&lt;/strong&gt; by filling out &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfhjdWiCTPDneG-u226iXCxcXLy9sqDyEHjdeXO9X6vTDDAQw/viewform&#34; target=&#34;_blank&#34;&gt;the travel grant application form&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Call for Participation 2017</title>
+      <link>https://esube.github.io/ws_2017/cfp/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:01 -0400</pubDate>
+      
+      <guid>https://esube.github.io/ws_2017/cfp/</guid>
+      <description>
+
+&lt;p&gt;The first Black in AI event will be co-located with &lt;a href=&#34;https://nips.cc/&#34; target=&#34;_blank&#34;&gt;NIPS 2017&lt;/a&gt; in the &lt;strong&gt;Pike Ballroom&lt;/strong&gt; at the &lt;a href=&#34;http://www.marriott.com/hotels/travel/lgbrn-renaissance-long-beach-hotel&#34; target=&#34;_blank&#34;&gt;Renaissance Long Beach Hotel&lt;/a&gt;  in Long Beach, California on December 8th from 1:00pm to 6:00pm. The poster session will be held at the &lt;strong&gt;Broadlind 2&lt;/strong&gt; room on the second floor of the Renaissance hotel. The workshop will be followed by dinner 6:30-8:30. We invite Black AI researchers from around the world to share their work and learn about others’ research. The workshop will have invited talks from prominent researchers, oral presentations, and a poster session. There will also be socials to facilitate networking, discussion of different career opportunities in AI, and sharing of ideas to increase participation of Black researchers in the field. We invite all Black researchers, including undergraduates, graduate students, faculty, and researchers in industry to participate in this workshop. People of all races are also invited to attend the workshop to learn about the research being conducted by Black researchers across the world. Deadline for registration is October 31, 2017 and can done &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfxDyUB0z--LwPNfK9ypOmNPMHf2wc51DuqSvituMtD53mGbA/viewform&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;. Please register as soon as possible to help us figure out headcount.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;October 13, 2017: Abstract submission deadline&lt;/li&gt;
+&lt;li&gt;October 13, 2017: Travel grant application deadline&lt;/li&gt;
+&lt;li&gt;October 29, 2017: Notification of acceptance&lt;/li&gt;
+&lt;li&gt;October 31, 2017: Workshop registration deadline&lt;/li&gt;
+&lt;li&gt;December 8th from 1:00pm-5:30pm: Workshop&lt;/li&gt;
+&lt;li&gt;December 8th from 6:30pm-9:00pm: Dinner&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Submission Instructions 2018</title>
+      <link>https://esube.github.io/ws_2018/submissions/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:01 -0400</pubDate>
+      
+      <guid>https://esube.github.io/ws_2018/submissions/</guid>
+      <description>&lt;p&gt;We welcome work in artificial intelligence, including, but not limited to, computer vision, deep learning, knowledge reasoning, machine learning, multi-agent systems, natural language processing, statistical reasoning, theory, robotics, as well as applications of AI to other domains such as health and education, and submissions concerning fairness, ethics, and transparency in AI. Papers may introduce new theory, methodology, or applications. We also welcome position papers and demos related to these areas. Work may be previously published, completed, or ongoing. Submissions will be peer-reviewed by at least 2 reviewers in the area. The workshop will not publish proceedings. We encourage all Black researchers in the field to submit their work, and do not need to be first author of the work.&lt;br /&gt;
+&lt;br&gt;
+Submissions may be up to two pages including all figures and tables, with an additional page for references. The submissions should be in a single column. They should be typeset using 11-point or larger fonts and should have at least 1-inch margin all around. Submissions that do not follow these guidelines risk being rejected without consideration of their merits.&lt;br /&gt;
+&lt;br&gt;
+Submissions must state the research problem, motivation, and technical contribution. Submissions must be self-contained and include all figures, tables, and references. The submission page can be found &lt;a href=&#34;https://cmt3.research.microsoft.com/BLACKINAI2018&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; and the submission deadline is &lt;strong&gt;5:00 PM EST, August 30, 2018&lt;/strong&gt;. Please note that no extensions will be offered for submissions.&lt;/p&gt;
+
+&lt;p&gt;Here are a set of good sample papers from 2017: &lt;a href=&#34;https://github.com/blackinai/blackinai.github.io/tree/master/papers&#34; target=&#34;_blank&#34;&gt;sample papers&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Call for Participation 2018</title>
+      <link>https://esube.github.io/ws_2018/cfp/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://esube.github.io/ws_2018/cfp/</guid>
+      <description>&lt;p&gt;The second Black in AI event will be co-located with &lt;a href=&#34;https://nips.cc/&#34; target=&#34;_blank&#34;&gt;NIPS 2018&lt;/a&gt; at the &lt;a href=&#34;https://congresmtl.com/&#34; target=&#34;_blank&#34;&gt;Palais des Congrès de Montréal (Montreal Convention Centre)&lt;/a&gt;  in Montréal CANADA on December 7th from 1:00pm to 6:00pm. The workshop will feature invited talks from prominent researchers and practitioners, oral presentations, and a poster session. There will also be socials to facilitate networking, discussion of different career opportunities in AI, and sharing of ideas to increase participation of Black researchers in the field. We invite all members of the AI community to attend the workshop. The early registration deadline for the conference is October 24, 2018. We strongly encourage workshop attendees to register for the workshops as early as possible. The registration can be found &lt;a href=&#34;https://nips.cc/accounts/login/?next=/Profile&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;August 24, 2018: Travel grant application deadline&lt;/li&gt;
+&lt;li&gt;August 30, 2018: Abstract submission deadline&lt;/li&gt;
+&lt;li&gt;September 21, 2018: Notification of travel grant acceptance&lt;/li&gt;
+&lt;li&gt;September 30, 2018: Notification of submission acceptance&lt;/li&gt;
+&lt;li&gt;October 24, 2018: NIPS early registration deadline&lt;/li&gt;
+&lt;li&gt;December 7th, 2018: Workshop&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
