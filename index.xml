@@ -137,10 +137,10 @@
       <guid>https://esube.github.io/ws_2018/organizers/</guid>
       <description>
 
-&lt;h1 id=&#34;workshop-co-chairs&#34;&gt;Workshop Co-Chairs&lt;/h1&gt;
+&lt;h2 id=&#34;workshop-co-chairs&#34;&gt;Workshop Co-Chairs&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://www.cs.cornell.edu/~red/&#34; target=&#34;_blank&#34;&gt;Rediet Abebe&lt;/a&gt;, Cornell University&lt;br /&gt;
-[Esube Bekele](), US Naval Research Laboratory&lt;br /&gt;
+&lt;a href=&#34;https://esube.github.io&#34; target=&#34;_blank&#34;&gt;Esube Bekele&lt;/a&gt;, US Naval Research Laboratory&lt;br /&gt;
 &lt;a href=&#34;http://sarahmbrown.org/&#34; target=&#34;_blank&#34;&gt;Sarah Brown&lt;/a&gt;, Brown University&lt;br /&gt;
 &lt;a href=&#34;http://moustaphacisse.com/&#34; target=&#34;_blank&#34;&gt;Mouhamadou Moustapha Cisse&lt;/a&gt;, Google AI&lt;br /&gt;
 &lt;a href=&#34;http://ai.stanford.edu/~tgebru/&#34; target=&#34;_blank&#34;&gt;Timnit Gebru&lt;/a&gt;, Microsoft Research&lt;br /&gt;
@@ -148,345 +148,390 @@
 [Devin Guillory](), Etsy&lt;br /&gt;
 &lt;a href=&#34;http://sanmi.cs.illinois.edu/&#34; target=&#34;_blank&#34;&gt;Sanmi Koyejo&lt;/a&gt;, University of Illinois, Urbana Champaigns&lt;/p&gt;
 
-&lt;h1 id=&#34;2018-program-committee&#34;&gt;2018 Program Committee&lt;/h1&gt;
+&lt;h2 id=&#34;2018-program-committee&#34;&gt;2018 Program Committee&lt;/h2&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;Name&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Institution/Organization&lt;/th&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Institution / Company&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Ousmane Amadou Dia&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Element AI&lt;/td&gt;
+&lt;td&gt;Rediet Abebe&lt;/td&gt;
+&lt;td&gt;Cornell University&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Irwan Bello&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Google Brain&lt;/td&gt;
+&lt;td&gt;Dhaval Adjodah&lt;/td&gt;
+&lt;td&gt;MIT Media Lab&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Charles Earl&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Automattic&lt;/td&gt;
+&lt;td&gt;Yoseph Berhanu Alebachew&lt;/td&gt;
+&lt;td&gt;Addis Ababa University&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Zanele Munyikwa&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;MIT Sloan School of Management&lt;/td&gt;
+&lt;td&gt;Justice Amoh&lt;/td&gt;
+&lt;td&gt;Dartmouth College&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Oluwaseun Francis Egbelowo&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;University of the Witwatersrand South Africa&lt;/td&gt;
+&lt;td&gt;Amar Ashar&lt;/td&gt;
+&lt;td&gt;Berkman Klein Center for Internet &amp;amp; Society&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Justice Amoh&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Dartmouth College&lt;/td&gt;
+&lt;td&gt;Sileye Ba&lt;/td&gt;
+&lt;td&gt;Dailymotion&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Jack Hessel&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Cornell University&lt;/td&gt;
+&lt;td&gt;Esube Bekele&lt;/td&gt;
+&lt;td&gt;US Naval Research Laboratory&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Samy Bengio&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Google Brain&lt;/td&gt;
+&lt;td&gt;Ayalew Belay&lt;/td&gt;
+&lt;td&gt;Addis Ababa University&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Abigail Jacobs&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;University of California Berkeley&lt;/td&gt;
+&lt;td&gt;Irwan Bello&lt;/td&gt;
+&lt;td&gt;Google Brain&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Hal DaumĂŠ III&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Microsoft Research / University of Maryland&lt;/td&gt;
+&lt;td&gt;Samy Bengio&lt;/td&gt;
+&lt;td&gt;Google Brain&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Ben Green&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Harvard&lt;/td&gt;
+&lt;td&gt;Basiliyos Tilahun Betru&lt;/td&gt;
+&lt;td&gt;National Advanced School of Engineering University Of Yaounde I&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Basiliyos Tilahun BETRU&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;University of Yaounde I National Advanced School of Engneering&lt;/td&gt;
+&lt;td&gt;David Bindel&lt;/td&gt;
+&lt;td&gt;Cornell University&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Ehi Nosakhare&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;MIT&lt;/td&gt;
+&lt;td&gt;Sarah Brown&lt;/td&gt;
+&lt;td&gt;Brown University&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Dhaval Adjodah&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;MIT Media Lab&lt;/td&gt;
+&lt;td&gt;Diana Cai&lt;/td&gt;
+&lt;td&gt;Princeton University&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Kale-ab Tessera&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;University of Witwatersrand&lt;/td&gt;
+&lt;td&gt;Mouhamadou Moustapha Cisse&lt;/td&gt;
+&lt;td&gt;Google AI&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Lily Hu&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Harvard University&lt;/td&gt;
+&lt;td&gt;Alexis Cook&lt;/td&gt;
+&lt;td&gt;Udacity&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Charles C Onu&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;McGill University&lt;/td&gt;
+&lt;td&gt;Hal Daumé III&lt;/td&gt;
+&lt;td&gt;Microsoft Research / University of Maryland&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Alvin Grissom II&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Ursinus College&lt;/td&gt;
+&lt;td&gt;Lucio Dery&lt;/td&gt;
+&lt;td&gt;Stanford / Facebook&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Billy Okal&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Voyage&lt;/td&gt;
+&lt;td&gt;Ousmane Amadou Dia&lt;/td&gt;
+&lt;td&gt;Element AI&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Zachary C Lipton&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;CMU&lt;/td&gt;
+&lt;td&gt;Victor C Dibia&lt;/td&gt;
+&lt;td&gt;IBM Research&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Awa Dieng&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Duke University&lt;/td&gt;
+&lt;td&gt;Adji Bousso Dieng&lt;/td&gt;
+&lt;td&gt;Columbia&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Adji Bousso Dieng&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Columbia&lt;/td&gt;
+&lt;td&gt;Awa Dieng&lt;/td&gt;
+&lt;td&gt;Duke University&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;VICTOR C DIBIA&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;IBM Research&lt;/td&gt;
+&lt;td&gt;Charles Earl&lt;/td&gt;
+&lt;td&gt;Automattic&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Rachel Thomas&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;fast.ai &amp;amp; University of San Francisco&lt;/td&gt;
+&lt;td&gt;Ashley Edwards&lt;/td&gt;
+&lt;td&gt;Georgia Institute of Technology&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Jenn Wortman Vaughan&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Microsoft Research&lt;/td&gt;
+&lt;td&gt;Oluwaseun Francis Egbelowo&lt;/td&gt;
+&lt;td&gt;University of the Witwatersrand&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;David Robinson&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Cornell AIPP&lt;/td&gt;
+&lt;td&gt;Ruth Fong&lt;/td&gt;
+&lt;td&gt;University of Oxford&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Forough Poursabzi-Sangdeh&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Microsoft Research&lt;/td&gt;
+&lt;td&gt;Lanke Frank Fu&lt;/td&gt;
+&lt;td&gt;Ascent Robotics&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Lucio Dery&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Stanford / Facebook&lt;/td&gt;
+&lt;td&gt;Sorelle Friedler&lt;/td&gt;
+&lt;td&gt;Haverford College&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;sileye ba&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Dailymotion&lt;/td&gt;
+&lt;td&gt;Timnit Gebru&lt;/td&gt;
+&lt;td&gt;Microsoft Research&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Hugo Larochelle&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Google Brain&lt;/td&gt;
+&lt;td&gt;Judy Wawira Gichoya&lt;/td&gt;
+&lt;td&gt;Oregon Health and Science University&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Diana Cai&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Princeton University&lt;/td&gt;
+&lt;td&gt;Gebremedhin Fisseha Gidey&lt;/td&gt;
+&lt;td&gt;National Advanced School of Engineering University Of Yaounde I&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Alemu Leulseged Tesfaye&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Ca&amp;rsquo; Foscari University of Venice&lt;/td&gt;
+&lt;td&gt;Solomon Gizaw&lt;/td&gt;
+&lt;td&gt;Addis Ababa University&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Kristian Lum&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;HRDAG&lt;/td&gt;
+&lt;td&gt;Ian Goodfellow&lt;/td&gt;
+&lt;td&gt;Google Brain&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Ian Goodfellow&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Google Brain&lt;/td&gt;
+&lt;td&gt;Christan Grant&lt;/td&gt;
+&lt;td&gt;University of Oklahoma&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Sorelle Friedler&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Haverford College&lt;/td&gt;
+&lt;td&gt;Ben Green&lt;/td&gt;
+&lt;td&gt;Harvard University&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Johan Ugander&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Stanford University&lt;/td&gt;
+&lt;td&gt;Alvin Grissom II&lt;/td&gt;
+&lt;td&gt;Ursinus College&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Melissa Woghiren&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;University of Alberta&lt;/td&gt;
+&lt;td&gt;Devin Guillory&lt;/td&gt;
+&lt;td&gt;Etsy&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Robert Ness&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Gamalon Inc&lt;/td&gt;
+&lt;td&gt;Bernease Herman&lt;/td&gt;
+&lt;td&gt;University of Washington&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Vukosi Marivate&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;University of PRetoria&lt;/td&gt;
+&lt;td&gt;Jack Hessel&lt;/td&gt;
+&lt;td&gt;Cornell University&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Ciira Maina&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Dedan Kimathi University of Technology&lt;/td&gt;
+&lt;td&gt;Lily Hu&lt;/td&gt;
+&lt;td&gt;Harvard University&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Margaret Mitchell&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Google&lt;/td&gt;
+&lt;td&gt;Abigail Jacobs&lt;/td&gt;
+&lt;td&gt;University of California Berkeley&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Gebremedhin Fisseha Gidey&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;National Advanced School of Engineering University Of Yaounde I&lt;/td&gt;
+&lt;td&gt;Emmanuel Johnson&lt;/td&gt;
+&lt;td&gt;University of Southern California&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Bernease Herman&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;University of Washington&lt;/td&gt;
+&lt;td&gt;Sanmi Koyejo&lt;/td&gt;
+&lt;td&gt;University of Illinois at Urbana-Champaign&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Natalie Schluter&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;IT University of Copenhagen&lt;/td&gt;
+&lt;td&gt;Hugo Larochelle&lt;/td&gt;
+&lt;td&gt;Google Brain&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Evan Rosenman&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Stanford University&lt;/td&gt;
+&lt;td&gt;Zachary C Lipton&lt;/td&gt;
+&lt;td&gt;Carnegie Mellon University&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Wil Thomason&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Cornell CS&lt;/td&gt;
+&lt;td&gt;Kristian Lum&lt;/td&gt;
+&lt;td&gt;Hunan Rights and Data Analysis Group&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Amar Ashar&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Berkman Klein Center for Internet &amp;amp; Society&lt;/td&gt;
+&lt;td&gt;Ciira Maina&lt;/td&gt;
+&lt;td&gt;Dedan Kimathi University of Technology&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Negar Rostamzadeh&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Element AI&lt;/td&gt;
+&lt;td&gt;Vukosi Marivate&lt;/td&gt;
+&lt;td&gt;University of Pretoria&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Vicente Ordonez&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;University of Virginia&lt;/td&gt;
+&lt;td&gt;Margaret Mitchell&lt;/td&gt;
+&lt;td&gt;Google AI&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;David Bindel&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Cornell University&lt;/td&gt;
+&lt;td&gt;Nyalleng Moorosi&lt;/td&gt;
+&lt;td&gt;None&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Ashley Edwards&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Georgia Tech&lt;/td&gt;
+&lt;td&gt;Zanele Munyikwa&lt;/td&gt;
+&lt;td&gt;MIT Sloan School of Management&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Emmanuel Johnson&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;USC&lt;/td&gt;
+&lt;td&gt;Robert Ness&lt;/td&gt;
+&lt;td&gt;Gamalon Inc&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Rachael Tatman&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Kaggle&lt;/td&gt;
+&lt;td&gt;Ehi Nosakhare&lt;/td&gt;
+&lt;td&gt;MIT&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Matthew Tesfaldet&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;York University &amp;amp; Vector Institute of Artificial Intelligence&lt;/td&gt;
+&lt;td&gt;Billy Okal&lt;/td&gt;
+&lt;td&gt;Voyage&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Nyalleng Moorosi&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;None&lt;/td&gt;
+&lt;td&gt;Charles C Onu&lt;/td&gt;
+&lt;td&gt;McGill University&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Ruth Fong&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;University of Oxford&lt;/td&gt;
+&lt;td&gt;Vicente Ordonez&lt;/td&gt;
+&lt;td&gt;University of Virginia&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Christan Grant&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;University of Oklahoma&lt;/td&gt;
+&lt;td&gt;Lonnie T Parker&lt;/td&gt;
+&lt;td&gt;Naval Sea Systems Command&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Alexis Cook&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Udacity&lt;/td&gt;
+&lt;td&gt;Forough Poursabzi-Sangdeh&lt;/td&gt;
+&lt;td&gt;Microsoft Research&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Yoseph Berhanu Alebachew&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Department of Computer Science Addis Ababa University&lt;/td&gt;
+&lt;td&gt;David Robinson&lt;/td&gt;
+&lt;td&gt;Cornell University&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Lanke Frank Fu&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Ascent Robotics&lt;/td&gt;
+&lt;td&gt;Evan Rosenman&lt;/td&gt;
+&lt;td&gt;Stanford University&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Amsale Zelalem&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Addis Ababa University Computer Science Department&lt;/td&gt;
+&lt;td&gt;Negar Rostamzadeh&lt;/td&gt;
+&lt;td&gt;Element AI&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Ayalew Belay (PhD)&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Addis Ababa University&lt;/td&gt;
+&lt;td&gt;Natalie Schluter&lt;/td&gt;
+&lt;td&gt;IT University of Copenhagen&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Marcelo Worsley&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;NORTHWESTERN UNIVERSITY&lt;/td&gt;
+&lt;td&gt;Rachael Tatman&lt;/td&gt;
+&lt;td&gt;Kaggle&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Solomon Gizaw&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Addis Ababa University&lt;/td&gt;
+&lt;td&gt;Matthew Tesfaldet&lt;/td&gt;
+&lt;td&gt;York University &amp;amp; Vector Institute of Artificial Intelligence&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Tao Xie&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;University of Illinois at Urbana-Champaign&lt;/td&gt;
+&lt;td&gt;Alemu Leulseged Tesfaye&lt;/td&gt;
+&lt;td&gt;Ca’ Foscari University of Venice&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;Lonnie T Parker&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;NAVSEA&lt;/td&gt;
+&lt;td&gt;Kale-ab Tessera&lt;/td&gt;
+&lt;td&gt;University of Witwatersrand&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Rachel Thomas&lt;/td&gt;
+&lt;td&gt;fast.ai &amp;amp; University of San Francisco&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Wil Thomason&lt;/td&gt;
+&lt;td&gt;Cornell University&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Johan Ugander&lt;/td&gt;
+&lt;td&gt;Stanford University&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Jenn Wortman Vaughan&lt;/td&gt;
+&lt;td&gt;Microsoft Research&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Melissa Woghiren&lt;/td&gt;
+&lt;td&gt;University of Alberta&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Marcelo Worsley&lt;/td&gt;
+&lt;td&gt;Northwestern University&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Jason Yosinski&lt;/td&gt;
+&lt;td&gt;Uber AI Labs&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Tao Xie&lt;/td&gt;
+&lt;td&gt;University of Illinois at Urbana-Champaign&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Amsale Zelalem&lt;/td&gt;
+&lt;td&gt;Addis Ababa University&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
