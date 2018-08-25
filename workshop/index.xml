@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workshops on Black in AI</title>
+    <link>https://esube.github.io/workshop/</link>
+    <description>Recent content in Workshops on Black in AI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Black in AI</copyright>
+    <lastBuildDate>Sun, 19 Nov 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://esube.github.io/workshop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About BAI Workshops</title>
+      <link>https://esube.github.io/workshop/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://esube.github.io/workshop/</guid>
+      <description>&lt;p&gt;The second Black in AI event will be co-located with &lt;a href=&#34;https://nips.cc/&#34; target=&#34;_blank&#34;&gt;NIPS 2018&lt;/a&gt; at the &lt;a href=&#34;https://congresmtl.com/&#34; target=&#34;_blank&#34;&gt;Palais des Congrès de Montréal (Montreal Convention Centre)&lt;/a&gt;  in Montréal CANADA on December 7th from 1:00pm to 6:00pm. The workshop will feature invited talks from prominent researchers and practitioners, oral presentations, and a poster session. There will also be socials to facilitate networking, discussion of different career opportunities in AI, and sharing of ideas to increase participation of Black researchers in the field. We invite all members of the AI community to attend the workshop. The early registration deadline for the conference is October 24, 2018. We strongly encourage workshop attendees to register for the workshops as early as possible. The registration can be found &lt;a href=&#34;https://nips.cc/accounts/login/?next=/Profile&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

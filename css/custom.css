@@ -1,0 +1,248 @@
+/* Override margins for figures. */
+figure {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* Jumbotron styles. */
+
+.jumbotron p {
+  font-size: inherit !important;
+  margin-bottom: 0.8rem !important;
+}
+
+.btn-intro {
+  background-color: #03A9F4;
+  border-color: #00E5FF;
+  color: #fff;
+  padding: 0.75rem 1.5rem;
+  font-size: 1.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.btn-intro:hover,
+.btn-intro:active,
+.btn-intro:focus {
+  background-color: #0288D1;
+  color: #fff;
+}
+
+/* Make homepage section padding compact. */
+
+.home-section {
+  padding: 60px 0 60px 0;
+}
+
+/* Documentation styles. */
+
+/* Documentation: nav. */
+
+#workshop-navbar,
+#workshop-subnavbar {
+  font-size: 12px;
+  width: 175px;
+  margin-left: -15px;
+}
+
+#workshop-navbar.affix,
+#workshop-subnavbar.affix {
+  position: fixed;
+  top: 85px; /* Consider navbar height. */
+}
+
+#workshop-navbar {
+  padding: 15px 0;
+  display: none;
+  font-size: 15.5px;
+}
+
+#workshop-navbar ul {
+  list-style: none;
+  padding: 0;
+}
+
+#workshop-subnavbar {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+#workshop-subnavbar h4 {
+  padding-left: 10px;
+}
+
+#workshop-navbar li a {
+  border-left: 1px solid transparent;
+  display: block;
+  padding-left: 5px;
+}
+
+#workshop-navbar ul li li a {
+  padding: 5px 25px;
+  position: relative;
+}
+
+#workshop-navbar li > .area {
+  font-size: 1em;
+  font-weight: 400;
+}
+
+#workshop-navbar a.area[aria-expanded='true'] {
+  border-color: #3f51b5;
+}
+
+#workshop-navbar li a:hover,
+#workshop-navbar li a:focus {
+  background: none;
+  color: #444;
+  text-decoration: none !important;
+  border-color: transparent;
+}
+
+#workshop-navbar .panel {
+  margin-bottom: 0;
+  background-color: inherit;
+  border: inherit;
+  box-shadow: inherit;
+}
+
+#workshop-navbar li.active a:not(.area),
+#workshop-navbar li.active .active a {
+  font-weight: bold;
+}
+
+#workshop-navbar li.active a,
+#workshop-navbar li.active .active a {
+  color: #000;
+}
+
+/* Documentation: content. */
+
+.body-content {
+  padding-top: 25px;
+  padding-bottom: 40px;
+}
+
+#small-nav {
+  padding: 5px 0;
+}
+
+.workshop-nav h4,
+#workshop-subnavbar h4 {
+  margin-top: 0;
+}
+
+.workshop h1 {
+  margin-top: 0;
+}
+
+.workshop .article-container {
+  padding-top: 0;
+}
+
+.edit-github a .btn {
+  max-width: 70px;
+  height: 44px;
+  margin-right: 15px;
+  margin-top: 10px;
+}
+
+.edit-github .btn-default {
+  color: #333;
+  border-color: #ccc;
+}
+
+/* Documentation: article footer. */
+
+.workshop .body-footer {
+  border-top: 1px solid #e8e8e8;
+  margin-top: 30px;
+  padding-top: 10px;
+  font-size: 14px;
+  color: #707070;
+}
+
+/* Article back to top. */
+
+.article-toc-top li a {
+  color: #707070;
+  padding-left: 20px;
+}
+
+.nav.article-toc-top > li > a:focus,
+.nav.article-toc-top > li > a:hover {
+  text-decoration: none;
+  background-color: transparent;
+}
+
+/* Connect aside widget. */
+
+.connect-widget {
+  margin-top: 30px;
+  font-size: 13px;
+}
+
+.connect-widget ul {
+  list-style: none;
+  padding-left: 5px;
+}
+
+/* Documentation: article navigation. */
+
+/* Nav: All levels. */
+nav[data-toggle='toc'] .nav > li > a {
+  display: block;
+  padding: 4px 20px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #767676;
+}
+
+nav[data-toggle='toc'] .nav > li > a:hover,
+nav[data-toggle='toc'] .nav > li > a:focus {
+  padding-left: 19px;
+  color: #3f51b5;
+  text-decoration: none;
+  background-color: transparent;
+  border-left: 1px solid #3f51b5;
+}
+
+nav[data-toggle='toc'] .nav > .active > a,
+nav[data-toggle='toc'] .nav > .active:hover > a,
+nav[data-toggle='toc'] .nav > .active:focus > a {
+  padding-left: 18px;
+  font-weight: bold;
+  color: #3f51b5;
+  background-color: transparent;
+  border-left: 2px solid #3f51b5;
+}
+
+/* Nav: second level. */
+nav[data-toggle='toc'] .nav .nav {
+  display: none; /* Hide second level by default. */
+  padding-bottom: 10px;
+}
+
+nav[data-toggle='toc'] .nav .nav > li > a {
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 30px;
+  font-size: 15px;
+  font-weight: normal;
+}
+
+nav[data-toggle='toc'] .nav .nav > li > a:hover,
+nav[data-toggle='toc'] .nav .nav > li > a:focus {
+  padding-left: 29px;
+}
+
+nav[data-toggle='toc'] .nav .nav > .active > a,
+nav[data-toggle='toc'] .nav .nav > .active:hover > a,
+nav[data-toggle='toc'] .nav .nav > .active:focus > a {
+  padding-left: 28px;
+  font-weight: 500;
+}
+
+nav[data-toggle='toc'] .nav > .active > ul {
+  display: block;
+}
