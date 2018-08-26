@@ -7,33 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Black in AI</copyright>
-    <lastBuildDate>Sun, 19 Nov 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 25 Aug 2018 19:37:01 -0400</lastBuildDate>
     
 	<atom:link href="https://esube.github.io/workshop/2017/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Submission Instructions 2017</title>
-      <link>https://esube.github.io/workshop/2017/submissions/</link>
-      <pubDate>Sun, 03 Dec 2017 00:00:00 -0500</pubDate>
+      <title>CFP 2017</title>
+      <link>https://esube.github.io/workshop/2017/cfp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://esube.github.io/workshop/2017/submissions/</guid>
-      <description>We welcome theoretical, empirical, and applied work in machine learning and artificial intelligence, including, but not limited to, search, planning, knowledge representation, reasoning, natural language processing, computer vision, robotics, multiagent systems, statistical reasoning, and deep learning. Work may be previously published, completed, or ongoing. Submissions will be peer-reviewed by at least 2 reviewers. The workshop will not publish proceedings. The presenter must be a Black researcher in AI, and does not need to be first author.</description>
-    </item>
-    
-    <item>
-      <title>Travel Grants 2017</title>
-      <link>https://esube.github.io/workshop/2017/grants/</link>
-      <pubDate>Sun, 03 Dec 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://esube.github.io/workshop/2017/grants/</guid>
-      <description>Travel Awards Need-based travel grants will be awarded to workshop participants. The travel grant can be used for covering costs associated with the workshop such as NIPS registration, accommodation and travel. Please note that the travel grants may not cover all of your costs and we may not be able to award them to all applicants. The amount of money we award to each person will depend on the number of applicants and the location each applicant will be traveling from.</description>
+      <guid>https://esube.github.io/workshop/2017/cfp/</guid>
+      <description>The first Black in AI event will be co-located with NIPS 2017 in the Pike Ballroom at the Renaissance Long Beach Hotel in Long Beach, California on December 8th from 1:00pm to 6:00pm. The poster session will be held at the Broadlind 2 room on the second floor of the Renaissance hotel. The workshop will be followed by dinner 6:30-8:30. We invite Black AI researchers from around the world to share their work and learn about others’ research.</description>
     </item>
     
     <item>
       <title>Organizers 2018</title>
       <link>https://esube.github.io/workshop/2017/organizers/</link>
-      <pubDate>Mon, 18 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://esube.github.io/workshop/2017/organizers/</guid>
       <description>Workshop Co-Chairs Rediet Abebe, Cornell University
@@ -49,7 +40,7 @@ Lyne P. Tchapmi, Stanford University
     <item>
       <title>Sponsors 2017</title>
       <link>https://esube.github.io/workshop/2017/sponsors/</link>
-      <pubDate>Sun, 17 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://esube.github.io/workshop/2017/sponsors/</guid>
       <description> Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.
@@ -59,12 +50,21 @@ We thank B4 Capital Group for their support We also thank the following institut
     </item>
     
     <item>
-      <title>CFP 2017</title>
-      <link>https://esube.github.io/workshop/2017/cfp/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 -0400</pubDate>
+      <title>Submission Instructions 2017</title>
+      <link>https://esube.github.io/workshop/2017/submissions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://esube.github.io/workshop/2017/cfp/</guid>
-      <description>The first Black in AI event will be co-located with NIPS 2017 in the Pike Ballroom at the Renaissance Long Beach Hotel in Long Beach, California on December 8th from 1:00pm to 6:00pm. The poster session will be held at the Broadlind 2 room on the second floor of the Renaissance hotel. The workshop will be followed by dinner 6:30-8:30. We invite Black AI researchers from around the world to share their work and learn about others’ research.</description>
+      <guid>https://esube.github.io/workshop/2017/submissions/</guid>
+      <description>We welcome theoretical, empirical, and applied work in machine learning and artificial intelligence, including, but not limited to, search, planning, knowledge representation, reasoning, natural language processing, computer vision, robotics, multiagent systems, statistical reasoning, and deep learning. Work may be previously published, completed, or ongoing. Submissions will be peer-reviewed by at least 2 reviewers. The workshop will not publish proceedings. The presenter must be a Black researcher in AI, and does not need to be first author.</description>
+    </item>
+    
+    <item>
+      <title>Travel Grants 2017</title>
+      <link>https://esube.github.io/workshop/2017/grants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://esube.github.io/workshop/2017/grants/</guid>
+      <description>Travel Awards Need-based travel grants will be awarded to workshop participants. The travel grant can be used for covering costs associated with the workshop such as NIPS registration, accommodation and travel. Please note that the travel grants may not cover all of your costs and we may not be able to award them to all applicants. The amount of money we award to each person will depend on the number of applicants and the location each applicant will be traveling from.</description>
     </item>
     
   </channel>

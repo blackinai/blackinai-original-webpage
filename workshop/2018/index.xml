@@ -7,15 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Black in AI</copyright>
-    <lastBuildDate>Sun, 19 Nov 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 25 Aug 2018 19:37:01 -0400</lastBuildDate>
     
 	<atom:link href="https://esube.github.io/workshop/2018/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>CFP 2018</title>
+      <link>https://esube.github.io/workshop/2018/cfp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://esube.github.io/workshop/2018/cfp/</guid>
+      <description>&lt;p&gt;The second Black in AI event will be co-located with &lt;a href=&#34;https://nips.cc/&#34; target=&#34;_blank&#34;&gt;NIPS 2018&lt;/a&gt; at the &lt;a href=&#34;https://congresmtl.com/&#34; target=&#34;_blank&#34;&gt;Palais des Congrès de Montréal (Montreal Convention Centre)&lt;/a&gt;  in Montréal CANADA on December 7th from 1:00pm to 6:00pm. The workshop will feature invited talks from prominent researchers and practitioners, oral presentations, and a poster session. There will also be socials to facilitate networking, discussion of different career opportunities in AI, and sharing of ideas to increase participation of Black researchers in the field. We invite all members of the AI community to attend the workshop. The early registration deadline for the conference is October 24, 2018. We strongly encourage workshop attendees to register for the workshops as early as possible. The registration can be found &lt;a href=&#34;https://nips.cc/accounts/login/?next=/Profile&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Organizers 2018</title>
       <link>https://esube.github.io/workshop/2018/organizers/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://esube.github.io/workshop/2018/organizers/</guid>
       <description>Workshop Co-Chairs Rediet Abebe, Cornell University
@@ -32,7 +43,7 @@ Sanmi Koyejo, University of Illinois, Urbana Champaigns
     <item>
       <title>Submission Instructions 2018</title>
       <link>https://esube.github.io/workshop/2018/submissions/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://esube.github.io/workshop/2018/submissions/</guid>
       <description>We welcome work in artificial intelligence, including, but not limited to, computer vision, deep learning, knowledge reasoning, machine learning, multi-agent systems, natural language processing, statistical reasoning, theory, robotics, as well as applications of AI to other domains such as health and education, and submissions concerning fairness, ethics, and transparency in AI. Papers may introduce new theory, methodology, or applications. We also welcome position papers and demos related to these areas. Work may be previously published, completed, or ongoing.</description>
@@ -41,21 +52,10 @@ Sanmi Koyejo, University of Illinois, Urbana Champaigns
     <item>
       <title>Travel Grants 2018</title>
       <link>https://esube.github.io/workshop/2018/grants/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://esube.github.io/workshop/2018/grants/</guid>
       <description>Need-based travel grants will be awarded to workshop participants. Participants do not need to submit a paper in order to be considered for a travel grant. The travel grant can be used for covering costs associated with the workshop such as NIPS registration, accommodation and travel. Please note that the travel grants may not cover all of your costs and we may not be able to award them to all applicants.</description>
-    </item>
-    
-    <item>
-      <title>CFP 2018</title>
-      <link>https://esube.github.io/workshop/2018/cfp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://esube.github.io/workshop/2018/cfp/</guid>
-      <description>&lt;p&gt;The second Black in AI event will be co-located with &lt;a href=&#34;https://nips.cc/&#34; target=&#34;_blank&#34;&gt;NIPS 2018&lt;/a&gt; at the &lt;a href=&#34;https://congresmtl.com/&#34; target=&#34;_blank&#34;&gt;Palais des Congrès de Montréal (Montreal Convention Centre)&lt;/a&gt;  in Montréal CANADA on December 7th from 1:00pm to 6:00pm. The workshop will feature invited talks from prominent researchers and practitioners, oral presentations, and a poster session. There will also be socials to facilitate networking, discussion of different career opportunities in AI, and sharing of ideas to increase participation of Black researchers in the field. We invite all members of the AI community to attend the workshop. The early registration deadline for the conference is October 24, 2018. We strongly encourage workshop attendees to register for the workshops as early as possible. The registration can be found &lt;a href=&#34;https://nips.cc/accounts/login/?next=/Profile&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
