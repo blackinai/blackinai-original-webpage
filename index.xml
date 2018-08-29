@@ -566,15 +566,17 @@
 
 &lt;p&gt;Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.&lt;/p&gt;
 
-&lt;h2 id=&#34;platinum-sponsors&#34;&gt;Platinum Sponsors&lt;/h2&gt;
+&lt;hr&gt;
 
-&lt;figure class=&#34;img-sponsor-icon&#34;&gt;
+&lt;h2 id=&#34;platinum-sponsors-black-power-in-ai&#34;&gt;Platinum Sponsors (Black Power in AI)&lt;/h2&gt;
+
+&lt;!-- &lt;figure class=&#34;img-sponsor-icon&#34;&gt;
 
 &lt;img src=&#34;https://esube.github.io/img/blackinai.png&#34; /&gt;
 
 
 &lt;/figure&gt;
-
+ --&gt;
 
 &lt;figure class=&#34;img-sponsor-c&#34;&gt;
 
@@ -584,9 +586,7 @@
 &lt;/figure&gt;
 
 
-&lt;hr&gt;
-
-&lt;h2 id=&#34;gold-sponsors&#34;&gt;Gold Sponsors&lt;/h2&gt;
+&lt;!-- &lt;hr&gt; ## Gold Sponsors --&gt;
 
 &lt;figure class=&#34;img-sponsor-c&#34;&gt;
 
@@ -606,15 +606,15 @@
 
 &lt;hr&gt;
 
-&lt;h2 id=&#34;silver-sponsors&#34;&gt;Silver Sponsors&lt;/h2&gt;
+&lt;h2 id=&#34;gold-sponsors-system&#34;&gt;Gold Sponsors (System)&lt;/h2&gt;
 
-&lt;figure class=&#34;img-sponsor-c&#34;&gt;
+&lt;!-- &lt;figure class=&#34;img-sponsor-c&#34;&gt;
 
 &lt;img src=&#34;https://esube.github.io/img/fa-code.png&#34; /&gt;
 
 
 &lt;/figure&gt;
-
+ --&gt;
 
 &lt;figure class=&#34;img-sponsor-c&#34;&gt;
 
@@ -626,15 +626,15 @@
 
 &lt;hr&gt;
 
-&lt;h2 id=&#34;bronze-sponsors&#34;&gt;Bronze Sponsors&lt;/h2&gt;
+&lt;h2 id=&#34;silver-sponsors-component&#34;&gt;Silver Sponsors (Component)&lt;/h2&gt;
 
-&lt;figure class=&#34;img-sponsor-third-c&#34;&gt;
+&lt;!-- &lt;figure class=&#34;img-sponsor-third-c&#34;&gt;
 
 &lt;img src=&#34;https://esube.github.io/img/fa-chip.png&#34; /&gt;
 
 
 &lt;/figure&gt;
-
+ --&gt;
 
 &lt;figure class=&#34;img-sponsor-third-c&#34;&gt;
 
@@ -669,6 +669,8 @@
 
 
 &lt;hr&gt;
+
+&lt;h2 id=&#34;supporters&#34;&gt;Supporters&lt;/h2&gt;
 
 &lt;p&gt;We thank &lt;a href=&#34;https://b4capitalgroup.com/&#34; target=&#34;_blank&#34;&gt;B4 Capital Group&lt;/a&gt; for their support
 &lt;br&gt;&lt;br&gt;&lt;/p&gt;
