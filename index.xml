@@ -713,15 +713,17 @@
 
 &lt;p&gt;Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.&lt;/p&gt;
 
+&lt;hr&gt;
+
 &lt;h2 id=&#34;platinum-sponsors&#34;&gt;Platinum Sponsors&lt;/h2&gt;
 
-&lt;figure class=&#34;img-sponsor-icon&#34;&gt;
+&lt;!--&lt;figure class=&#34;img-sponsor-icon&#34;&gt;
 
 &lt;img src=&#34;https://esube.github.io/img/blackinai.png&#34; /&gt;
 
 
 &lt;/figure&gt;
-
+ --&gt;
 
 &lt;figure class=&#34;img-sponsor-c&#34;&gt;
 
@@ -749,6 +751,18 @@
 
 &lt;figure class=&#34;img-sponsor-c&#34;&gt;
 
+&lt;img src=&#34;https://esube.github.io/img/walton-family.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;hr&gt;
+
+&lt;h2 id=&#34;diamond-sponsors&#34;&gt;Diamond Sponsors&lt;/h2&gt;
+
+&lt;figure class=&#34;img-sponsor-c&#34;&gt;
+
 &lt;img src=&#34;https://esube.github.io/img/ibm.png&#34; /&gt;
 
 
@@ -765,14 +779,6 @@
 
 &lt;figure class=&#34;img-sponsor-c&#34;&gt;
 
-&lt;img src=&#34;https://esube.github.io/img/walton-family.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-&lt;figure class=&#34;img-sponsor-c&#34;&gt;
-
 &lt;img src=&#34;https://esube.github.io/img/salesforce.png&#34; /&gt;
 
 
@@ -781,7 +787,19 @@
 
 &lt;hr&gt;
 
-&lt;h2 id=&#34;gold-sponsors&#34;&gt;Gold Sponsors&lt;/h2&gt;
+&lt;h2 id=&#34;gold-sponsor&#34;&gt;Gold Sponsor&lt;/h2&gt;
+
+&lt;figure class=&#34;img-sponsor-c&#34;&gt;
+
+&lt;img src=&#34;https://esube.github.io/img/deepmind.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;hr&gt;
+
+&lt;h2 id=&#34;silver-sponsors&#34;&gt;Silver Sponsors&lt;/h2&gt;
 
 &lt;figure class=&#34;img-sponsor-c&#34;&gt;
 
@@ -809,14 +827,6 @@
 
 &lt;figure class=&#34;img-sponsor-c&#34;&gt;
 
-&lt;img src=&#34;https://esube.github.io/img/deepmind.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-&lt;figure class=&#34;img-sponsor-c&#34;&gt;
-
 &lt;img src=&#34;https://esube.github.io/img/macarthur-foundation.svg&#34; /&gt;
 
 
@@ -825,9 +835,12 @@
 
 &lt;hr&gt;
 
-&lt;h2 id=&#34;silver-sponsors&#34;&gt;Silver Sponsors&lt;/h2&gt;
+&lt;hr&gt;
 
-&lt;figure class=&#34;img-sponsor-c&#34;&gt;
+&lt;!-- We thank [B4 Capital Group](https://b4capitalgroup.com/) for their support
+&lt;br&gt;&lt;br&gt; --&gt;
+
+&lt;!-- &lt;figure class=&#34;img-sponsor-c&#34;&gt;
 
 &lt;img src=&#34;https://esube.github.io/img/airbnb.png&#34; /&gt;
 
@@ -841,14 +854,16 @@
 
 
 &lt;/figure&gt;
+ --&gt;
 
+&lt;p&gt;We thank the following companies for their support.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Airbnb&lt;/li&gt;
+&lt;li&gt;Kaggle&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;hr&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;We thank &lt;a href=&#34;https://b4capitalgroup.com/&#34; target=&#34;_blank&#34;&gt;B4 Capital Group&lt;/a&gt; for their support
-&lt;br&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;p&gt;We also thank the following institutions  for sponsoring their students to attend the  workshop&lt;/p&gt;
 
