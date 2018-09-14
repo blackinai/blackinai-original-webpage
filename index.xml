@@ -777,13 +777,21 @@
 &lt;/figure&gt;
 
 
-&lt;!-- &lt;figure class=&#34;img-sponsor-c&#34;&gt;
+&lt;figure class=&#34;img-sponsor-c&#34;&gt;
 
 &lt;img src=&#34;https://esube.github.io/img/salesforce.png&#34; /&gt;
 
 
 &lt;/figure&gt;
- --&gt;
+
+
+&lt;figure class=&#34;img-sponsor-c&#34;&gt;
+
+&lt;img src=&#34;https://esube.github.io/img/uber.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
 
 &lt;hr&gt;
 
