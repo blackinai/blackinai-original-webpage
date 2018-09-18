@@ -843,7 +843,7 @@
 
 &lt;hr&gt;
 
-&lt;hr&gt;
+&lt;!--&lt;hr&gt;
 
 &lt;!-- We thank [B4 Capital Group](https://b4capitalgroup.com/) for their support
 &lt;br&gt;&lt;br&gt; --&gt;
@@ -864,16 +864,17 @@
 &lt;/figure&gt;
  --&gt;
 
-&lt;p&gt;We thank the following companies for their support.&lt;/p&gt;
+&lt;p&gt;We thank the following companies and institutions for their support.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Airbnb&lt;/li&gt;
-&lt;li&gt;Kaggle&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.airbnb.com/&#34; target=&#34;_blank&#34;&gt;Airbnb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/&#34; target=&#34;_blank&#34;&gt;Kaggle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mila.quebec/en/&#34; target=&#34;_blank&#34;&gt;MILA&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr&gt;
 
-&lt;p&gt;We also thank the following institutions  for sponsoring their students to attend the  workshop&lt;/p&gt;
+&lt;p&gt;We also thank the following institutions for sponsoring their students to attend the  workshop&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Cornell University&lt;/li&gt;
