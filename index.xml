@@ -63,7 +63,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://esube.github.io/workshop/2019/cfp/</guid>
-      <description>&lt;h3 id=&#34;black-in-ai-2019-call-for-submissions&#34;&gt;Black in AI 2019: Call for Submissions&lt;/h3&gt;
+      <description>
+
+&lt;h3 id=&#34;black-in-ai-2019-call-for-submissions&#34;&gt;Black in AI 2019: Call for Submissions&lt;/h3&gt;
 
 &lt;p&gt;We invite submissions for the Third Black in AI Workshop (co-located with &lt;a href=&#34;https://nips.cc/&#34; target=&#34;_blank&#34;&gt;NeurIPS 2019&lt;/a&gt; at the &lt;a href=&#34;https://www.vancouverconventioncentre.com/&#34; target=&#34;_blank&#34;&gt;Vancouver Convention Center, Vancouver CANADA&lt;/a&gt;. We welcome research work in artificial intelligence, computational neuroscience, and its applications.&lt;/p&gt;
 
@@ -88,44 +90,30 @@
 
 &lt;h3 id=&#34;registration&#34;&gt;Registration&lt;/h3&gt;
 
-&lt;p&gt;The early registration deadline for the conference is &lt;strong&gt;TBA&lt;/strong&gt;. We strongly encourage workshop attendees to register for the workshops as early as possible. The registration can be found &lt;a href=&#34;https://nips.cc/accounts/login/?next=/Profile&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;The early registration deadline for the conference is &lt;strong&gt;Sun October 13, 2019 11:59 EST:&lt;/strong&gt;. We strongly encourage workshop attendees to register for the workshops as early as possible. The registration can be found &lt;a href=&#34;https://nips.cc/accounts/login/?next=/Profile&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Tue July 30, 2019 11:00 PM UTC:&lt;/strong&gt; Abstract submission deadline&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Wed July 31, 2019 11:00 PM UTC:&lt;/strong&gt; Travel grant application deadline&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;TBA:&lt;/strong&gt; Notification of travel grant acceptance&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;TBA:&lt;/strong&gt; Notification of submission acceptance&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sun October 13, 2019 11:59 EST:&lt;/strong&gt; NIPS early registration deadline&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fri December 13, 2019 9:00 am to 5:30 pm EST:&lt;/strong&gt; Third BAI Workshop&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;&lt;strong&gt;Tue July 30, 2019 11:00 PM UTC:&lt;/strong&gt; Abstract submission deadline&lt;/del&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color:blue&#34;&gt;&lt;strong&gt;Extended:&lt;/strong&gt;&lt;/span&gt; &lt;strong&gt;Tue Aug 06, 2019 11:00 PM UTC:&lt;/strong&gt; Abstract submission deadline&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;&lt;strong&gt;Wed July 31, 2019 11:00 PM UTC:&lt;/strong&gt; Travel grant application deadline&lt;/del&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color:blue&#34;&gt;&lt;strong&gt;Extended:&lt;/strong&gt;&lt;/span&gt; &lt;strong&gt;Wed Aug 07, 2019 11:00 PM UTC:&lt;/strong&gt; Travel grant application deadline&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;TBA:&lt;/strong&gt; Notification of travel grant acceptance&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;TBA:&lt;/strong&gt; Notification of submission acceptance&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sun October 13, 2019 11:59 EST:&lt;/strong&gt; NIPS early registration deadline&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Fri December 13, 2019 9:00 am to 5:30 pm EST:&lt;/strong&gt; Third BAI Workshop&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;*TBA=To be announced&lt;/p&gt;
-
-&lt;!--
-Paper submission deadline: Tue July 30, 2019 11:00 PM UTC
-Submit at: https://cmt3.research.microsoft.com/BLACKINAI2019
-The site will start accepting submissions on July 7th.
-
-No extensions will be offered for submissions.
-
-
-Double-blinded reviews
-Submissions will be peer-reviewed by at least 2 reviewers, in addition to an area chair. The reviewing process will be double-blinded at the level of the reviewers. As an author, you are responsible for anonymizing your submission. In particular, you should not include author names, author affiliations, or acknowledgements in your submission and you should avoid providing any other identifying information.
-
-Travel grants
-Travel grants are available for eligible attendees, and should be submitted by  Wed July 31, 2019 11:00 PM UTC at the latest (Note that this is one day after the paper submission deadline). More details to follow on how to apply.
-Content guidelines
-Submissions must state the research problem, motivation, and contribution. Submissions must be self-contained and include all figures, tables, and references. 
-Here are a set of good sample papers from 2017: sample papers 
-
-
-Questions? Contact us at bai2019@blackinai.org.
-
---&gt;</description>
+</description>
     </item>
     
     <item>
