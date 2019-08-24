@@ -67,6 +67,8 @@
 
 &lt;h3 id=&#34;black-in-ai-2019-call-for-submissions&#34;&gt;Black in AI 2019: Call for Submissions&lt;/h3&gt;
 
+&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;strong&gt;The deadline for submissions has officially passed!&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
 &lt;p&gt;We invite submissions for the Third Black in AI Workshop (co-located with &lt;a href=&#34;https://nips.cc/&#34; target=&#34;_blank&#34;&gt;NeurIPS 2019&lt;/a&gt; at the &lt;a href=&#34;https://www.vancouverconventioncentre.com/&#34; target=&#34;_blank&#34;&gt;Vancouver Convention Center, Vancouver CANADA&lt;/a&gt;. We welcome research work in artificial intelligence, computational neuroscience, and its applications.&lt;/p&gt;
 
 &lt;p&gt;These include, but are not limited to, deep learning,  knowledge reasoning, machine learning, multi-agent systems, statistical reasoning, theory, computer vision, natural language processing, robotics, as well as applications of AI to other domains such as health and education, and submissions concerning fairness, ethics, and transparency in AI.&lt;/p&gt;
@@ -97,22 +99,20 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;&lt;strong&gt;Tue July 30, 2019 11:00 PM UTC:&lt;/strong&gt; Abstract submission deadline&lt;/del&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color:blue&#34;&gt;&lt;strong&gt;Extended:&lt;/strong&gt;&lt;/span&gt; &lt;strong&gt;Tue Aug 06, 2019 11:00 PM UTC:&lt;/strong&gt; Abstract submission deadline&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;del&gt;&lt;span style=&#34;color:blue&#34;&gt;&lt;strong&gt;Extended:&lt;/strong&gt;&lt;/span&gt; &lt;strong&gt;Tue Aug 06, 2019 11:00 PM UTC:&lt;/strong&gt; Abstract submission deadline&lt;/del&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;&lt;strong&gt;Wed July 31, 2019 11:00 PM UTC:&lt;/strong&gt; Travel grant application deadline&lt;/del&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color:blue&#34;&gt;&lt;strong&gt;Extended:&lt;/strong&gt;&lt;/span&gt; &lt;strong&gt;Wed Aug 07, 2019 11:00 PM UTC:&lt;/strong&gt; Travel grant application deadline&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;del&gt;&lt;span style=&#34;color:blue&#34;&gt;&lt;strong&gt;Extended:&lt;/strong&gt;&lt;/span&gt; &lt;strong&gt;Wed Aug 07, 2019 11:00 PM UTC:&lt;/strong&gt; Travel grant application deadline&lt;/del&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;TBA:&lt;/strong&gt; Notification of travel grant acceptance&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;30th August, 2019:&lt;/strong&gt; Notification of travel grant approval/rejection&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;TBA:&lt;/strong&gt; Notification of submission acceptance&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;31st August, 2019:&lt;/strong&gt; Notification of paper submission acceptance/rejection&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Sun October 13, 2019 11:59 EST:&lt;/strong&gt; NIPS early registration deadline&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Fri December 13, 2019 9:00 am to 5:30 pm EST:&lt;/strong&gt; Third BAI Workshop&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;*TBA=To be announced&lt;/p&gt;
 </description>
     </item>
     
@@ -620,9 +620,67 @@
       <guid>https://esube.github.io/workshop/2019/organizers/</guid>
       <description>
 
-&lt;h2 id=&#34;2019-workshop-co-chairs&#34;&gt;2019 Workshop Co-Chairs&lt;/h2&gt;
+&lt;h2 id=&#34;2019-workshop-chairs&#34;&gt;2019 Workshop Chairs&lt;/h2&gt;
 
-&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Institution&lt;/th&gt;
+&lt;th&gt;Chair of&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://esube.github.io&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/esube/esube.github.io/master/img/esube.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Esube Bekele&#34; alt=&#34;Esube&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;In-Q-Tel&lt;/td&gt;
+&lt;td&gt;Sponsorships &amp;amp; Logistics&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/ezinne-nwankwo-119586101/&#34;&gt;&lt;img src=&#34;https://esube.github.io/img/EzinneNwankwo.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Ezinne Nwankwo&#34; alt=&#34;Ezinne&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Havard University&lt;/td&gt;
+&lt;td&gt;Accomodations &amp;amp; Travel&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://ignatiusezeani.bitbucket.io&#34;&gt;&lt;img src=&#34;https://ignatiusezeani.bitbucket.io/img/profile.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Ignatius Ezeani&#34; alt=&#34;Ignatius&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Lancaster University&lt;/td&gt;
+&lt;td&gt;Publicity&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.ubenwa.ai/&#34;&gt;&lt;img src=&#34;https://esube.github.io/img/CharlesOnu.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Charles C Onu&#34; alt=&#34;Charles Onu&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;McGill University&lt;/td&gt;
+&lt;td&gt;Accomodations &amp;amp; Travel&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://charlesearl.blog/&#34;&gt;&lt;img src=&#34;https://esube.github.io/img/CharlesEarl.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Charles C Earl&#34; alt=&#34;Charles Earl&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Automattic.com&lt;/td&gt;
+&lt;td&gt;Travel Grants&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://ftasse.github.io&#34;&gt;&lt;img src=&#34;https://media.licdn.com/dms/image/C4D03AQEnvuisue7HGQ/profile-displayphoto-shrink_200_200/0?e=1570060800&amp;v=beta&amp;t=ly5uVBu6eYuYTxSZrUqkEh7LGbFuhnvpQy-vLJgR4-s&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Flora Tasse&#34; alt=&#34;Flora Tasse&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Streem Inc&lt;/td&gt;
+&lt;td&gt;Publications&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Daniel Nkemelu&lt;/td&gt;
+&lt;td&gt;Georgia Institute of Technology&lt;/td&gt;
+&lt;td&gt;Sponsorships &amp;amp; Logistics&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://webdocs.cs.ualberta.ca/~vsilva/&#34;&gt;&lt;img src=&#34;https://webdocs.cs.ualberta.ca/~vsilva/wp-content/uploads/2019/02/IMG_0874-300x300.png&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Victor Silva&#34; alt=&#34;Victor Silva&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;University of Alberta&lt;/td&gt;
+&lt;td&gt;Recruitment&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;h2 id=&#34;2019-program-committee&#34;&gt;2019 Program Committee&lt;/h2&gt;
 
@@ -3023,6 +3081,8 @@ avatar to create the animation.&lt;/p&gt;
       <guid>https://esube.github.io/workshop/2019/submissions/</guid>
       <description>
 
+&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;strong&gt;The deadline for submissions has officially passed!&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
 &lt;p&gt;We welcome works in artificial intelligence, including, but not limited to, computer vision, deep learning, knowledge reasoning, machine learning, multi-agent systems, natural language processing, statistical reasoning, theory, robotics, as well as applications of AI to other domains such as health and education, and submissions concerning fairness, ethics, and transparency in AI. Papers may introduce new theory, methodology, or applications.&lt;/p&gt;
 
 &lt;p&gt;We also welcome position papers and demos related to these areas. Work may be previously published, completed, or ongoing. Submissions will be peer-reviewed by at least 2 reviewers in the area. The workshop will not publish proceedings. We encourage all Black researchers in the field to submit their work, and do not need to be first author of the work.&lt;/p&gt;
@@ -3041,9 +3101,9 @@ avatar to create the animation.&lt;/p&gt;
 Submissions may be up to two pages including all figures and tables, with an additional page for references. The submissions should be in a single column. They should be typeset using 11-point or larger fonts and should have at least 1-inch margin all around. Submissions that do not follow these guidelines risk being rejected without consideration of their merits.&lt;br /&gt;
 &lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;Submissions must state the research problem, motivation, and technical contribution. Submissions must be self-contained and include all figures, tables, and references. The submission page can be found &lt;a href=&#34;https://cmt3.research.microsoft.com/BLACKINAI2019&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; and the submission deadline is &lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;&lt;strong&gt;Tue July 31, 2019 11:00 PM UTC&lt;/strong&gt;&lt;/del&gt;&lt;/span&gt; &lt;span style=&#34;color:blue&#34;&gt;&lt;strong&gt;Now extended to:&lt;/strong&gt;&lt;/span&gt; &lt;strong&gt;Tue Aug 06, 2019 11:00 PM UTC:&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Submissions must state the research problem, motivation, and technical contribution. Submissions must be self-contained and include all figures, tables, and references. The submission page can be found &lt;a href=&#34;https://cmt3.research.microsoft.com/BLACKINAI2019&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; and the submission deadline is &lt;del&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;strong&gt;Tue July 31, 2019 11:00 PM UTC&lt;/strong&gt;&lt;/span&gt; &lt;span style=&#34;color:blue&#34;&gt;&lt;strong&gt;Now extended to:&lt;/strong&gt;&lt;/span&gt; &lt;strong&gt;Tue Aug 06, 2019 11:00 PM UTC&lt;/strong&gt;&lt;/del&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Please note that no further extensions will be offered for submissions!&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;strong&gt;The deadline for submissions has officially passed!&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;Here are a set of good sample papers from previous workshops: &lt;a href=&#34;https://github.com/blackinai/blackinai.github.io/tree/master/papers&#34; target=&#34;_blank&#34;&gt;sample papers&lt;/a&gt;&lt;/p&gt;
 </description>
