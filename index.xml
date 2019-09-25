@@ -99,19 +99,19 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;&lt;strong&gt;Tue July 30, 2019 11:00 PM UTC:&lt;/strong&gt; Abstract submission deadline&lt;/del&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;del&gt;&lt;span style=&#34;color:blue&#34;&gt;&lt;strong&gt;Extended:&lt;/strong&gt;&lt;/span&gt; &lt;strong&gt;Tue Aug 06, 2019 11:00 PM UTC:&lt;/strong&gt; Abstract submission deadline&lt;/del&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;&lt;strong&gt;Extended:&lt;/strong&gt; &lt;strong&gt;Tue Aug 06, 2019 11:00 PM UTC:&lt;/strong&gt; Abstract submission deadline&lt;/del&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;&lt;strong&gt;Wed July 31, 2019 11:00 PM UTC:&lt;/strong&gt; Travel grant application deadline&lt;/del&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;del&gt;&lt;span style=&#34;color:blue&#34;&gt;&lt;strong&gt;Extended:&lt;/strong&gt;&lt;/span&gt; &lt;strong&gt;Wed Aug 07, 2019 11:00 PM UTC:&lt;/strong&gt; Travel grant application deadline&lt;/del&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;&lt;strong&gt;Extended:&lt;/strong&gt; &lt;strong&gt;Wed Aug 07, 2019 11:00 PM UTC:&lt;/strong&gt; Travel grant application deadline&lt;/del&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;30th August, 2019:&lt;/strong&gt; Notification of travel grant approval/rejection&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;&lt;strong&gt;30th August, 2019:&lt;/strong&gt; Notification of travel grant approval/rejection&lt;/del&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;31st August, 2019:&lt;/strong&gt; Notification of paper submission acceptance/rejection&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;&lt;del&gt;&lt;strong&gt;31st August, 2019:&lt;/strong&gt; Notification of paper submission acceptance/rejection&lt;/del&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Sun October 13, 2019 11:59 EST:&lt;/strong&gt; NIPS early registration deadline&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Fri December 13, 2019 9:00 am to 5:30 pm EST:&lt;/strong&gt; Third BAI Workshop&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Monday December 9th, 2019 9:00 am to 5:30 pm EST:&lt;/strong&gt; Third BAI Workshop&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -626,58 +626,54 @@
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;Institution/Workshop Chair&lt;/th&gt;
+&lt;th&gt;Name, Institution, Chair of&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Esube Bekele&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://esube.github.io&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/esube/esube.github.io/master/img/esube.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Esube Bekele&#34; alt=&#34;Esube&#34;&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;In-Q-Tel, Sponsorships &amp;amp; Logistics&lt;/td&gt;
+&lt;td&gt;Esube Bekele, In-Q-Tel, Sponsorships &amp;amp; Logistics&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Ezinne Nwankwo&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/ezinne-nwankwo-119586101/&#34;&gt;&lt;img src=&#34;https://blackinai.github.io/img/EzinneNwankwo.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Ezinne Nwankwo&#34; alt=&#34;Ezinne&#34;&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Havard University, Accomodations &amp;amp; Travel&lt;/td&gt;
+&lt;td&gt;Ezinne Nwankwo, Harvard University, Accomodations &amp;amp; Travel&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Ignatius Ezeani&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://ignatiusezeani.bitbucket.io&#34;&gt;&lt;img src=&#34;https://ignatiusezeani.bitbucket.io/img/profile.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Ignatius Ezeani&#34; alt=&#34;Ignatius&#34;&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Lancaster University, Publicity&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://ignatiusezeani.bitbucket.io&#34;&gt;&lt;img src=&#34;https://ignatiusezeani.bitbucket.io/img/profile.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Ignatius Ezeani&#34; alt=&#34;Ignatius Ezeani&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Ignatius Ezeani, Lancaster University, Publicity&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Charles Onu&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.ubenwa.ai/&#34;&gt;&lt;img src=&#34;https://blackinai.github.io/img/CharlesOnu.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Charles C Onu&#34; alt=&#34;Charles Onu&#34;&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;McGill University, Accomodations &amp;amp; Travel&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.ubenwa.ai/&#34;&gt;&lt;img src=&#34;https://blackinai.github.io/img/CharlesOnu2.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Charles C Onu&#34; alt=&#34;Charles Onu&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Charles Onu, McGill University, Accomodations &amp;amp; Travel&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Charles Earl&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://charlesearl.blog/&#34;&gt;&lt;img src=&#34;https://blackinai.github.io/img/CharlesEarl.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Charles C Earl&#34; alt=&#34;Charles Earl&#34;&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Automattic.com, Travel Grants&lt;/td&gt;
+&lt;td&gt;Charles Earl, Automattic.com, Travel Grants&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Flora Tasse&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://ftasse.github.io&#34;&gt;&lt;img src=&#34;https://media.licdn.com/dms/image/C4D03AQEnvuisue7HGQ/profile-displayphoto-shrink_200_200/0?e=1570060800&amp;v=beta&amp;t=ly5uVBu6eYuYTxSZrUqkEh7LGbFuhnvpQy-vLJgR4-s&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Flora Tasse&#34; alt=&#34;Flora Tasse&#34;&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;Streem Inc, Publications&lt;/td&gt;
+&lt;td&gt;Flora Tasse, Streem Inc, Publications&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Daniel Nkemelu&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;Georgia Tech, Sponsorships &amp;amp; Logistics&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/daniel-nkemelu-280174105/&#34;&gt;&lt;img src=&#34;https://blackinai.github.io/img/dnkemelu.jpeg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Daniel Nkemelu&#34; alt=&#34;Daniel Nkemelu&#34;&gt;&lt;/td&gt;
+&lt;td&gt;Daniel Nkemelu, Georgia Institute of Technology, Sponsorships &amp;amp; Logistics&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td&gt;Victor Silva&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://webdocs.cs.ualberta.ca/~vsilva/&#34;&gt;&lt;img src=&#34;https://webdocs.cs.ualberta.ca/~vsilva/wp-content/uploads/2019/02/IMG_0874-300x300.png&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Victor Silva&#34; alt=&#34;Victor Silva&#34;&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;University of Alberta, Recruitment&lt;/td&gt;
+&lt;td&gt;Victor Silva, University of Alberta, Recruitment&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.berneaseherman.com&#34;&gt;&lt;img src=&#34;https://blackinai.github.io/img/bernease_headshot2.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Bernease Herman&#34; alt=&#34;Bernease Herman&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Bernease Herman, University of Washington, Finance&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -3055,21 +3051,155 @@ avatar to create the animation.&lt;/p&gt;
 
 &lt;h2 id=&#34;span-style-color-lightblue-diamond-sponsors-span&#34;&gt;&lt;span style=&#34;color:lightblue&#34;&gt;Diamond Sponsors&lt;/span&gt;&lt;/h2&gt;
 
-&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
+&lt;!--&lt;figure class=&#34;img-sponsor-icon&#34;&gt;
+
+&lt;img src=&#34;https://blackinai.github.io/img/blackinai.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+ --&gt;
+
+&lt;figure class=&#34;img-sponsor-c&#34;&gt;
+&lt;a href=&#34;http://research.fb.com/&#34; target=&#34;_blank&#34;&gt;
+&lt;img src=&#34;https://blackinai.github.io/img/facebook.jpg&#34; /&gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&#34;img-sponsor-c&#34;&gt;
+&lt;a href=&#34;https://ai.google/&#34; target=&#34;_blank&#34;&gt;
+&lt;img src=&#34;https://blackinai.github.io/img/google.png&#34; /&gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&#34;img-sponsor-c&#34;&gt;
+&lt;a href=&#34;http://www.deepmind.com/&#34; target=&#34;_blank&#34;&gt;
+&lt;img src=&#34;https://blackinai.github.io/img/deepmind.png&#34; /&gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&#34;img-sponsor-c&#34;&gt;
+&lt;a href=&#34;http://www.accenture.com/&#34; target=&#34;_blank&#34;&gt;
+&lt;img src=&#34;https://blackinai.github.io/img/accenture.png&#34; /&gt;
+&lt;/a&gt;
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Accenture&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
 
 &lt;hr&gt;
 
-&lt;h2 id=&#34;span-style-color-silver-platinum-sponsors-span&#34;&gt;&lt;span style=&#34;color:Silver&#34;&gt;Platinum Sponsors&lt;/span&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;span-style-color-platinum-platinum-sponsors-span&#34;&gt;&lt;span style=&#34;color:Platinum&#34;&gt;Platinum Sponsors&lt;/span&gt;&lt;/h2&gt;
 
-&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
+&lt;figure class=&#34;img-sponsor-c&#34;&gt;
+&lt;a href=&#34;http://www.microsoft.com/research&#34; target=&#34;_blank&#34;&gt;
+&lt;img src=&#34;https://blackinai.github.io/img/microsoft.png&#34; /&gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&#34;img-sponsor-c&#34;&gt;
+&lt;a href=&#34;http://www.apple.com/&#34; target=&#34;_blank&#34;&gt;
+&lt;img src=&#34;https://blackinai.github.io/img/apple.png&#34; /&gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+&lt;hr&gt;
 
 &lt;h2 id=&#34;span-style-color-gold-gold-sponsors-span&#34;&gt;&lt;span style=&#34;color:Gold&#34;&gt; Gold Sponsors &lt;/span&gt;&lt;/h2&gt;
 
-&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
+&lt;figure class=&#34;img-sponsor-c&#34;&gt;
+&lt;a href=&#34;http://amazon.jobs/NIPS&#34; target=&#34;_blank&#34;&gt;
+&lt;img src=&#34;https://blackinai.github.io/img/amazon.png&#34; /&gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+&lt;hr&gt;
 
 &lt;h2 id=&#34;span-style-color-silver-silver-sponsors-span&#34;&gt;&lt;span style=&#34;color:Silver&#34;&gt;Silver Sponsors&lt;/span&gt;&lt;/h2&gt;
 
-&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
+&lt;figure class=&#34;img-sponsor-c&#34;&gt;
+&lt;a href=&#34;http://www.nvidia.com/page/home.html&#34; target=&#34;_blank&#34;&gt;
+&lt;img src=&#34;https://blackinai.github.io/img/nvidia.png&#34; /&gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&#34;img-sponsor-c&#34;&gt;
+&lt;a href=&#34;https://www.bloomberg.com/&#34; target=&#34;_blank&#34;&gt;
+&lt;img src=&#34;https://blackinai.github.io/img/bloomberg.png&#34; /&gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+&lt;hr&gt;
+
+&lt;!-- We thank [B4 Capital Group](https://b4capitalgroup.com/) for their support
+&lt;br&gt;&lt;br&gt; --&gt;
+
+&lt;!-- &lt;figure class=&#34;img-sponsor-c&#34;&gt;
+
+&lt;img src=&#34;https://blackinai.github.io/img/airbnb.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&#34;img-sponsor-c&#34;&gt;
+
+&lt;img src=&#34;https://blackinai.github.io/img/kaggle.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+ --&gt;
+
+&lt;p&gt;We thank the following companies and institutions for their support.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mila.quebec/en/&#34; target=&#34;_blank&#34;&gt;MILA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- [Airbnb](https://www.airbnb.com/)
+ - [Kaggle](https://www.kaggle.com/)
+ - [InstaDeep](https://www.linkedin.com/company/instadeep/)
+ - [Vector Institute](https://vectorinstitute.ai/)
+
+&lt;hr&gt;
+
+We also thank the following institutions for sponsoring their students to attend the  workshop
+
+ - Berkley University
+ - Cornell University
+ - Duke University
+ - Georgia Institute of Technology (Georgia Tech)
+ - Harvard University
+ - Massachusetts Institute of Technology (MIT)
+ - McGill University
+ - Northwestern University
+ - Rutgers University
+ - Stanford University, Computer Science
+ - Stanford University, Stats
+ - University of California, Berkeley
+ - University of Illinois at Urbana-Champaign
+ - University of Montreal, Montreal Institute for Learning Algorithms (MILA)
+--&gt;
 </description>
     </item>
     
