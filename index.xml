@@ -3236,6 +3236,22 @@ avatar to create the animation.&lt;/p&gt;
  --&gt;
 
 &lt;figure class=&#34;img-sponsor-c&#34;&gt;
+&lt;a href=&#34;http://www.accenture.com/&#34; target=&#34;_blank&#34;&gt;
+&lt;img src=&#34;https://blackinai.github.io/img/accenture.png&#34; /&gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&#34;img-sponsor-c&#34;&gt;
+&lt;a href=&#34;http://www.deepmind.com/&#34; target=&#34;_blank&#34;&gt;
+&lt;img src=&#34;https://blackinai.github.io/img/deepmind.png&#34; /&gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&#34;img-sponsor-c&#34;&gt;
 &lt;a href=&#34;http://research.fb.com/&#34; target=&#34;_blank&#34;&gt;
 &lt;img src=&#34;https://blackinai.github.io/img/facebook.jpg&#34; /&gt;
 &lt;/a&gt;
@@ -3252,23 +3268,9 @@ avatar to create the animation.&lt;/p&gt;
 
 
 &lt;figure class=&#34;img-sponsor-c&#34;&gt;
-&lt;a href=&#34;http://www.deepmind.com/&#34; target=&#34;_blank&#34;&gt;
-&lt;img src=&#34;https://blackinai.github.io/img/deepmind.png&#34; /&gt;
+&lt;a href=&#34;#&#34; target=&#34;_blank&#34;&gt;
+&lt;img src=&#34;https://blackinai.github.io/img/hopper-dean.png&#34; /&gt;
 &lt;/a&gt;
-
-&lt;/figure&gt;
-
-
-&lt;figure class=&#34;img-sponsor-c&#34;&gt;
-&lt;a href=&#34;http://www.accenture.com/&#34; target=&#34;_blank&#34;&gt;
-&lt;img src=&#34;https://blackinai.github.io/img/accenture.png&#34; /&gt;
-&lt;/a&gt;
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Accenture&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
 
 &lt;/figure&gt;
 
@@ -3276,6 +3278,14 @@ avatar to create the animation.&lt;/p&gt;
 &lt;hr&gt;
 
 &lt;h2 id=&#34;span-style-color-platinum-platinum-sponsors-span&#34;&gt;&lt;span style=&#34;color:Platinum&#34;&gt;Platinum Sponsors&lt;/span&gt;&lt;/h2&gt;
+
+&lt;figure class=&#34;img-sponsor-c&#34;&gt;
+&lt;a href=&#34;http://www.apple.com/&#34; target=&#34;_blank&#34;&gt;
+&lt;img src=&#34;https://blackinai.github.io/img/apple.png&#34; /&gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
 
 &lt;figure class=&#34;img-sponsor-c&#34;&gt;
 &lt;a href=&#34;http://www.microsoft.com/research&#34; target=&#34;_blank&#34;&gt;
@@ -3286,8 +3296,16 @@ avatar to create the animation.&lt;/p&gt;
 
 
 &lt;figure class=&#34;img-sponsor-c&#34;&gt;
-&lt;a href=&#34;http://www.apple.com/&#34; target=&#34;_blank&#34;&gt;
-&lt;img src=&#34;https://blackinai.github.io/img/apple.png&#34; /&gt;
+&lt;a href=&#34;http://www.openai.com/&#34; target=&#34;_blank&#34;&gt;
+&lt;img src=&#34;https://blackinai.github.io/img/openai.png&#34; /&gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&#34;img-sponsor-c&#34;&gt;
+&lt;a href=&#34;http://www.partnershiponai.org/&#34; target=&#34;_blank&#34;&gt;
+&lt;img src=&#34;https://blackinai.github.io/img/pai.png&#34; /&gt;
 &lt;/a&gt;
 
 &lt;/figure&gt;
@@ -3300,6 +3318,14 @@ avatar to create the animation.&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34;&gt;
 &lt;a href=&#34;http://amazon.jobs/NIPS&#34; target=&#34;_blank&#34;&gt;
 &lt;img src=&#34;https://blackinai.github.io/img/amazon.png&#34; /&gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+&lt;figure class=&#34;img-sponsor-c&#34;&gt;
+&lt;a href=&#34;https://www.research.ibm.com/artificial-intelligence/&#34; target=&#34;_blank&#34;&gt;
+&lt;img src=&#34;https://blackinai.github.io/img/ibm.png&#34; /&gt;
 &lt;/a&gt;
 
 &lt;/figure&gt;
@@ -3325,31 +3351,32 @@ avatar to create the animation.&lt;/p&gt;
 &lt;/figure&gt;
 
 
-&lt;hr&gt;
-
-&lt;!-- We thank [B4 Capital Group](https://b4capitalgroup.com/) for their support
-&lt;br&gt;&lt;br&gt; --&gt;
-
-&lt;!-- &lt;figure class=&#34;img-sponsor-c&#34;&gt;
-
-&lt;img src=&#34;https://blackinai.github.io/img/airbnb.png&#34; /&gt;
-
+&lt;figure class=&#34;img-sponsor-c&#34;&gt;
+&lt;a href=&#34;https://www.oracle.com/&#34; target=&#34;_blank&#34;&gt;
+&lt;img src=&#34;https://blackinai.github.io/img/oracle.png&#34; /&gt;
+&lt;/a&gt;
 
 &lt;/figure&gt;
 
 
 &lt;figure class=&#34;img-sponsor-c&#34;&gt;
-
-&lt;img src=&#34;https://blackinai.github.io/img/kaggle.png&#34; /&gt;
-
+&lt;a href=&#34;https://www.uber.com/&#34; target=&#34;_blank&#34;&gt;
+&lt;img src=&#34;https://blackinai.github.io/img/uber.png&#34; /&gt;
+&lt;/a&gt;
 
 &lt;/figure&gt;
- --&gt;
+
+
+&lt;hr&gt;
+
+&lt;!-- We thank [B4 Capital Group](https://b4capitalgroup.com/) for their support
+&lt;br&gt;&lt;br&gt; --&gt;
 
 &lt;p&gt;We thank the following companies and institutions for their support.&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://mila.quebec/en/&#34; target=&#34;_blank&#34;&gt;MILA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.elementai.com/&#34; target=&#34;_blank&#34;&gt;Element AI&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;!-- [Airbnb](https://www.airbnb.com/)
