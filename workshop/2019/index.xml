@@ -1,75 +1,2544 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Workshop 2019 on Black in AI</title>
-    <link>https://blackinai.github.io/workshop/2019/</link>
-    <description>Recent content in Workshop 2019 on Black in AI</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Black in AI</copyright>
-    <lastBuildDate>Sat, 13 Jul 2019 17:34:58 +0100</lastBuildDate>
-    
-	<atom:link href="https://blackinai.github.io/workshop/2019/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Workshop 2019 | Black in AI</title>
+    <link>blackinai.github.io/workshop/2019/</link>
+      <atom:link href="blackinai.github.io/workshop/2019/index.xml" rel="self" type="application/rss+xml" />
+    <description>Workshop 2019</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Black in AI</copyright>
+    <image>
+      <url>blackinai.github.io/img/vancouver_convention_centre.png</url>
+      <title>Workshop 2019</title>
+      <link>blackinai.github.io/workshop/2019/</link>
+    </image>
     
     <item>
       <title></title>
-      <link>https://blackinai.github.io/workshop/2019/cfp/</link>
+      <link>blackinai.github.io/workshop/2019/cfp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blackinai.github.io/workshop/2019/cfp/</guid>
-      <description>Black in AI 2019: Call for Submissions The deadline for submissions has officially passed!
-We invite submissions for the Third Black in AI Workshop (co-located with NeurIPS 2019 at the Vancouver Convention Center, Vancouver CANADA. We welcome research work in artificial intelligence, computational neuroscience, and its applications.
-These include, but are not limited to, deep learning, knowledge reasoning, machine learning, multi-agent systems, statistical reasoning, theory, computer vision, natural language processing, robotics, as well as applications of AI to other domains such as health and education, and submissions concerning fairness, ethics, and transparency in AI.</description>
+      <guid>blackinai.github.io/workshop/2019/cfp/</guid>
+      <description>&lt;h3 id=&#34;black-in-ai-2019-call-for-submissions&#34;&gt;Black in AI 2019: Call for Submissions&lt;/h3&gt;
+&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;__The deadline for submissions has officially passed!__&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;We invite submissions for the Third Black in AI Workshop (co-located with 
+&lt;a href=&#34;https://nips.cc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeurIPS 2019&lt;/a&gt; at the 
+&lt;a href=&#34;https://www.vancouverconventioncentre.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vancouver Convention Center, Vancouver CANADA&lt;/a&gt;. We welcome research work in artificial intelligence, computational neuroscience, and its applications.&lt;/p&gt;
+&lt;p&gt;These include, but are not limited to, deep learning,  knowledge reasoning, machine learning, multi-agent systems, statistical reasoning, theory, computer vision, natural language processing, robotics, as well as applications of AI to other domains such as health and education, and submissions concerning fairness, ethics, and transparency in AI.&lt;/p&gt;
+&lt;p&gt;Papers may introduce new theory, methodology, applications or product demonstrations. We also welcome position papers that synthesize existing work, identify future directions, or inform on neglected/abandoned areas where AI could be impactful. Examples are work on AI &amp;amp; Arts, AI &amp;amp; Policy, etc.&lt;/p&gt;
+&lt;p&gt;Each submission will fall into one of these 4 tracks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Machine learning Algorithms&lt;/li&gt;
+&lt;li&gt;Applications of AI&lt;/li&gt;
+&lt;li&gt;Position papers&lt;/li&gt;
+&lt;li&gt;Product demonstrations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Work may be previously published, completed, or ongoing. The workshop will not publish proceedings. We encourage all Black researchers in areas related to AI to submit their work. They need not to be first author of the work.&lt;/p&gt;
+&lt;h3 id=&#34;invited-talks&#34;&gt;Invited talks&lt;/h3&gt;
+&lt;p&gt;The workshop will feature invited talks from prominent researchers and practitioners, oral presentations, and a poster session. There will also be socials to facilitate networking, discussion of different career opportunities in AI, and sharing of ideas to increase participation of Black researchers in the field. We invite all members of the AI community to attend the workshop.&lt;/p&gt;
+&lt;h3 id=&#34;registration&#34;&gt;Registration&lt;/h3&gt;
+&lt;p&gt;The early registration deadline for the conference is &lt;strong&gt;Sun October 13, 2019 11:59 EST:&lt;/strong&gt;. We strongly encourage workshop attendees to register for the workshops as early as possible. The registration can be found 
+&lt;a href=&#34;https://nips.cc/accounts/login/?next=/Profile&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;~~__Tue July 30, 2019 11:00 PM UTC:__ Abstract submission deadline~~&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;~~__Extended:__ __Tue Aug 06, 2019 11:00 PM UTC:__ Abstract submission deadline~~&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;~~__Wed July 31, 2019 11:00 PM UTC:__ Travel grant application deadline~~&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;~~__Extended:__ __Wed Aug 07, 2019 11:00 PM UTC:__ Travel grant application deadline~~&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;~~__30th August, 2019:__ Notification of travel grant approval/rejection~~&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;~~__31st August, 2019:__ Notification of paper submission acceptance/rejection~~&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sun October 13, 2019 11:59 EST:&lt;/strong&gt; NeurIPS early registration deadline&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Monday December 9th, 2019 9:00 am to 5:30 pm EST:&lt;/strong&gt; Third BAI Workshop&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Organizers 2019</title>
-      <link>https://blackinai.github.io/workshop/2019/organizers/</link>
+      <link>blackinai.github.io/workshop/2019/organizers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blackinai.github.io/workshop/2019/organizers/</guid>
-      <description>2019 Workshop Chairs     Name, Institution, Chair of      Esube Bekele, In-Q-Tel, Sponsorships &amp;amp; Logistics    Ezinne Nwankwo, Harvard University, Accomodations &amp;amp; Travel    Ignatius Ezeani, Lancaster University, Publicity    Charles Onu, McGill University, Accomodations &amp;amp; Travel    Charles Earl, Automattic.com, Travel Grants    Flora Tasse, Streem Inc, Publications    Daniel Nkemelu, Georgia Institute of Technology, Sponsorships &amp;amp; Logistics    Victor Silva, University of Alberta, Recruitment    Bernease Herman, University of Washington, Finance    2019 Program Committee BAI thanks the following program committe members for their support and outstanding work.</description>
+      <guid>blackinai.github.io/workshop/2019/organizers/</guid>
+      <description>&lt;h2 id=&#34;2019-workshop-chairs&#34;&gt;2019 Workshop Chairs&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;Name, Institution, Chair of&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://esube.github.io&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/esube/esube.github.io/master/img/esube.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Esube Bekele&#34; alt=&#34;Esube&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Esube Bekele, In-Q-Tel, Sponsorships &amp;amp; Logistics&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/ezinne-nwankwo-119586101/&#34;&gt;&lt;img src=&#34;blackinai.github.io/img/EzinneNwankwo.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Ezinne Nwankwo&#34; alt=&#34;Ezinne&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Ezinne Nwankwo, Harvard University, Accomodations &amp;amp; Travel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://ignatiusezeani.bitbucket.io&#34;&gt;&lt;img src=&#34;https://ignatiusezeani.bitbucket.io/img/profile.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Ignatius Ezeani&#34; alt=&#34;Ignatius Ezeani&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Ignatius Ezeani, Lancaster University, Publicity&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.ubenwa.ai/&#34;&gt;&lt;img src=&#34;blackinai.github.io/img/CharlesOnu2.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Charles C Onu&#34; alt=&#34;Charles Onu&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Charles Onu, McGill University, Accomodations &amp;amp; Travel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://charlesearl.blog/&#34;&gt;&lt;img src=&#34;blackinai.github.io/img/CharlesEarl.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Charles C Earl&#34; alt=&#34;Charles Earl&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Charles Earl, Automattic.com, Travel Grants&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://ftasse.github.io&#34;&gt;&lt;img src=&#34;blackinai.github.io/img/flora.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Flora Tasse&#34; alt=&#34;Flora Tasse&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Flora Tasse, Streem Inc, Publications&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/daniel-nkemelu-280174105/&#34;&gt;&lt;img src=&#34;blackinai.github.io/img/dnkemelu.jpeg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Daniel Nkemelu&#34; alt=&#34;Daniel Nkemelu&#34;&gt;&lt;/td&gt;
+&lt;td&gt;Daniel Nkemelu, Georgia Institute of Technology, Sponsorships &amp;amp; Logistics&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://webdocs.cs.ualberta.ca/~vsilva/&#34;&gt;&lt;img src=&#34;https://webdocs.cs.ualberta.ca/~vsilva/wp-content/uploads/2019/02/IMG_0874-300x300.png&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Victor Silva&#34; alt=&#34;Victor Silva&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Victor Silva, University of Alberta, Recruitment&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.berneaseherman.com&#34;&gt;&lt;img src=&#34;blackinai.github.io/img/bernease_headshot2.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Bernease Herman&#34; alt=&#34;Bernease Herman&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Bernease Herman, University of Washington, Finance&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;2019-program-committee&#34;&gt;2019 Program Committee&lt;/h2&gt;
+&lt;p&gt;BAI thanks the following  program committe members for their support and outstanding work.&lt;/p&gt;
+&lt;h2 id=&#34;area-chairs&#34;&gt;Area Chairs&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Full Name&lt;/th&gt;
+&lt;th&gt;Institution&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Adil SALIM&lt;/td&gt;
+&lt;td&gt;KAUST&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Adji Bousso Dieng&lt;/td&gt;
+&lt;td&gt;Columbia University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elaine Nsoesie&lt;/td&gt;
+&lt;td&gt;Boston University School of Public Health&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Flora Ponjou Tasse&lt;/td&gt;
+&lt;td&gt;Selerio&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;George W Musumba&lt;/td&gt;
+&lt;td&gt;Dedan Kimathi University of Technology&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Kuheli Sai&lt;/td&gt;
+&lt;td&gt;University of Pittsburgh&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Nicolas Le Roux&lt;/td&gt;
+&lt;td&gt;Google&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Oluwatobi Olabiyi&lt;/td&gt;
+&lt;td&gt;Capital One&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pavan Kamaraju&lt;/td&gt;
+&lt;td&gt;Streem&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sam Ade Jacobs&lt;/td&gt;
+&lt;td&gt;Lawrence Livermore National Lab&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Samy Bengio&lt;/td&gt;
+&lt;td&gt;Google Research - Brain Team&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sarah M Brown&lt;/td&gt;
+&lt;td&gt;Brown University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sorelle Friedler&lt;/td&gt;
+&lt;td&gt;Haverford College&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Tewodros Abebe Gebreselassie&lt;/td&gt;
+&lt;td&gt;Wolaita Sodo University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Zachary Lipton&lt;/td&gt;
+&lt;td&gt;Carnegie Mellon University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;reviewers&#34;&gt;Reviewers&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Full Name&lt;/th&gt;
+&lt;th&gt;Institution&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Abiodun  Modupe&lt;/td&gt;
+&lt;td&gt;University of the Witwatersrand&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alexandra K Schofield&lt;/td&gt;
+&lt;td&gt;Harvey Mudd College&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alvin C Grissom II&lt;/td&gt;
+&lt;td&gt;Ursinus College&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Amadou  DIABAGATE&lt;/td&gt;
+&lt;td&gt;University Félix Houphouet Boigny&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Amanuel Lemma  Jagisso&lt;/td&gt;
+&lt;td&gt;Aksum University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Anna K Yanchenko&lt;/td&gt;
+&lt;td&gt;Duke University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;AnnMargaret O Tutu&lt;/td&gt;
+&lt;td&gt;Self&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Anurag  Arnab&lt;/td&gt;
+&lt;td&gt;University of Oxford&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Aurelle  Tchagna Kouanou&lt;/td&gt;
+&lt;td&gt;University of Dschang&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Awa  Dieng&lt;/td&gt;
+&lt;td&gt;Duke University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Basiliyos Tilahun BETRU&lt;/td&gt;
+&lt;td&gt;University of yaounde-I&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ben  Green&lt;/td&gt;
+&lt;td&gt;Harvard&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bereket Abera  Yilma&lt;/td&gt;
+&lt;td&gt;Luxembourg Institute of Science and Technology(LIST)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bernease R Herman&lt;/td&gt;
+&lt;td&gt;University of Washington&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Blessing O Ogbuokiri&lt;/td&gt;
+&lt;td&gt;University of the Witwatersrand&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Briana  Vecchione&lt;/td&gt;
+&lt;td&gt;*&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Bukohwo  Michael Esiefarienrhe&lt;/td&gt;
+&lt;td&gt;North West University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Carmel  Dansou&lt;/td&gt;
+&lt;td&gt;University of Johannesburg&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Charles  Cearl&lt;/td&gt;
+&lt;td&gt;*&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Charles C Onu&lt;/td&gt;
+&lt;td&gt;McGill University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Chidubem G Arachie&lt;/td&gt;
+&lt;td&gt;Virginia Tech&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Christan  Grant&lt;/td&gt;
+&lt;td&gt;University of Oklahoma&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;David  Held&lt;/td&gt;
+&lt;td&gt;CMU&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Dr. Blessing  Ojeme&lt;/td&gt;
+&lt;td&gt;Delta State University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Elizabeth  Adams&lt;/td&gt;
+&lt;td&gt;African-American&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Emeka  Ogbuju&lt;/td&gt;
+&lt;td&gt;Federal University Lokoja&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Eric  Ondenyi&lt;/td&gt;
+&lt;td&gt;Instadeep Kenya&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Erin  Grant&lt;/td&gt;
+&lt;td&gt;UC Berkeley&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ermias  Walelgne&lt;/td&gt;
+&lt;td&gt;Aalto University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Esther O Dada&lt;/td&gt;
+&lt;td&gt;Data science Nigeria&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Eugene  Ndiaye&lt;/td&gt;
+&lt;td&gt;Riken AIP&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Fisseha Gidey Gebremedhin&lt;/td&gt;
+&lt;td&gt;University of Yaounde I&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Flora  Ponjou Tasse&lt;/td&gt;
+&lt;td&gt;Selerio&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Gael  Kamdem De Teyou&lt;/td&gt;
+&lt;td&gt;Huawei&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;George GR Obaido&lt;/td&gt;
+&lt;td&gt;University of the Witwatersrand&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hal  Daumé III&lt;/td&gt;
+&lt;td&gt;University of Maryland / Microsoft Research&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hima Bindu Vadapalli&lt;/td&gt;
+&lt;td&gt;University of the Witwatersrand&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ifriky  Tadadjeu&lt;/td&gt;
+&lt;td&gt;University Space Centre of Montpellier&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Inger  Fabris-Rotelli&lt;/td&gt;
+&lt;td&gt;University Of Pretoria&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Irene Y Chen&lt;/td&gt;
+&lt;td&gt;MIT&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Isaac  Mukonyezi&lt;/td&gt;
+&lt;td&gt;Uganda Technology and Management University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jack  Hessel&lt;/td&gt;
+&lt;td&gt;Cornell University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;John A Ojo&lt;/td&gt;
+&lt;td&gt;Ladoke Akintola University of Technology&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Julien  Nyambal&lt;/td&gt;
+&lt;td&gt;University of the Witwatersrand&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Justice  Amoh&lt;/td&gt;
+&lt;td&gt;Dartmouth College&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Keziah  Naggita&lt;/td&gt;
+&lt;td&gt;African Institute for Mathematical Sciences&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Marcellin  Atemkeng&lt;/td&gt;
+&lt;td&gt;Rhodes University South Africa&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Matias  Valdenegro&lt;/td&gt;
+&lt;td&gt;German Research Center for Artificial Intelligence Bremen&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Melissa  Woghiren&lt;/td&gt;
+&lt;td&gt;University of Alberta&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Michael Melese  Woldeyohannis&lt;/td&gt;
+&lt;td&gt;Addis Ababa University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mutale  Nkonde&lt;/td&gt;
+&lt;td&gt;*&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Natalie  Schluter&lt;/td&gt;
+&lt;td&gt;IT University of Copenhagen&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ndivhuwo  Makondo&lt;/td&gt;
+&lt;td&gt;Council for Scientific and Industrial Research&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Neema  Mduma&lt;/td&gt;
+&lt;td&gt;The Nelson Mandela African Institution of Science and Technology&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Nyalleng  Moorosi&lt;/td&gt;
+&lt;td&gt;Google&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Olawale M Onabola&lt;/td&gt;
+&lt;td&gt;Oxygen AI&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Oluwaseun Francis Egbelowo&lt;/td&gt;
+&lt;td&gt;AIMS&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ousmane A Dia&lt;/td&gt;
+&lt;td&gt;ElementAI&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pablo Samuel Castro&lt;/td&gt;
+&lt;td&gt;Google&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Paidamoyo  Chapfuwa&lt;/td&gt;
+&lt;td&gt;Duke University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pavan  Kamaraju&lt;/td&gt;
+&lt;td&gt;Streem&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Randi  Williams&lt;/td&gt;
+&lt;td&gt;MIT Media Lab&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Rediet  Abebe&lt;/td&gt;
+&lt;td&gt;Cornell University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sam Ade Jacobs&lt;/td&gt;
+&lt;td&gt;Lawrence Livermore National Lab&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Shivanand P. Guness&lt;/td&gt;
+&lt;td&gt;African Leadership University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;sileye  Ba&lt;/td&gt;
+&lt;td&gt;Dailymotion&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sneha  Jha&lt;/td&gt;
+&lt;td&gt;Nuance&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Vicente  Ordonez&lt;/td&gt;
+&lt;td&gt;University of Virginia&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;VICTOR  Dibia&lt;/td&gt;
+&lt;td&gt;Cloudera Fast Forward Labs&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Wil B Thomason&lt;/td&gt;
+&lt;td&gt;Cornell University&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Yves-Laurent  Kom Samo&lt;/td&gt;
+&lt;td&gt;PIT.AI TECHNOLOGIES INC.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Zelalem Fantahun Abate&lt;/td&gt;
+&lt;td&gt;iCog-Labs Software Consultancy&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Timnit  Gebru&lt;/td&gt;
+&lt;td&gt;Google&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Victor  Silva&lt;/td&gt;
+&lt;td&gt;University of Alberta&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ehimwenma  Nosakhare&lt;/td&gt;
+&lt;td&gt;Massachusetts Institute of Technology&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
     </item>
     
     <item>
       <title>Programs 2019</title>
-      <link>https://blackinai.github.io/workshop/2019/programs/</link>
+      <link>blackinai.github.io/workshop/2019/programs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blackinai.github.io/workshop/2019/programs/</guid>
-      <description>The 3rd Black in AI event will be co-located with NeurIPS 2019 at the Vancouver Convention Center, Vancouver Canada on December 9th from 7:30 am to 8:00 pm PST. The workshop will feature a panel discussion and invited talks from prominent researchers and practitioners, oral presentations, and a poster session. We invite all members of the AI community to attend the workshop. Please, register at this registration link.</description>
+      <guid>blackinai.github.io/workshop/2019/programs/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;The 3rd Black in AI event will be co-located with  
+&lt;a href=&#34;https://nips.cc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeurIPS 2019&lt;/a&gt; at the 
+&lt;a href=&#34;https://www.vancouverconventioncentre.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vancouver Convention Center Vancouver Canada&lt;/a&gt; on &lt;b&gt;December 9th from 7:30 am to 8:00 pm PST&lt;/b&gt;. The workshop will feature a panel discussion and invited talks from prominent researchers and practitioners, oral presentations, and a poster session. We invite all members of the AI community to attend the workshop. Please, register at 
+&lt;a href=&#34;https://www.eventbrite.com/e/3rd-black-in-ai-workshop-at-neurips2019-tickets-78816631667&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this registration link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;There will also be a reception followed by the annual dinner to facilitate networking, discussion of different career opportunities in AI, and sharing of ideas to increase participation of Black researchers in the field. The dinner will take place on &lt;b&gt;December 13th&lt;/b&gt; at the 
+&lt;a href=&#34;https://www.marriott.com/hotels/travel/yvrws-sheraton-vancouver-wall-centre/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sheraton Vancouver Wall Centre&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;schedule-2019&#34;&gt;Schedule 2019&lt;/h1&gt;
+&lt;hr&gt;
+&lt;p&gt;This program is &lt;b&gt;tentative&lt;/b&gt; and things might change before the workshop date.&lt;/p&gt;
+&lt;p&gt;Workshop is at &lt;b&gt;the convention Center Eastern Building Rooms 1,2,3&lt;/b&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Event&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Institution&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;07:00-08:00 am    &lt;td colspan=3&gt;Registration (NeurIPS registration not required)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;08:00-08:30 am    &lt;td colspan=3&gt; Mentorship Breakfast&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09:00-09:10 am    &lt;td colspan=3&gt; Opening Remarks&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09:10-09:45 am&lt;/td&gt;
+&lt;td&gt;Invited Talk 1&lt;/td&gt;
+&lt;td&gt;Elaine Nsoesie&lt;/td&gt;
+&lt;td&gt;Boston University, USA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09:45-10:00 am&lt;/td&gt;
+&lt;td&gt;Contributed Talk 1&lt;/td&gt;
+&lt;td&gt;Selameab Demilew&lt;/td&gt;
+&lt;td&gt;University of Ottawa, Canada&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00-10:15 am&lt;/td&gt;
+&lt;td&gt;Contributed Talk 2&lt;/td&gt;
+&lt;td&gt;Abeba Birhane&lt;/td&gt;
+&lt;td&gt;University College Dublin, Ireland&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:15-10:30 am&lt;/td&gt;
+&lt;td&gt;Contributed Talk 3&lt;/td&gt;
+&lt;td&gt;Neema Mduma&lt;/td&gt;
+&lt;td&gt;NM-AIST, Tanzania&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:30-11:00 am    &lt;td colspan=3&gt; Coffee Break&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:00-11:35 am&lt;/td&gt;
+&lt;td&gt;Invited Talk 2&lt;/td&gt;
+&lt;td&gt;Sarah Menker&lt;/td&gt;
+&lt;td&gt;Gro Intelligence, USA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:35-11:50 am&lt;/td&gt;
+&lt;td&gt;Contributed Talk 4&lt;/td&gt;
+&lt;td&gt;Israel Birhane&lt;/td&gt;
+&lt;td&gt;MILA, Canada&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11:50-12:05 pm&lt;/td&gt;
+&lt;td&gt;Contributed Talk 5&lt;/td&gt;
+&lt;td&gt;Robert Ness&lt;/td&gt;
+&lt;td&gt;Gamalon, Inc, USA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:05-12:20 pm&lt;/td&gt;
+&lt;td&gt;Contributed Talk 6&lt;/td&gt;
+&lt;td&gt;Folake Akinbohun&lt;/td&gt;
+&lt;td&gt;Rufus Giwa Polytechnic, Nigeria&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12:20-02:45 pm    &lt;td colspan=3&gt; Lunch + Joint Poster Session with WiML&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;02:45-03:00 pm&lt;/td&gt;
+&lt;td&gt;Contributed Talk 7&lt;/td&gt;
+&lt;td&gt;Rahel Tamiru&lt;/td&gt;
+&lt;td&gt;Bahir Dar Universty, Ethiopia&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;03:00-03:15 pm&lt;/td&gt;
+&lt;td&gt;Contributed Talk 8&lt;/td&gt;
+&lt;td&gt;Wilka Carvalho&lt;/td&gt;
+&lt;td&gt;University of Michigan&amp;ndash;Ann Arbor, USA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;03:15-03:45 pm    &lt;td colspan=3&gt; Coffee Break&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;03:45-04:20 pm&lt;/td&gt;
+&lt;td&gt;Invited Talk 3&lt;/td&gt;
+&lt;td&gt;Matthew Kenney&lt;/td&gt;
+&lt;td&gt;Duke University, USA&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;04:20-05:00 pm    &lt;td colspan=3&gt; Panel Discussion&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;05:00-05:30 pm    &lt;td colspan=3&gt; Awards &amp;amp; Closing Remarks&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;05:30 pm&lt;/td&gt;
+&lt;td&gt;BREAK&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;06:30-08:00 pm     &lt;td colspan=3&gt;Joint Affinity Groups Poster Session (co-located with NeurIPS opening reception, NeurIPS registration not required)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The 3rd BAI annual dinner will be held on &lt;b&gt;Friday, December 13th at 6:30 pm PST&lt;/b&gt; at the &lt;b&gt;
+&lt;a href=&#34;https://www.marriott.com/hotels/travel/yvrws-sheraton-vancouver-wall-centre/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sheraton Vancouver Wall Centre&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Event&lt;/th&gt;
+&lt;th&gt;Speaker&lt;/th&gt;
+&lt;th&gt;Institution&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;06:30-07:30 pm  &lt;td colspan=3&gt; Reception, Book Signing by Ruha Benjamin &amp;amp; Networking&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;07:30-08:00 pm  &lt;td colspan=3&gt; Welcome to Dinner&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;08:00-10:00 pm  &lt;td colspan=3&gt; Dinner &amp;amp; Networking&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;08:30-08:45 pm  &lt;td colspan=3&gt; BAI Presentations&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;08:45-9:30 pm&lt;/td&gt;
+&lt;td&gt;Fireside Chat&lt;/td&gt;
+&lt;td&gt;Ruha Benjamin &amp;amp; Charity Wayua&lt;/td&gt;
+&lt;td&gt;Princeton U. &amp;amp; IBM Research Africa&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10:00-01:00 am  &lt;td colspan=3&gt; Networking &amp;amp; the Annual BAI Music (featuring 
+&lt;a href=&#34;https://www.linkedin.com/in/mohamed-hassan-kane-4b50328a&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DJ Hassan Kane&lt;/a&gt;)&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;dinner-invited-speakers&#34;&gt;Dinner Invited Speakers&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ruha-benjaminhttpswwwruhabenjamincom&#34;&gt;
+&lt;a href=&#34;https://www.ruhabenjamin.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ruha Benjamin&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/ruha.jpeg&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/ruha.jpeg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;b&gt;Presentation Format&lt;/b&gt;: &amp;ldquo;Fireside Chat at the BAI Dinner&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Bio&lt;/b&gt;: Dr. Ruha Benjamin is Associate Professor of African American Studies at Princeton University, founder of the JUST DATA Lab, and author of People’s Science: Bodies and Rights on the Stem Cell Frontier (2013) and Race After Technology: Abolitionist Tools for the New Jim Code (2019) among other publications. Her work investigates the social dimensions of science, medicine, and technology with a focus on the relationship between innovation and inequity, health and justice, knowledge and power. Professor Benjamin is the recipient of numerous awards and fellowships including from the American Council of Learned Societies, National Science Foundation, Institute for Advanced Study, and the President’s Award for Distinguished Teaching at Princeton. For more info visit &lt;a href=&#34;http://www.ruhabenjamin.com&#34;&gt;www.ruhabenjamin.com&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;charity-wayuahttpswwwlinkedincomincharity-wayua-70228b14&#34;&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/charity-wayua-70228b14/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Charity Wayua&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/charity.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/charity.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;b&gt;Presentation Format&lt;/b&gt;: &amp;ldquo;Fireside Chat at the BAI Dinner&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Bio&lt;/b&gt;: Charity is currently a Research Manager at IBM Research Africa. She leads the Public Sector team whose mission is to develop commercially viable technologies that transform how governments function and provide services to their citizens. She and her colleagues are currently working with the Kenyan government as technical advisors to develop and help implement reforms that transform the business environment for SME&amp;rsquo;s to thrive. In the first year of implementation this work resulted in Kenya&amp;rsquo;s ranking on the World Bank annual Ease of Doing Business ranking improving by 21 spots and Kenya was rated the third top reformer in the world.&lt;/p&gt;
+&lt;p&gt;Charity holds a PhD in Chemistry from Purdue University and a Bachelor&amp;rsquo;s degree in Chemistry from Xavier University.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;workshop-invited-speakers&#34;&gt;Workshop Invited Speakers&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;elaine-nsoesiehttpswwwbuedusphprofileelaine-nsoesie&#34;&gt;
+&lt;a href=&#34;https://www.bu.edu/sph/profile/elaine-nsoesie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elaine Nsoesie&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/nsoesie.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/nsoesie.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;b&gt;Presentation Format&lt;/b&gt;: &amp;ldquo;Keynote at the BAI Workshop&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Title of Presentation&lt;/b&gt;: &amp;ldquo;Using Digital Data and Technology to Improve Health&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;: The global use of digital technologies has resulted in an unprecedented availability of digital data. If properly mined and filtered, these data can be combined with environmental, socioeconomic and epidemiologic data for understanding disease and health patterns, as well as the relationship between human behavior and disease spread. In this talk, Dr. Nsoesie will discuss the nascent field of digital epidemiology and present examples on the use of digital data (e.g., social media, Internet news, business and product reviews) and machine learning for monitoring infectious diseases, unsafe food products and risk factors for obesity.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Bio&lt;/b&gt;: Dr. Nsoesie is an Assistant Professor of Global Health at Boston University (BU) School of Public Health. She is also a BU Data Science Faculty Fellow as part of the BU Data Science Initiative at the Hariri Institute for Computing and a Data and Innovation Fellow at The Directorate of Science, Technology and Innovation (DSTI) in the Office of the President in Sierra Leone. Dr. Nsoesie applies data science methodologies to global health problems, using digital data and technology to improve health, particularly in the realm of surveillance of chronic and infectious diseases. She has worked with local public health departments in the United States and international organizations, such as UNICEF, Brazil Ministry of Health and the Surgo Foundation. She completed her postdoctoral studies at Harvard Medical School, and her PhD in Computational Epidemiology from the Genetics, Bioinformatics and Computational Biology program at Virginia Tech. She also has an MS in Statistics and a BS in Mathematics. Her work has been widely reported in news outlets and science magazines, including articles in Science, Smithsonian Magazine, Forbes, Washington Post, National Public Radio (NPR) and the BBC. She is the founder of Rethé - an initiative focused on providing scientific writing tools and resources to student communities in Africa in order to increase representation in scientific publications. She has written for NPR, The Conversation, Public Health Post and Quartz. Dr. Nsoesie was born and raised in Cameroon.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;sara-menkerhttpwwwgro-intelligencecom&#34;&gt;
+&lt;a href=&#34;http://www.gro-intelligence.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sara Menker&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/sara.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/sara.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;b&gt;Presentation Format&lt;/b&gt;: &amp;ldquo;Keynote at the BAI Workshop&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Title of Presentation&lt;/b&gt;: &amp;ldquo;Living is an Agricultural Act: AI for Global Food Security&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;: From the food we eat to the clothing we wear and the gasoline in millions of cars across the globe, agriculture touches our daily existence like few other industries. Today new challenges for the industry are emerging faster than ever before - climate change, politics, population growth, and changing tastes, to name a few - but decision-makers still operate in an extraordinarily information-poor environment. In this talk, Ms. Menker will discuss how Gro Intelligence leverages AI and machine learning to increase data availability, create clarity, and forecast and address some of the industry’s most pressing and complicated problems.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Bio&lt;/b&gt;: Sara Menker is the founder and CEO of Gro Intelligence. Gro is AI for agriculture. Gro’s platform automatically harvests vast amounts of disparate global agricultural data, transforms it into knowledge, and generates predictions for volatile markets. Prior to founding Gro, Sara was a Vice President in Morgan Stanley’s commodities group. She began her career in commodities risk management, where she covered all commodity markets, and subsequently moved to trading, where she managed an options trading portfolio. Sara is a Trustee of the Mandela Institute For Development Studies (MINDS) and a Trustee of the International Center for Tropical Agriculture (CIAT). Sara was named a Global Young Leader by the World Economic Forum and is a fellow of the Aspen Institute. Sara received a B.A. in Economics and African Studies at Mount Holyoke College and the London School of Economics and an M.B.A. from Columbia University.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;matthew-kenneyhttpwwwmattkenneymeabout&#34;&gt;
+&lt;a href=&#34;http://www.mattkenney.me/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matthew Kenney&lt;/a&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/matthew.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/matthew.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;b&gt;Presentation Format&lt;/b&gt;: &amp;ldquo;Keynote at the BAI Workshop&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Title of Presentation&lt;/b&gt;: &amp;ldquo;Creative Red Teaming: Approaches to Addressing Bias and Misuse in Machine Learning&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;: Developing machine learning systems that address social biases and potential misuse requires creative approaches. Recently, we have seen the development of models that contain substantial social biases, as well as models ripe for potential misuse in relation to neural disinformation. In this lecture, I examine how creative technologists, researchers in the digital humanities, and machine learning researchers can work together to develop more robust defenses. I discuss how a deep understanding of historical context can inform current socio-political impacts of neural disinformation and bias in machine learning models. I then highlight research that operationalizes these models, and discuss how we might foster critical interactions between research fields to combat bias and misuse moving forward.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Bio&lt;/b&gt;: Matthew Kenney is a researcher, developer, and designer. His work centers on the intersection of technology, design, and critical software development. He is a researcher at Duke University in Computational Media Arts and Cultures, where he teaches classes on machine learning, software development and interaction design. His research areas include machine learning, race, society and information studies. He holds a Bachelor’s of Science from Cornell University and a Masters in New Media from Penn State University.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;workshop-contributed-speakers&#34;&gt;Workshop Contributed Speakers&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;bselameab-demilewb&#34;&gt;&lt;b&gt;Selameab Demilew&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;Presentation Format&lt;/b&gt;: &amp;ldquo;Contributed talk at the BAI Workshop&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Authors&lt;/b&gt;: Selameab Demilew (University of Ottawa)*&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Title of Presentation&lt;/b&gt;: Camera and LIDAR Fusion for Vehicle Detection in Low-Radiance Scenes&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;: Object detection has seen remarkable progress in the past couple of years. Most notably, the RCNN series and SSD have brought about profound developments by using convolutional neural networks. However, real world use cases such as robotics and autonomous vehicles do not guarantee ideal lighting conditions for these algorithms to perform at full capacity. This demand, propelled by the explosion of sensors and computing power, has led to the development of robust algorithms capable of estimating the position of objects based on measurements from multiple sensors. In this paper, we summarize the gain and limitations of augmenting color images from a regular camera with depth information from LIDARs. This is an ongoing research to identify and rectify shortcomings in image based object detection algorithms with emphasis on self-driving cars.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;babeba-birhaneb&#34;&gt;&lt;b&gt;Abeba Birhane&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;Presentation Format&lt;/b&gt;: &amp;ldquo;Contributed talk at the BAI Workshop&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Authors&lt;/b&gt;: Abeba Birhane (University College Dublin)*; Fred  Cummins (University College Dublin )&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Title of Presentation&lt;/b&gt;: Algorithmic Injustices: Towards a Relational Ethics&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;: Decision-making processes in various social, political, and economical spheres are increasingly assisted by algorithmic systems. Improved efficiency, the hallmark of these systems, drives the mass scale integration of algorithmic systems into daily life. However, as a robust body of research in the area of algorithmic injustice shows [1], [2], [3], algorithmic tools embed and perpetuate societal and historical injustice. A persistent recurring trend within the literature indicates that society’s most vulnerable are disproportionally impacted. When algorithmic unfairness is brought to the fore, most of the solutions on offer 1) revolve around technical solutions and 2) do not centre disproportionally impacted groups. This paper zooms out and draws the bigger picture. It 1) argues that concerns surrounding algorithmic decision making and algorithmic injustice require fundamental rethinking above and beyond technical solutions, and 2) outlines a way forward in a manner that centres vulnerable groups through the lens of relational ethics.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;bneema-mdumab&#34;&gt;&lt;b&gt;Neema Mduma&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;Presentation Format&lt;/b&gt;: &amp;ldquo;Contributed talk at the BAI Workshop&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Authors&lt;/b&gt;: Neema Mduma (The Nelson Mandela African Institution of Science and Technology)*; Khamisi Kalegele (Tanzania Commission for Science and Technology); Dina Machuve (The Nelson Mandela African Institution of Science and Technology)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Title of Presentation&lt;/b&gt;: An Ensemble Predictive Model Based Prototype for Student Drop-out in Secondary Schools&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;: When a student is absent from school for a continuous number of days as defined by the relevant authority, that student is considered to have dropped out of school. In Tanzania, for instance, drop-out is when a student is absent continuously for a period of 90 days. Despite the fact that several efforts have been made to improve the overall status of education at secondary level, the student drop-out problem still persists. Taking advantage of advancement in technology, several studies have used machine learning to address the student drop-out problem. However, most of the conducted studies have used datasets from developed countries, while developing countries are facing challenges on generating public datasets to be used to address this problem. Using a dataset from Tanzania which reflect a local scenario; this study presents an ensemble predictive model based prototype for student drop-out in secondary schools. The deployed model was developed by soft combining a tuned Logistic Regression and Multi-Layer Perceptron models. A feature engineering experiment was conducted to obtain the most important features for predicting student drop-out. Furthermore, a visualization module was integrated to assist interpretation of the machine learning results and we used a flask framework in the development of the prototype.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;bisrael-birhaneb&#34;&gt;&lt;b&gt;Israel Birhane&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;Presentation Format&lt;/b&gt;: &amp;ldquo;Contributed talk at the BAI Workshop&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Authors&lt;/b&gt;: Israel Birhane (Mila)*&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Title of Presentation&lt;/b&gt;: Nanoscale Microscopy Images Colourization Using Neural Networks&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;: Grey microscopy images are powerful tools and widely used in major research areas, such as biology, chemistry, physics, and materials fields. However, most of the microscopy images are colorless due to the special imaging mechanism. For example, SEM produces images by scanning the surface of the sample with a focused beam of electrons, while AFM measures the forces between the probe and the sample as a function of their mutual separation. Though investigating on some popular solutions proposed recently about colorizing microscopy images, we notice the process of those methods are usually tedious, complicated, and time-consuming. 
+In this paper, we introduce two neural networks for gray microscopy image colorization:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;An End-to-End convolutional neural network (CNN) with a pre-trained Inception ResNetV2 model for feature extraction. 
+2.A Neural Style Transfer convolutional neural network (NST-CNN), which can colorize grey microscopy images with semantic information learned from a user-provided color image at inference time. 
+Our experiments show that our algorithm could able to color the microscopy images under complex circumstances precisely.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;brobert-nessb&#34;&gt;&lt;b&gt;Robert Ness&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;Presentation Format&lt;/b&gt;: &amp;ldquo;Contributed talk at the BAI Workshop&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Authors&lt;/b&gt;: Robert Ness (Gamalon Inc.), Kaushal Paneri (Northeastern University), Olga Vitek (Northeastern University)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Title of Presentation&lt;/b&gt;: Integrating Markov processes with structural causal modeling enables counterfactual inference in complex systems&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;: This manuscript contributes a general and practical framework for casting a Markov process model of a system at equilibrium as a structural causal model, and carrying out counterfactual inference. Markov processes mathematically describe the mechanisms in the system, and predict the system’s equilibrium behavior upon intervention, but do not support counterfactual inference. In contrast, structural causal models support counterfactual inference, but do not identify the mechanisms. This manuscript leverages the benefits of both approaches. We define the structural causal models in terms of the parameters and the equilibrium dynamics of the Markov process models, and counterfactual inference flows from these settings. The proposed approach alleviates the identifiability drawback of the structural causal models, in that the counterfactual inference is consistent with the counter- factual trajectories simulated from the Markov process model. We showcase the benefits of this framework in case studies of complex biomolecular systems with nonlinear dynamics. We illustrate that, in presence of Markov process model misspecification, counterfactual inference leverages prior data, and therefore estimates the outcome of an intervention more accurately than a direct simulation.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;bfolake-akinbohunb&#34;&gt;&lt;b&gt;Folake Akinbohun&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;Presentation Format&lt;/b&gt;: &amp;ldquo;Contributed talk at the BAI Workshop&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Authors&lt;/b&gt;: Folake Akinbohun (Rufus Giwa Polytechnic, Owo)*; Olatubosun Olabode (The Federal University of Technology, Akure); Adetunmbi A.O (Department of computer science Federal University of  Technology, Akure Ondo state. Nigeria); Ambrose Akinbohun (University of Medical Sciences)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Title of Presentation&lt;/b&gt;: Stacked Ensemble Model for Diagnosis of Head and Neck Cancer (HNC) in Primary Healthcare of Developing Countries&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;: OBJECTIVE: The objective is to develop stacked ensemble models for the diagnosis of a patient with Head and Neck Cancer (HNC) using machine learning algorithms
+MOTIVATION: Studies have estimated the global incidence of all head and neck cancers to be between 400,000 and 600,000 new cases per year and the mortality rate is between 223,000 and 300,000 deaths per year (Chaturvedi et al., 2013, Jemal et al., 2011), therefore this research necessitates the study of the diagnosis of HNC so as to help both individual and government in developing countries to plan adequately in order to stem the tide.
+Most African patients with head and neck cancer present to primary care centres but the inability of the health workers to promptly refer them to the specialists for further diagnostic workup is difficult, thereby causing late referral with resultant poor prognosis (Allgar and Neal, 2005), there is a need to develop a system for easy diagnosis so that there would be prompt referral to the ENT (oto-rhino-laryngologist) specialist(s).
+METHOD: Developing stacked ensemble models for diagnosing Head and Neck Cancer (HNC) involves synthesized clinical data, feature selection, base level models and stacked ensemble models. The raw data were obtained from southwest hospitals in Nigeria where case notes of all histopathologically confirmed Head/Neck cancers were retrieved from medical records of the observed hospitals. The dataset consists of 1473 records and 18 features. Filter methods of feature selection are deployed where information gain and consistency are used to remove redundant and irrelevant features from the dataset. 
+Stacked ensemble model consists of two phases: In the first phase, training of the base learners where Decision tree C4.5, K-Nearest Neighbor, Naïve Bayes machine learning algorithms are used to build the base classifiers. The second phase is the training of meta level where Multinominal logistic regression (MLR) is used as the meta level algorithm.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;brahel-tamirub&#34;&gt;&lt;b&gt;Rahel Tamiru&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;Presentation Format&lt;/b&gt;: &amp;ldquo;Contributed talk at the BAI Workshop&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Authors&lt;/b&gt;: Rahel Tamiru (Bahir Dar Universty)*&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Title of Presentation&lt;/b&gt;: Prosody Based Automatic Speech Segmentation for Amharic&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;: The main goal of this work is to develop sentence level automatic speech segmentation system for Amharic. Sentence segmentation is a process of identifying the end of a sentence. In this study, sentence segmentation system is implemented in to two approaches. In the first approach, we used an automatic tool for segmenting and labeling of Amharic speech data. Acoustic model is created using speech and their text scripts and compiling them into a statistical representation of sounds which makeup words. This is done through HMM modeling. The approach one automatic speech segmentation system is done by forced alignment. In this approach we used rule-based and AdaBoost to discriminate the true boundaries from false. In the second approach, we extracted prosodic features directly from speech waveform and also statistical method, AdaBoost, is used.&lt;br&gt;
+The evaluation of the experiments shows that monosyllable acoustic model is the better model to get accurate forced alignment than monophone and tide state tri-syllable model. And also adaboost classifier showed consistently good results especially in decision tree classifier. In all experiment read-aloud speech perform higher accuracy than spontaneous speech. It also indicates that spontaneous speech is more difficult than read-aloud because, the spontaneous speech contains more noise and disfluencies. The evaluation in phase two indicates that pause feature is a basic discriminator for Amharic sentence boundary. And also when prosodic features are introduced, the performance is increased. The scope of the research work is narrowed down only to sentences level segmentation. It is also required to conduct a research on automatic speech segmentation of other discrete units.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;bwilka-carvalhob&#34;&gt;&lt;b&gt;Wilka Carvalho&lt;/b&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;Presentation Format&lt;/b&gt;: &amp;ldquo;Contributed talk at the BAI Workshop&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Authors&lt;/b&gt;: Wilka Carvalho (University of Michigan&amp;ndash;Ann Arbor), Kimin Lee (Korea Advanced Institute of Science and Technology), Richard Lewis (University of Michigan&amp;ndash;Ann Arbor), Satinder Singh (University of Michigan&amp;ndash;Ann Arbor/Deepmind) and Honglak Lee (University of Michigan&amp;ndash;Ann Arbor/Google Brain)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Title of Presentation&lt;/b&gt;: Efficiently Learning to Perform Household Tasks with Object-Oriented Exploration&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;: Human perception and decision making are centered around perceiving objects and interacting with them. Remarkably, humans enter environments without knowledge of the objects or categories they will encounter and learn spatially invariant representations for novel object-categories as they explore object-interactions that fulfill their goals. Yet much work in deep reinforcement learning (RL) that requires explicit object-interaction has avoided the object perception problem and provided agents with a priori knowledge of the objects they will interact with. In this work, we explore how an RL agent without a priori knowledge of environment objects can efficiently learn to perform complex object-oriented tasks by learning invariant object-category representations. We propose a novel self-supervised object-memory module that leverages interactions with objects to learn a view-invariant object recognition function. We exploit this view-invariance by combining it with count-based exploration to enable object-oriented exploration. This enables our agent to explore among object-interactions instead of among all state-action pairs. In order to evaluate our method, we introduce a set of challenging tasks in the AI2Thor 3D-home environment and show that our approach enables sample-efficient learning of complex, object-oriented RL tasks.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;accepted-posters&#34;&gt;Accepted Posters&lt;/h1&gt;
+&lt;p style=&#34;color: black&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;A Blended Approach of Machine Learning Techniques
+in Predicting Vegetation Cover
+Bruno Ssekiwere (Uganda Technology and Management U.);
+Timothy Kivumbi (Uganda Technology and Management U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Transfer Learning for ECG-based Virtual Pathology
+Stethoscope Tracking
+Haben G Yhdego (Old Dominion U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;An Ensemble Predictive Model Based Prototype for
+Student Drop-out in Secondary Schools
+Neema Mduma (NMIST); Khamisi Kalegele (Tanzania Commission
+for Science and Technology); Dina Machuve (NMIST)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Classifying Malware by their Behavior Using API
+System Calls
+Allan Ninyesiga (Uganda Technology and Management U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A Predictive Model for Classifying Post Treatment
+Mortality Rate of Breast Cancer Patients
+Sakinat O Folorunso (Olabisi Onabanjo U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;From Stroke to Finite Automata: An Offline
+Recognition Approach
+Kehinde Aruleba (U. of the Witwatersrand)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Unsupervised Similarity Based Topic Segmentation
+System for Amharic
+Abey D Melles (US Embassy)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prediction of Postures on a Smart Chair
+Tariku A Gelaw (Ethiopian Biotechnology Inst.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Models for Predicting Global Solar Radiation Using
+Artificial Neural Network
+Stephen G Fashoto (U. of Swaziland)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dictionary Based Amharic Sentiment Lexicon
+Construction
+Girma Neshir N Alemneh (Addis Ababa U.); Solomon Atnafu (Addis
+Ababa U.); Andreas Rauber (TU Wien)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Applying Machine Learning Algorithms for Kidney
+Disease Diagnosis
+Yenatfanta S Bayleyegn (Ethiopian Biotechnology Inst.); Meron
+Alemayehu (Ethiopian Biotechnology Inst.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Banana Diseases Detection using Deep Learning
+Sophia Leonard Sanga (NMIST); Kennedy Jomanga (International
+Inst. of Tropical Agriculture); Dina Machuve (NMIST)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Corpora Development for Igbo Sentiment Lexicons
+Emeka Ogbuju (Federal U. Lokoja); Moses Onyesolu (Nnamdi
+Azikiwe U. Awka)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sentiment Analysis Model for Opinionated Awngi Text:
+Case of Music Reviews
+Melese Mihret Wondim (U. of Gondar); Muluneh Atinaf (Addis
+Ababa U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Digital Restoration of Degraded Script Documents for
+Character Recognition via Machine Learning
+Amanuel Lemma Jagisso (Aksum U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Amharic Text Normalization with Sequence-to-
+Sequence Models
+Seifedin S Mohamed (Addis Ababa Univerisy)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Modelling Large-Scale Signal Fading in Urban
+Environment Based on Fuzzy Inference System
+Abigail O Jefia (Covenant U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Synthesis of Social Media Profiles Using a Probabilistic
+Context-Free Grammar
+Abejide Olu Ade-Ibijola (U. of Johannesburg)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Deep Learning-Based Approach for Identification of
+Tomato Plant Damages Caused by Tuta Absoluta
+Lilian E Mkonyi (NMIST)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A Web-based Data Visualization Tool for Student
+Dropouts in Tanzania: Case of Primary and Secondary
+Schools
+Angelika M Kayanda (NMIST)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Prosody Based Automatic Speech Segmentation for
+Amharic
+Rahel Mekonen Tamiru (Addis Ababa U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sentence Level Amharic Text Sentiment Analysis
+Model: A Combined Approach
+Bitseat T Aragaw (iCog-Labs)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Energy-Aware Control of Mobile Networks: a
+Reinforcement Learning Approach
+Dagnachew Azene Temesgene (CTTC)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hybrid vs Ensemble of Classification Model for
+Phishing Website Classification
+Fatimah O Salami (First Bank of Nigeria Limited); Sakinat O
+Folorunso (Olabisi Onabanjo U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Factored Convolutional Neural Network for Amharic
+Character Image Recognition
+Birhanu Hailu Belay (Bahir Dar Inst. of Technology)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Machine Learning to Predict Fuel Consumption
+Landrine Guimfac Teufac (Fultang Polyclinic); Rosine Carole
+Kemgang Dongmo (Centre de Sante Sainte Romaine); Jacques Tobie
+(U. of Douala); Silviane Samantha Sietchepin Yameni (U. of Buea)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Knowledge Transfer using Model-Based Deep
+Reinforcement Learning
+Tlou J Boloka (CSIR); Tiro Setati (CSIR)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Toward a mixed initiative handwriting tutor for
+preschoolers
+Jean Michel Amath Sarr (UCAD)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A Step Towards Exposing Bias in Trained
+Convolutional Neural Network Models
+Daniel A Omeiza (Carnegie Mellon U. Africa)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nanoscale Microscopy Images Colourization Using
+Neural Networks
+Israel G Birhane (Mila)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ideological Drifts in the U.S. Constitution: Detecting
+Areas of Contention with Models of Semantic Change
+Abdul Abdulrahim (U. of Oxford)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A Translation-Based Approach to Morphology
+Learning for Low Resource Languages
+Tewodros Abebe Gebreselassie (Addis Ababa U.); Amanuel N
+Mersha (Addis Ababa Inst. Technology)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Improving automated in-field cassava disease
+diagnosis with semantic segmentation
+Gloria Namanya (Makerere U.); Benjamin Akera (Makerere U.);
+Daniel Ssendiwala (Makerere U.); Chodrine Mutebi ( , Makerere U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;NMT vs. Factored SMT for bidirectional Amharic -
+English Machine Translation
+Tsegaye A. Mekonnen (Addis Ababa U.); Tensaye y Ayalew
+(Ethiopian Inst. of Technology-Mekelle Unversity)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Deep Learning Based Survival Time Prediction of Brain
+Tumor Patients Using Multi-Modal MRI Images
+Abdela A Mossa (Cukurova Universiy)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AI Class Monitor: Improving Quality of Learning
+through Facial Emotion Recognition and Classroom
+Behaviour Modelling
+Olubayo Adekanmbi (Data Science Nigeria); Toyin Adekanmbi
+(Data Science Nigeria)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stock Price Prediction System using Long Short-Term
+Memory
+Omolayo G. Olasehinde (FUTA AI and Data Science)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Camera and LIDAR Fusion for Vehicle Detection in
+Low-Radiance Scenes
+Selameab S Demilew (U. of Ottawa)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;NFE: A New Feature Engineering Approach to Improve
+Malware Classification
+Emmanuel Masabo (Makerere U.); Swaib Kyanda Kaawaase
+(Makerere U.); Julianne Sansa-Otim (Makerere U.); John Ngubiri (U.
+of Dar es Saalam, College of Information and Communication)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Deep Classification Network for Monocular Depth
+Estimation
+Oluwafemi Azeez (Carnegie Mellon U.); Yang Zou (Carnegie Mellon
+U.); B. V. K. Vijaya Kumar (CMU, USA)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Algorithmic Injustices: Towards a Relational Ethics
+Abeba Birhane (U. College Dublin); Fred Cummins (U. College
+Dublin )&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;NASS-AI: Towards Digitization of Parliamentary Bills
+using Document Level Embedding and Bidirectional
+Long Short-Term Memory
+Olamilekan F Wahab (Independent Researcher); Adewale A
+Akinfaderin (Duke Energy Corp.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Extraction of syllabically rich and balanced sentences
+for Semitic Ethiopian langauge
+Hafte Miruts Abera (Addis Ababa U.); Sebsibe Hailemariam (Addis
+Ababa U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Address2vec: Generating vector embeddings for
+blockchain analytics
+Ali H Elzawahry (Makerere U./Ronin Inst.); Samiiha Nalwooga
+(Makerere U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Assessing West African English phonemes using
+machine algorithms
+Adeiza Lasisi Isiaka (Adekunle Ajasin U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fully Convolutional Neural Network for Hair
+Segmentation in the Wild on Mobiles
+Gael Kamdem De Teyou (Huawei); Junior Ziazet (Concordia U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sentiment Analysis on Naija-Tweets
+Taiwo Kolajo (Covenant U.); Olawande Daramola (CPUT); Ayodele
+Adebiyi (Covenant U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Interactive Segmentation for Disaster Relief Mapping
+Muhammed Razzak (Mila)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(Real-Time) Automatic Localization and Labeling of
+Field Plots From Drone Imagery
+Tewodros W Ayalew (U. of Saskatchewan )&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Facial Micro-expression Recognition: A Machine
+Learning Approach
+Iyanu P. Adegun (Federal U. of Technology, Akure, Nigeria); Hima
+Bindu Vadapalli (U. of the Witwatersrand)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Self-Supervised Auxiliary Losses for Navigation-Based
+Deep Reinforcement Tasks
+Eltayeb K. E. Ahmed (African Inst. for Mathematical Sciences); Luisa
+Zintgraf (U. of Oxford); Christian A Schroeder (U. of Oxford); Nicolas
+Usunier (Facebook AI Research)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Part Of Speech (POS) tagging for Amharic: A Machine
+learning approach
+Gebeyehu K. Bayable (Addis Ababa U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Generic and Adaptive Ontology Learner
+Kidane W Degefa (Haramaya U.); Fekade Getahun (Addis Ababa U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bi-directional Matching and Hierarchical Attention
+based Subjective Question Marking using Deep
+Learning
+Abebawu E Eshetu (Haramaya U.); Fekade Getahun (Addis Ababa U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A Computational Intelligent and Environment Friendly
+Approach for Energy Management Optimization in
+Morocco
+Lamyae Mellouk (International U. of Rabat)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Automatic Video Captioning Using Spatiotemporal
+Convolutions On Temporally Sampled Frames
+Simbarashe L Nyatsanga (Stellenbosch U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Deep Learning for Radio Frequency Fingerprinting: A
+Massive Experimental Study
+Emmanuel Ojuba (Northeastern U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Emotion Recognition System for Amharic Language
+Hana Sinishaw Tisasu (iCog-Labs)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Web App for Cassava Leaves’ Diseases Detection
+Sara Ebrahim (AIMS Rwanda); Awa SAMAKE (AIMS-Rwanda / Mila);
+Yasser Salah Eddine Bouchareb (AIMS Rwanda); Aisha Alaagib
+Alryeh (AMMI)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Population-Based Training of Neural Networks at
+Scale
+Sam Ade Jacobs (LLNL); Tim Moon (LLNL); Brian Van Essen (LLNL);
+David Hysom (LLNL); Jae-Seung Yeom (LLNL)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Robust representations for transfer learning on
+heterogeneous spatial graphs
+Chidubem Iddianozie (U. College Dublin)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Resumes Skills Classification using Text-Mining Tools
+RENE CLARISSE DJAMKOU KAMENI (Univerity of Yaoundé 1)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Intelligent Chest X-Rays Images Analysis System (Case
+Study Pneumonia)
+Ibrahimu S Mtandu (U. of Dodoma); Maombi A Amos (U. of
+Dodoma)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Investigation of Infants Nutritional status using
+Machine Learning
+Tigist G Belay (U. of Gondar)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Amadioha: An Open Domain Question Answering Tool
+for Encouraging Citizen Participation in Developing
+Countries.
+VICTOR Dibia (Cloudera Fast Forward Labs); Edidiong-Abasi
+Anwanane (West African Inst. for Financial and Economic
+Management)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Exploiting Spatial Coherence to Improve Prediction in
+Aerial Scene Image Analysis: Application to Disease
+Incidence Estimation
+Rahman Sanya (Makerere U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Moving Towards Strong Generalization using Meta-
+Learning
+Simphiwe N Zitha (U. of the Witwatersrand, Nedbank CIB);
+Benjamin Rosman (U. of the Witwatersrand); Arun Aniyan (Rhodes
+U. &amp;amp; SKA-SA); Sydil R Kupa (Rhodes U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stacked Ensemble Model for Diagnosis of Head
+and Neck Cancer (HNC) in Primary Healthcare of
+Developing Countries
+Folake Akinbohun (Rufus Giwa Polytechnic); Olatubosun
+Olabode (Federal U. of Technology); Adetunmbi A.O (Federal U. of
+Technology); Ambrose Akinbohun (U. of Medical Sciences)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Agent Based Service Restoration in Secondary
+Distribution Network
+Rukia Julius Mwifunyi (U. of Dar es Salaam)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Learning to estimate label uncertainty for automatic
+radiology report parsing
+Tobi Olatunji (Enlitic); Li Yao (Enlitic); Ashwin Jadhav (Enlitic); Kevin
+Lyman (Enlitic)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bayesian state estimation and calibration for a robot
+manipulator end-effector.
+Zimkhitha Sijovu (CSIR)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;End-to-End Aerial Poverty Estimation
+Vongani Maluleke (U. of Cape Town)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Implementing Machine Learning Algorithms to
+achieve the UNAIDS 90-90-90 Strategy in South
+Eastern Districts of Malawi
+Victor L Banda (Imperial College London, Neonatal Data Analysis
+Unit)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Multi-modal Transfer Learning for Continuous Control
+Sicelukwanda N.T. Zwane (U. of the Witwatersrand); Benjamin
+Rosman (U. of the Witwatersrand)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;User Identity Linking Across Social Networks by
+Jointly Modeling Heterogeneous Data with Deep
+Learning
+Asmelash Teka Hadgu (Lesan AI); Jayanth Gundam (Leibniz U.
+Hannover)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ScaffoldNet: Classifying Biomedical Polymer-Based
+Scaffolds via a Convolutional Neural Network
+Darlington Akogo (minoHealth)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A Deep Distributed Anomaly Detection in Edge
+Devices
+Okwudili M Ezeme (UOIT)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Deep Learning Mobile Application Towards Malaria
+Diagnosis
+Frederick R Apina (U. of Dodoma); Halidi S Maneno (U. of Dodoma)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;An automated 1-D Convolutional Neural Network ECG
+Beat Classification
+Mohammed Khalil (FSTM)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Smart handover in Millimeter Wave communication
+for Ultra-Dense Network: Machine Learning Approach
+Michael S Mollel (NMIST and Technology and U. of Glasgow)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Automated Detection of Tuberculosis Using Transfer
+Learning Techniques
+Lilian Muyama (Makerere U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Morphological generation for Wolaytta using
+Convolution based Encoder-Decoder model
+Amanuel N Mersha (Addis Ababa Inst. Technology); Tewodros
+Abebe Gebreselassie (Addis Ababa U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Collaborative PAC Learning with Classification Noise
+Shelby Heinecke (U. of Illinois, Chicago)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Quantifying the effect of low-quality crawled data
+on the quality of word representation of Yor√πb√°
+language
+Jesujoba O Alabi (Saarland U.); David &lt;a href=&#34;mailto:didelani@lsv.uni-saarland.de&#34;&gt;didelani@lsv.uni-saarland.de&lt;/a&gt;
+(Saarland U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CALM : Clustering Augmented Learning Method with
+application to smart parking
+Soumya Suvra Ghosal (NIT Durgapur)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Improving the Performance of Genetic Algorithm
+Solutions for Order Allocation in an E-Market with the
+Pareto Optimal Set
+Mechelle Gittens (U. of the West Indies Cave Hill Campus); Jacob
+Hunte (Western U.); Curtis L Gittens (U. of the West Indies Cave Hill
+Campus)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Semantic Segmentation for Automated Necrosis
+Scoring in Cassava Root Cross-sections with Deep
+Learning
+Benjamin Akera (Makerere U.); Joyce Nakatumba (Makerere U.);
+Jeremy Tusubira (Makerere U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bidirectional LSTM with attention mechanism and
+convolutional layer for Text classification
+Modupe Opeyemi Ishaq (U. of Ado-Ekiti)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Non-Monotonic Sequential Text Generation
+Kianté Brantley (The U. of Maryland College Park); Hal Daumé III (U.
+of Maryland / Microsoft Research); Kyunghyun Cho (New York U.);
+Sean Welleck (New York U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fusion of Meta Data and Musculoskeletal Radiographs
+for Multi-modal Diagnostic Recognition
+Obioma Pelka (U. of Applied Sciences and Arts Dortmund)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;H-SCAN - Automated Horizon Scanning
+Zelalem Fantahun Abate (iCog-Labs Software Consultancy); Biruk
+Aserat Habte (iCog-Labs Software Consultancy); Masresha B Hirabo
+(iCog Labs)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A Deep Learning Approach to Detect Bacterial Wilt on
+Enset Crop (False Banana)
+Yidnekachew kibru Afework (AASTU)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Applying AI and Web Services in Mining Sexual
+Violence Tweets in South Africa
+Jude I Oyasor (U. of the Witwatersrand); Pravesh Ranchod (U. of the
+Witwatersrand); Mpho Raborife (U. of Johannesburg)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hypertension Prediction System Using Naive Bayes
+Classifier
+Idowu T Aruleba (Joseph Ayo Babalola U., Osun-state)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Challenges of identifying and utilizing Big Data
+Analytics in a resource-constrained environment: in
+the case of Ethiopia
+Tigabu Dagne Akal (Addis Ababa U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Effects of Decision Models on Dynamic Multi-objective
+Optimization Algorithms for Financial Markets
+Frederick D Atiah (U. of Pretoria)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Knowledge Discovery in Medical Database using
+Machine Learning Techniques.
+Ahmed Olanrewaju (U. of Ibadan, Ibadan, Oyo State); Adebola Ojo
+(U. of Ibadan)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A Bidirectional Tigrigna-English Statistical Machine
+Translation
+Mulubrhan H Gebrecherkose (Mekelle U., Ethiopian Inst. of
+Technology-Mekelle)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Real-time Vision-based Driver Alertness Monitoring
+using Deep Neural Network Architectures
+Olugbenga J Olamijuwon (Eblocks)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A ChatBot Framework for Robots and other Intelligent
+Agents
+Simon Mekit (iCog Labs)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ESO: Jewellery Machine Learning Classification Model
+Oluwatobi O. Banjo (Olabisi Onabanjo U.); Sakinat O Folorunso
+(Olabisi Onabanjo U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Classification of Phishing in Email URLs: A Deep
+Learning Approach
+Patience T Mhlophe (MTN SA); George GR Obaido (U. of the
+Witwatersrand, Johannesburg)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Moving Object Recognition System with Shadow
+Removal Using Adaptive Gaussian Mixture Model
+ADEKUNLE A.O. (Adayemi College of Education Ondo); adebayo
+aroyehun (Adeyemi College of Education Ondo); AYO F. E
+(McPHERSON U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Classical Machine Learning Algorithms and
+Shallower Convolutional Neural Networks towards
+Computationally Efficient and Accurate Classification
+of Malaria Parasites
+Yaecob Girmay (Mekelle U.); Abel Kahsay (Mekelle U.); Maarig
+Aregawi (Mekelle U.); Achim Ibenthal (HAWK U. of Applied Sciences
+and Arts); Eneyew Adugna (Addis Ababa U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Automated Smartphone Based System for Diagnosis
+of Diabetic Retinopathy
+Misgina Tsighe Hagos (Ethiopian Biotechnology Inst.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Investigating Coordination of Hospital Departments
+in Delivering Healthcare for Acute Coronary Syndrome
+Patients using Data-Driven Network Analysis
+Tesfamariam M Abuhay (U. of Gondar); Bilen Eshete (Haramaya U.);
+Yemisrach G Nigatie (U. of Gondar); Belay Alamneh (U. of Gondar)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Application of AI to the diagnosis of schizophrenia
+from Electroencephalogram (EEG)
+Pelagie Flore TEMGOUA NANFACK (MINRESI/CNDT)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;An Overview of Cardiovascular Disease Infection
+Using Ensemble Voting Classifier
+Olawale Victor Abimbola (AI plus member (Data Science Nigeria));
+Olawale Adeboye (Federal Polytechnic Ilaro Ogun State )&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Adaptable Deep Adversarial Learning
+Chidubem G Arachie (Virginia Tech)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Modelling Polarity and Similarity Measures as
+Features for Text Classification
+Andrew Lukyamuzi (Mbarara U. of Science and Technology);
+Washington Okori (Uganda Technology and Management U.); John
+Ngubiri (Makerere U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Classification of pose view using a unified Embedding
+with Hard Triplet Loss and Gradient Boosted models
+Ala Eddine AYADI (RelationalAI)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A Framework for Digital Multimedia Signals
+Steganalysis for Security Threats Detection
+Toluwase A Olowookere (Ekiti State U., Ado Ekiti); Tobi Ayofe
+(Federal Polytechnic, Ede); Oghenerukevwe Oyinloye (Ekiti State U.,
+Ado-EKiti, Federal U. of Technology Akure, EKiti State U. Ado-Ekiti)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Stagnant zone segmentation with U-net
+Selam Waktola (Inst. of Applied Computer Science, Lodz U. of
+Technology)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Statistical Afaan Oromo Grammar Checker
+Abebe Mideksa Desalegn (Addis Ababa U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Neural Network Based Recognizing Textual Entailment
+using Bidirectional Attentive Matching (BiAM)
+Getenesh Teshome Guta (Haramaya U.); Yaregal Assabie (Addis
+Ababa U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sequence to Sequence Models For Amharic Speech
+Recognition
+Eman Asfaw (iCog-Labs); Mahder Haileslasse (iCog-Labs); Helina
+Girmay (Med Innovation); Iman Abdulselam (self-employed)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Soil Mineral Defieciency Testing(SoMiT Lab)
+Nsubuga D Denise (Uganda Technology and Management U.);
+JEAN Mrs. AMUKWATSE (UTAMU)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Machine Learning for Handover Prediction in Fog
+Computing
+Salahadin Seid Musa (Addis Ababa U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Application of Artificial Neural Networks and
+Mobile Computing Technology for Maternity care in
+Resource-constrained environments
+Genet Shanko Dekebo (Adam Science and Technology U.); Tibebe
+Beshah (Addis Ababa U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A Generalized Approach to Amharic Text-To-Speech
+(TTS) Synthesis System
+Alula Tafere (Addis Ababa U. )&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Enhanced Hybrid Approach for Amharic Sentiment
+Analysis
+Meron T Aragaw (EBTI)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Deep Learning in Healthcare for Malaria Detection
+Abiodun Modupe (U. of the Witwatersrand)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sentimental Analysis of media data for evaluation of
+E-campaign strategies
+Hewitt Tusiime (Makerere U.); Jeremy Tusubira (Makerere U.); Henry
+Mutegeki (Makerere U. )&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Applying Pattern Recognition to Earthquake
+Response Data to Infer the Residual Performance
+Capacity of Damaged Tall Buildings
+Henry V Burton (U. of California, Los Angeles)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Decision Support System for Farmers against Tuta
+Absoluta Effects on Tomato Plants
+Loyani K Loyani (NMIST)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Deep Image Composting
+Shivangi Aneja (Technical U. Of Munich); Soham Mazumder
+(Technical U. Of Munich)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hypersearch: A Parallel Training Approach For
+Improving Neural Networks Performance
+Geraud Nangue Tasse (U. of the Witwatersrand)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Automatic Speaker Recognition: A Comparative
+Analysis for South African Languages
+Tumisho B Mokgonyane (U. of Limpopo); Tshephisho Sefara (CSIR);
+Thipe Modipa (U. of Limpopo); Jonas Manamela (U. of Limpopo)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Detecting Depression on Social Media for Arabic Speakers
+Tuga Abdelkarim Ahmed (Nile Center for Technology Research)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Opinion Mining From Amharic Entertainment Texts
+Abreham Getachew (Addis Ababa U. )&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Learning from Demonstration: An Investigation into
+the use of Predictive Sequence Learning (PSL) for
+Robot Manipulation
+Victor A Akinwande (CMU - Africa)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Expert System for Eye Disease Diagnosis
+Abraham E. Musa (Multiskills Nigeria Limited)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Blended Churn Predictive System for Quadruple-
+Patterned Churn Classification in Effective Customer
+Behavioural Management
+Ayodeji O.J Ibitoye (Bowen U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Generative adversarial networks for sound generation
+FOUTSE YUEHGOH (Paris Saclay); Foutse Yuehgoh (African Inst. for
+Mathematical Sciences )&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Syntax analysis for the Amharic language
+Tsedeniya T Kinfe (Addis Ababa Universty)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reinforcement Learning based Energy Efficiency
+Optimisation for 5G Mobile Cellular Networks
+Attai I Abubakar (U. of Glasgow)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Identification of Risk Factors and RegionalDifferentials
+in Under-Five Mortality in Ethiopia UsingMultilevel
+Count Model
+Tibebu Getiye Assefa (Ethiopian Civil Service U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Exploring the Role of Trade Network and Product
+Space in Accelerating Growth Using Network Based
+Visualization
+Fisseha Gidey Gebremedhin (U. of Yaounde I)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Applying Deep Learning to Technical Analysis Based
+Trading In African Financial Markets
+James A Assiene (AIMS-AMMI Rwanda)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fake image detection using the error level analysis
+Tinbit Esayas (IRC)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Constructive recommendation for Combinatorial
+choice seats
+Bereket Abera Yilma (Luxembourg Inst. of Science and Technology
+(LIST))&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Enhancing Spatial LTN Descriptions with Qualitative
+and Quantitative Temporal Resources
+Milena Tenorio (Inst. of Computing - Federal U. of Amazonas);
+Edjard Souza (Inst. of Computing - Federal U. of Amazonas)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Data Driven Tissue Models for Surgical Image Guidance
+Michael Barrow (UCSD); Qizhi He (Pacific Northwest National
+Laboratory); Ryan Kastner (UC San Diego)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mobile Artificial Intelligence Technology for Detecting
+Macula Edema and Subretinal Fluid on OCT Scans:
+Initial Results from the DATUM alpha Study
+Stephen Odaibo (RETINA-AI Health, Inc); Mikelson Mompremier
+(MomPremier Eye Inst.); Richard Hwang (South West Retina
+Consultants); Salman Yousuf (Saratoga Ophthalmology); Steven
+Williams (Mid-South Retina Associates); Joshua Grant (Bloomfield
+Eye Associates)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Agent-based simulation of an e-commerce with
+adaptive strategy using reinforcement learning for
+product selection
+Rodrigo Alves Martins (Pontificial Catholic U. of Minas Gerais);
+Sandro Jerônimo de Almeida (Pontificial Catholic U. of Minas
+Gerais)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Biological Sequence Analysis using Profile Hidden
+Markov Models
+Mírian Da Silva (Federal U. of Minas Gerais)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Using AI Explainability to Discuss Racial
+Discrimination in a Credit Scoring System
+Ramon Vilarino (LatAm Experian DataLab and U. of São Paulo);
+Santiago Rodrigues (Ryerson U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Efficiently Learning to Perform Household Tasks with
+Object-Oriented Exploration
+Wilka Carvalho (U. of Michigan&amp;ndash;Ann Arbor); Kimin Lee (Korea
+Advanced Inst. of Science and Technology); Richard Lewis (U. of
+Michigan&amp;ndash;Ann Arbor); Satinder Singh (U. of Michigan&amp;ndash;Ann Arbor/
+Deepmind); Honglak Lee (U. of Michigan&amp;ndash;Ann Arbor/Google Brain)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Computer Vision Techniques for Automatic Analysis of
+Textured Hair
+Kymberlee Hill (Howard U.); Gloria Washington (Howard U.);
+Chinasa Okolo (Cornell U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Classification of Malignant Vesicle Phenotype from Biophysical
+Features from Extracellular Vesicles Obtained
+from Patients with Acute Myelogenous Leukemia.
+Chibuikem Nwizu (Brown U.); Theo Borgovan (Rhode Island Hospital);
+Peter Quesenberry (Rhode Island Hospital); Lorin Crawford
+(Brown U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Estimating Competitive Equilibria for Convex Valuations
+Kweku Kwegyir-Aggrey (Brown U.); Enrique Areyan Viqueira (Brown
+U.); Amy Greenwald (Brown U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Co-opNet: Cooperative Generator-Discriminator
+Networks for Abstractive Summarization with
+Narrative Flow
+Saadia Gabriel (U. of Washington); Antoine Bosselut (U. of
+Washington); Ari Holtzman (U. of Washington); Jan Buys (U. of
+Washington); Kyle Lo (Allen Inst. for Artificial Intelligence); Asli
+Celikyilmaz (Microsoft); Yejin Choi (U. of Washington)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lip Reading with Hahn Convolutional Neural
+Networks moments
+Hicham Hammouchi (International U. of Rabat)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AI-based application for delivering cervical cancer
+e-consultations
+Shamim Nabuuma (Community Dental and Reproductive Health)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Inferring Crop Pests and Diseases from Imagery Soil
+Data and Soil Properties
+Bruno Ssekiwere (Uganda Technology and Management U.); Claire
+Babirye (Uganda Technology and Management U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Improving Hate Speech Classification on Twitter
+Susana Benavidez (Stanford U.); Andy Lapastora (Stanford U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Energy Optimization of Wireless Sensor Network
+Using Neuro-Fuzzy Algorithms
+Mohammed Ali Mr. Adem (Bahirdar U.)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Music video classification using audio and visual
+features
+Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
       <title>Sponsors 2019</title>
-      <link>https://blackinai.github.io/workshop/2019/sponsors/</link>
+      <link>blackinai.github.io/workshop/2019/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blackinai.github.io/workshop/2019/sponsors/</guid>
-      <description>Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.
- Title Sponsor Diamond Sponsors --  Platinum Sponsors  Gold Sponsors   Silver Sponsors  Thanks We thank the following companies and institutions for their support.</description>
+      <guid>blackinai.github.io/workshop/2019/sponsors/</guid>
+      <description>&lt;p&gt;Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.&lt;/p&gt;
+&lt;hr&gt;
+## &lt;span style=&#34;color:Gold&#34;&gt;Title Sponsor&lt;/span&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/mcarthur.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/mcarthur.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;span-stylecolorlightbluediamond-sponsorsspan&#34;&gt;&lt;span style=&#34;color:lightblue&#34;&gt;Diamond Sponsors&lt;/span&gt;&lt;/h2&gt;
+&lt;!--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-icon&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/blackinai.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/blackinai.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+ --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/accenture.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/accenture.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/deepmind.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/deepmind.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/facebook.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/facebook.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/google.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/google.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/hopper-dean.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/hopper-dean.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/rockefeller.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/rockefeller.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;span-stylecolorplatinumplatinum-sponsorsspan&#34;&gt;&lt;span style=&#34;color:Platinum&#34;&gt;Platinum Sponsors&lt;/span&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/apple.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/apple.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/microsoft.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/microsoft.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/openai.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/openai.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/pai.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/pai.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;span-stylecolorgold-gold-sponsors-span&#34;&gt;&lt;span style=&#34;color:Gold&#34;&gt; Gold Sponsors &lt;/span&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/amazon.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/amazon.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/ibm.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/ibm.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;span-stylecolorsilversilver-sponsorsspan&#34;&gt;&lt;span style=&#34;color:Silver&#34;&gt;Silver Sponsors&lt;/span&gt;&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/nvidia.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/nvidia.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/bloomberg.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/bloomberg.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/oracle.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/oracle.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/uber-new.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/uber-new.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;!-- We thank [B4 Capital Group](https://b4capitalgroup.com/) for their support
+&lt;br&gt;&lt;br&gt; --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;span-stylecolorgreenthanksspan&#34;&gt;&lt;span style=&#34;color:Green&#34;&gt;Thanks&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;We thank the following companies and institutions for their support.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/2-sigma.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/2-sigma.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/mila.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/mila.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/elementai.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/elementai.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/vector.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/vector.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;!-- [Airbnb](https://www.airbnb.com/)
+ - [Kaggle](https://www.kaggle.com/)
+ - [InstaDeep](https://www.linkedin.com/company/instadeep/)
+ - [Vector Institute](https://vectorinstitute.ai/)
+ 
+ - [MILA](https://mila.quebec/en/)
+ - [Element AI](https://www.elementai.com/)
+ - [Two Sigma](https://www.twosigma.com)
+ - [Vector Institute](https://vectorinstitute.ai/)
+
+&lt;hr&gt;
+
+We also thank the following institutions for sponsoring their students to attend the  workshop
+
+ - Berkley University
+ - Cornell University
+ - Duke University
+ - Georgia Institute of Technology (Georgia Tech)
+ - Harvard University
+ - Massachusetts Institute of Technology (MIT)
+ - McGill University
+ - Northwestern University
+ - Rutgers University
+ - Stanford University, Computer Science
+ - Stanford University, Stats
+ - University of California, Berkeley
+ - University of Illinois at Urbana-Champaign
+ - University of Montreal, Montreal Institute for Learning Algorithms (MILA)
+--&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
     </item>
     
     <item>
       <title>Submission Instructions 2019</title>
-      <link>https://blackinai.github.io/workshop/2019/submissions/</link>
+      <link>blackinai.github.io/workshop/2019/submissions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blackinai.github.io/workshop/2019/submissions/</guid>
-      <description>The deadline for submissions has officially passed!
-We welcome works in artificial intelligence, including, but not limited to, computer vision, deep learning, knowledge reasoning, machine learning, multi-agent systems, natural language processing, statistical reasoning, theory, robotics, as well as applications of AI to other domains such as health and education, and submissions concerning fairness, ethics, and transparency in AI. Papers may introduce new theory, methodology, or applications.
-We also welcome position papers and demos related to these areas.</description>
+      <guid>blackinai.github.io/workshop/2019/submissions/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;__The deadline for submissions has officially passed!__&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;We welcome works in artificial intelligence, including, but not limited to, computer vision, deep learning, knowledge reasoning, machine learning, multi-agent systems, natural language processing, statistical reasoning, theory, robotics, as well as applications of AI to other domains such as health and education, and submissions concerning fairness, ethics, and transparency in AI. Papers may introduce new theory, methodology, or applications.&lt;/p&gt;
+&lt;p&gt;We also welcome position papers and demos related to these areas. Work may be previously published, completed, or ongoing. Submissions will be peer-reviewed by at least 2 reviewers in the area. The workshop will not publish proceedings. We encourage all Black researchers in the field to submit their work, and do not need to be first author of the work.&lt;/p&gt;
+&lt;h3 id=&#34;formatting-instructions&#34;&gt;Formatting instructions&lt;/h3&gt;
+&lt;p&gt;Submissions must be in PDF format and are limited to two content pages, including all figures and tables. An additional page containing only references is allowed. Submissions should be in a &lt;strong&gt;single column&lt;/strong&gt;, typeset using &lt;strong&gt;11-point&lt;/strong&gt; or larger fonts and have at least &lt;strong&gt;1-inch margin&lt;/strong&gt; all around.&lt;/p&gt;
+&lt;p&gt;Submissions that &lt;strong&gt;do not&lt;/strong&gt; follow these guidelines risk being rejected without consideration of their merits.&lt;/p&gt;
+&lt;h3 id=&#34;double-blinded-reviews&#34;&gt;Double-blinded reviews&lt;/h3&gt;
+&lt;p&gt;Submissions will be peer-reviewed by at least 2 reviewers, in addition to an area chair. The reviewing process will be double-blinded at the level of the reviewers. As an author, you are responsible for anonymizing your submission. In particular, you should not include author names, author affiliations, or acknowledgements in your submission and you should avoid providing any other identifying information.&lt;/p&gt;
+&lt;br&gt;
+Submissions may be up to two pages including all figures and tables, with an additional page for references. The submissions should be in a single column. They should be typeset using 11-point or larger fonts and should have at least 1-inch margin all around. Submissions that do not follow these guidelines risk being rejected without consideration of their merits.  
+&lt;br&gt;
+&lt;p&gt;Submissions must state the research problem, motivation, and technical contribution. Submissions must be self-contained and include all figures, tables, and references. The submission page can be found 
+&lt;a href=&#34;https://cmt3.research.microsoft.com/BLACKINAI2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and the submission deadline is &lt;del&gt;&lt;span style=&#34;color:red&#34;&gt;__Tue July 31, 2019 11:00 PM UTC__&lt;/span&gt; &lt;span style=&#34;color:blue&#34;&gt;__Now extended to:__&lt;/span&gt; __Tue Aug 06, 2019 11:00 PM UTC__&lt;/del&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;__The deadline for submissions has officially passed!__&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Here are a set of good sample papers from previous workshops: 
+&lt;a href=&#34;https://github.com/blackinai/blackinai.github.io/tree/master/papers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sample papers&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Travel Grants 2019</title>
-      <link>https://blackinai.github.io/workshop/2019/grants/</link>
+      <link>blackinai.github.io/workshop/2019/grants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blackinai.github.io/workshop/2019/grants/</guid>
-      <description>The deadline for Travel Grants has officially passed!
-Need-based travel grants will be awarded to workshop participants. Participants do not need to submit a paper in order to be considered for a travel grant. The travel grant can be used for covering costs associated with the workshop such as NIPS registration, accommodation and travel. Please note that the travel grants may not cover all of your costs and we may not be able to award them to all applicants.</description>
+      <guid>blackinai.github.io/workshop/2019/grants/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;__The deadline for Travel Grants has officially passed!__&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Need-based travel grants will be awarded to workshop participants. Participants do not need to submit a paper in order to be considered for a travel grant. The travel grant can be used for covering costs associated with the workshop such as NIPS registration, accommodation and travel. Please note that the travel grants may not cover all of your costs and we may not be able to award them to all applicants. The amount of money we award to each person will depend on the number of applicants and the location each applicant will be traveling from.&lt;/p&gt;
+&lt;p&gt;Travel grants are available for eligible attendees, and &lt;em&gt;must&lt;/em&gt; be submitted by &lt;del&gt;&lt;span style=&#34;color:red&#34;&gt;__Wed July 31, 2019 11:00 PM UTC__&lt;/span&gt; &lt;span style=&#34;color:blue&#34;&gt;__Now extended to:__&lt;/span&gt; __Wed Aug 07, 2019 11:00 PM UTC:__&lt;/del&gt; at the latest (Note that this is one day after the paper submission deadline).&lt;/p&gt;
+&lt;p&gt;Notifications about Travel Grants will be sent out from &lt;strong&gt;30th August, 2019&lt;/strong&gt;! Please check your email from this date.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

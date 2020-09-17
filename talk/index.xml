@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Black in AI</title>
-    <link>https://blackinai.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Black in AI</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Black in AI</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://blackinai.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Recent &amp; Upcoming Talks | Black in AI</title>
+    <link>blackinai.github.io/talk/</link>
+      <atom:link href="blackinai.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Black in AI</copyright>
+    <image>
+      <url>blackinai.github.io/img/blackinai.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>blackinai.github.io/talk/</link>
+    </image>
     
   </channel>
 </rss>

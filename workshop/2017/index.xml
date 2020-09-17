@@ -1,77 +1,756 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Workshop 2017 on Black in AI</title>
-    <link>https://blackinai.github.io/workshop/2017/</link>
-    <description>Recent content in Workshop 2017 on Black in AI</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Black in AI</copyright>
-    <lastBuildDate>Sun, 26 Aug 2018 19:35:39 -0400</lastBuildDate>
-    
-	<atom:link href="https://blackinai.github.io/workshop/2017/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Workshop 2017 | Black in AI</title>
+    <link>blackinai.github.io/workshop/2017/</link>
+      <atom:link href="blackinai.github.io/workshop/2017/index.xml" rel="self" type="application/rss+xml" />
+    <description>Workshop 2017</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Black in AI</copyright>
+    <image>
+      <url>blackinai.github.io/img/blackinai.png</url>
+      <title>Workshop 2017</title>
+      <link>blackinai.github.io/workshop/2017/</link>
+    </image>
     
     <item>
       <title>CFP 2017</title>
-      <link>https://blackinai.github.io/workshop/2017/cfp/</link>
+      <link>blackinai.github.io/workshop/2017/cfp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blackinai.github.io/workshop/2017/cfp/</guid>
-      <description>The first Black in AI event will be co-located with NIPS 2017 in the Pike Ballroom at the Renaissance Long Beach Hotel in Long Beach, California on December 8th from 1:00pm to 6:00pm. The poster session will be held at the Broadlind 2 room on the second floor of the Renaissance hotel. The workshop will be followed by dinner 6:30-8:30. We invite Black AI researchers from around the world to share their work and learn about others’ research.</description>
+      <guid>blackinai.github.io/workshop/2017/cfp/</guid>
+      <description>&lt;p&gt;The first Black in AI event will be co-located with 
+&lt;a href=&#34;https://nips.cc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIPS 2017&lt;/a&gt; in the &lt;strong&gt;Pike Ballroom&lt;/strong&gt; at the 
+&lt;a href=&#34;http://www.marriott.com/hotels/travel/lgbrn-renaissance-long-beach-hotel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Renaissance Long Beach Hotel&lt;/a&gt;  in Long Beach, California on December 8th from 1:00pm to 6:00pm. The poster session will be held at the &lt;strong&gt;Broadlind 2&lt;/strong&gt; room on the second floor of the Renaissance hotel. The workshop will be followed by dinner 6:30-8:30. We invite Black AI researchers from around the world to share their work and learn about others’ research. The workshop will have invited talks from prominent researchers, oral presentations, and a poster session. There will also be socials to facilitate networking, discussion of different career opportunities in AI, and sharing of ideas to increase participation of Black researchers in the field. We invite all Black researchers, including undergraduates, graduate students, faculty, and researchers in industry to participate in this workshop. People of all races are also invited to attend the workshop to learn about the research being conducted by Black researchers across the world. Deadline for registration is October 31, 2017 and can done 
+&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfxDyUB0z--LwPNfK9ypOmNPMHf2wc51DuqSvituMtD53mGbA/viewform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. Please register as soon as possible to help us figure out headcount.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;October 13, 2017: Abstract submission deadline&lt;/li&gt;
+&lt;li&gt;October 13, 2017: Travel grant application deadline&lt;/li&gt;
+&lt;li&gt;October 29, 2017: Notification of acceptance&lt;/li&gt;
+&lt;li&gt;October 31, 2017: Workshop registration deadline&lt;/li&gt;
+&lt;li&gt;December 8th from 1:00pm-5:30pm: Workshop&lt;/li&gt;
+&lt;li&gt;December 8th from 6:30pm-9:00pm: Dinner&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Organizers 2018</title>
-      <link>https://blackinai.github.io/workshop/2017/organizers/</link>
+      <link>blackinai.github.io/workshop/2017/organizers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blackinai.github.io/workshop/2017/organizers/</guid>
-      <description>Workshop Co-Chairs Rediet Abebe, Cornell University
-Sarah M. Brown, University of California, Berkeley
-Mouhamadou Moustapha Cisse, Facebook AI Research
-Timnit Gebru, Microsoft Research
-Sanmi Koyejo, University of Illinois, Urbana-Champaign
-Lyne P. Tchapmi, Stanford University
-2017 Program Committee Thanks to the following members of the Black in AI community and supportive allies for helping review the submissions.
- Rediet Abebe Justice Amoh Silèye Ba Irwan Bello Samy Bengio Sarah M. Brown Joy Buolamwini Diana Cai Moustapha Cisse Charles Cearl Tewodros Dagnew Hal Daumé III Ousmane Dia Ashley Edwards Oluwaseun Francis Egbelowo Dylan Foster Fisseha Gidey Gebremedhin Timnit Gebru Christan Grant Alvin Grissom II Bernease Herman Jack Hessel Abigail Jacobs Emmanuel Johnson Sanmi Koyejo Ciira Maina nyalleng moorosi George Musumba Ndapa Nakashole Ehi Nosakhare Billy Okal Charles Onu Forough Poursabzi-Sangdeh Alexandra Schofield Frank Lanke Fu Tarimo Lyne P.</description>
+      <guid>blackinai.github.io/workshop/2017/organizers/</guid>
+      <description>&lt;h1 id=&#34;workshop-co-chairs&#34;&gt;Workshop Co-Chairs&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Rediet Abebe&lt;/strong&gt;, Cornell University&lt;br&gt;
+&lt;strong&gt;Sarah M. Brown&lt;/strong&gt;, University of California, Berkeley&lt;br&gt;
+&lt;strong&gt;Mouhamadou Moustapha Cisse&lt;/strong&gt;, Facebook AI Research&lt;br&gt;
+&lt;strong&gt;Timnit Gebru&lt;/strong&gt;, Microsoft Research&lt;br&gt;
+&lt;strong&gt;Sanmi Koyejo&lt;/strong&gt;, University of Illinois, Urbana-Champaign&lt;br&gt;
+&lt;strong&gt;Lyne P. Tchapmi&lt;/strong&gt;, Stanford University&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;2017-program-committee&#34;&gt;2017 Program Committee&lt;/h1&gt;
+&lt;p&gt;Thanks to the following members of the Black in AI community and supportive allies for helping review the submissions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rediet Abebe&lt;/li&gt;
+&lt;li&gt;Justice Amoh&lt;/li&gt;
+&lt;li&gt;Silèye Ba&lt;/li&gt;
+&lt;li&gt;Irwan Bello&lt;/li&gt;
+&lt;li&gt;Samy Bengio&lt;/li&gt;
+&lt;li&gt;Sarah M. Brown&lt;/li&gt;
+&lt;li&gt;Joy Buolamwini&lt;/li&gt;
+&lt;li&gt;Diana Cai&lt;/li&gt;
+&lt;li&gt;Moustapha Cisse&lt;/li&gt;
+&lt;li&gt;Charles Cearl&lt;/li&gt;
+&lt;li&gt;Tewodros Dagnew&lt;/li&gt;
+&lt;li&gt;Hal Daumé III&lt;/li&gt;
+&lt;li&gt;Ousmane Dia&lt;/li&gt;
+&lt;li&gt;Ashley Edwards&lt;/li&gt;
+&lt;li&gt;Oluwaseun Francis Egbelowo&lt;/li&gt;
+&lt;li&gt;Dylan Foster&lt;/li&gt;
+&lt;li&gt;Fisseha Gidey Gebremedhin&lt;/li&gt;
+&lt;li&gt;Timnit Gebru&lt;/li&gt;
+&lt;li&gt;Christan Grant&lt;/li&gt;
+&lt;li&gt;Alvin Grissom II&lt;/li&gt;
+&lt;li&gt;Bernease Herman&lt;/li&gt;
+&lt;li&gt;Jack Hessel&lt;/li&gt;
+&lt;li&gt;Abigail Jacobs&lt;/li&gt;
+&lt;li&gt;Emmanuel Johnson&lt;/li&gt;
+&lt;li&gt;Sanmi Koyejo&lt;/li&gt;
+&lt;li&gt;Ciira Maina&lt;/li&gt;
+&lt;li&gt;nyalleng moorosi&lt;/li&gt;
+&lt;li&gt;George Musumba&lt;/li&gt;
+&lt;li&gt;Ndapa Nakashole&lt;/li&gt;
+&lt;li&gt;Ehi Nosakhare&lt;/li&gt;
+&lt;li&gt;Billy Okal&lt;/li&gt;
+&lt;li&gt;Charles Onu&lt;/li&gt;
+&lt;li&gt;Forough Poursabzi-Sangdeh&lt;/li&gt;
+&lt;li&gt;Alexandra Schofield&lt;/li&gt;
+&lt;li&gt;Frank Lanke Fu Tarimo&lt;/li&gt;
+&lt;li&gt;Lyne P. Tchapmi&lt;/li&gt;
+&lt;li&gt;Kale-ab Tessera&lt;/li&gt;
+&lt;li&gt;Basiliyos Tilahun BETRU&lt;/li&gt;
+&lt;li&gt;Wil Thomason&lt;/li&gt;
+&lt;li&gt;Marcelo Worsley&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Programs 2017</title>
-      <link>https://blackinai.github.io/workshop/2017/programs/</link>
+      <link>blackinai.github.io/workshop/2017/programs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blackinai.github.io/workshop/2017/programs/</guid>
-      <description>Schedule 2017    Time Program     1:00 - 1:05 pm Introduction   1:25 - 1:55 pm Keynote Address   1:55 - 2:15 pm Oral Session 1   2:15 - 4:15 pm Keynote Address   4:15 - 4:35 pm Poster Session &amp;amp; Coffee Break   4:35 - 5:05 pm Keynote Address   5:05 - 5:25 pm Oral Session 2   5:25 - 5:55 pm Keynote Address   5:55 - 6:00 pm Panel   6:00 - 6:30 pm Closing Remarks   6:30 - 9:00 pm Dinner    Keynotes    Speakers Bio     Ciira Maina, Dedan Kimathi University of Technology</description>
+      <guid>blackinai.github.io/workshop/2017/programs/</guid>
+      <description>&lt;h2 id=&#34;schedule-2017&#34;&gt;Schedule 2017&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Time&lt;/th&gt;
+&lt;th&gt;Program&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1:00 - 1:05 pm&lt;/td&gt;
+&lt;td&gt;Introduction&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1:25 - 1:55 pm&lt;/td&gt;
+&lt;td&gt;Keynote Address&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1:55 - 2:15 pm&lt;/td&gt;
+&lt;td&gt;Oral Session 1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2:15 - 4:15 pm&lt;/td&gt;
+&lt;td&gt;Keynote Address&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4:15 - 4:35 pm&lt;/td&gt;
+&lt;td&gt;Poster Session &amp;amp; Coffee Break&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4:35 - 5:05 pm&lt;/td&gt;
+&lt;td&gt;Keynote  Address&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5:05 - 5:25 pm&lt;/td&gt;
+&lt;td&gt;Oral Session 2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5:25 - 5:55 pm&lt;/td&gt;
+&lt;td&gt;Keynote Address&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5:55 - 6:00 pm&lt;/td&gt;
+&lt;td&gt;Panel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6:00 - 6:30 pm&lt;/td&gt;
+&lt;td&gt;Closing Remarks&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6:30 - 9:00 pm&lt;/td&gt;
+&lt;td&gt;Dinner&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;keynotes&#34;&gt;Keynotes&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Speakers&lt;/th&gt;
+&lt;th&gt;Bio&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://sites.google.com/site/cwamainadekut/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ciira Maina&lt;/a&gt;, Dedan Kimathi University of Technology&lt;br&gt;&lt;em&gt;Leveraging Machine Learning, Low Cost Devices and Open Science for Impact in the Developing World: An Example In Ecology&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Ciira Maina graduated from the University of Nairobi, Kenya with a Bsc. degree in Electrical Engineering (First class honors) in 2007 and with a Ph.D. from Drexel University in Philadelphia, USA in September 2011. At Drexel he was a member of the Adaptive Signal Processing and Information Theory Research Group where he conducted research on robust speech processing. Between October 2011 and August 2013 he was a postdoctoral researcher in computational Biology working with Prof. Magnus Rattray and Prof. Neil Lawrence at the University of Sheffield. Since September 2013 he has been a Lecturer in Electrical Engineering at Dedan Kimathi University of Technology in Nyeri, Kenya where he conducts research on bioacoustic approaches to environmental monitoring, sensor systems for livestock monitoring and novel approaches to electrical engineering instruction. In addition he serves on the organising committee for Data Science Africa, an organisation that runs an annual data science and machine learning summer school and workshop in Africa.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://www.imperial.ac.uk/people/d.belgrave&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Danielle Belgrave&lt;/a&gt;, Microsoft Research&lt;br&gt;&lt;em&gt;Machine Learning for Personalised Health&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Danielle Belgrave is a Researcher at Microsoft Research Cambridge. She also holds a tenured Research Fellowship (Assistant Professor) at Imperial College London. Her research focuses on developing probabilistic and causal graphical modelling frameworks to understand disease progression over time. The aim of this research is to use machine learning to identify distinct subtypes of disease evolution (endotypes) and to understand the underlying mechanisms of these subtypes so as to develop personalized disease management strategies. She has a BSc in Business Mathematics and Statistics from the London School of Economics and an MSc in Statistics from University College London. She was awarded a Microsoft PhD Scholarship to complete her PhD in Statistics and Machine Learning applied to Health (2010-2013) at The University of Manchester.  She received a Medical Research Council (UK) Career Development Award in Biostatistics (2015 – 2020) for the project “Unified probabilistic latent variable modelling strategies to accelerate endotype discovery in longitudinal studies”.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/dolaoseb/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Debo Olaosebikan&lt;/a&gt;, Gigster&lt;br&gt;&lt;em&gt;How to Automate the Creation of Software&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;Debo is co-founder and CTO of 
+&lt;a href=&#34;https://gigster.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gigster&lt;/a&gt;, a software development marketplace that seeks to automate the creation and delivery of software while creating a productive workplace of the future for engineers. Gigster logs data about code, projects, and people throughout the software development lifecycle and uses patterns in that data to drive increases in reliability and efficiency. Gigster aims to apply machine learning to challenging problems like software cost and time estimation, optimal team formation, predicting the future (risk) on projects, and ultimately code generation.  Gigster is backed by Andreessen Horowitz, Redpoint, Y Combinator, and Greylock.Debo has founded multiple marketplace, energy, and data startups. He is on leave from a physics PhD at Cornell where he worked on silicon nanophotonics and theoretical physics. He was once a radio featured musician and was the young Nigerian scientist of 2011. Debo advises startups and helps young founders as a Thiel Fellowship mentor.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;https://habengirma.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Haben Girma&lt;/a&gt;, Harvard Law School&lt;br&gt;&lt;em&gt;Disability and Innovation: the benefits of universal design&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;The first Deafblind person to graduate from Harvard Law School, Haben Girma advocates for equal opportunities for people with disabilities. President Obama named her a White House Champion of Change, and Forbes recognized her in Forbes 30 Under 30. Haben travels the world consulting and public speaking, teaching clients the benefits of fully accessible products and services. Haben is a talented storyteller who helps people frame difference as an asset. She resisted society’s low expectations, choosing to create her own pioneering story. Because of her disability rights advocacy she has been honored by President Obama, President Clinton, and many others. Haben is also writing a memoir that will be published by Grand Central Publishing in 2019.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;oral-research-presenters&#34;&gt;Oral Research Presenters&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Researcher&lt;/th&gt;
+&lt;th&gt;Abstract&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Bonolo Mathibel&lt;br&gt;IBM Research Africa&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Towards Impactful Artificial Intelligence on the African Continent&lt;/em&gt;&lt;br&gt;In recent years, machine learning has been applied to solve diverse sets of challenges on the African continent. This includes reducing road traffic congestion in the face of failing road infrastructure in South Africa, drought modeling in the Horn of Africa, transfer learning for cassava disease detection in sub-Saharan Africa, and galaxy count extraction from radio telescopes. The vast majority of research conducted in the field of Artificial Intelligence (AI) occurs outside of the African continent, and the few studies that have been applied to the African context are based on bespoke datasets generated to solve the problem at hand. We therefore propose three pillars of representation that are foundational to achieving impactful, sustainable, and scalable AI research and product development for and on the African continent. Our aim is to increase the number of AI studies conducted in Africa and encourage researchers and AI practitioners to consider both science and impact when selecting problems to work on.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;George W Musumba&lt;br&gt;Dedan Kimathi University of Technology&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Modelling Virtual Enterprises Using a Multi-Agent Systems Approach&lt;/em&gt; &lt;br&gt; Nowadays enterprises work together towards a common goal by sharing responsibilities and profits as is the case for construction related projects. The construction sector’s potential contribution to the economic growth of developing countries can be enhanced if the challenges facing the sector that include delayed completion of projects, frequent collapse of buildings, lack of ethics, incompetent design, use of inappropriate materials, poor coordination and management of contractors are effectively addressed. These can be attributed to poor choice of partner enterprises for the tasks due to insufficient information available about them and lack of facilitation techniques. Selection of best partner among many for construction project is a Multi-Criteria Decision Making (MCDM) process. Existing MCDM techniques cannot be used to select right partners for construction projects. Fuzzy Analytical Hierarchy Process (FAHP) and Group Fuzzy Analytical Hierarchy Process (GFAHP), MCDM algorithms that learns partner attributes (machine learning technique incorporated), were designed and applied. A Multi-Agent Systems(MAS) approach was used for simulations. The approach provide efficient decision-making support for human beings using software agents. Results show that this technique is both efficient and effective. Validation of the system, carried out by stakeholders, show that it is approximately 99.7% accurate in the evaluation and selection of partners and partners&amp;rsquo;s performance evaluation.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Charles Onu&lt;br&gt;McGill University&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Saving Newborn Lives at Birth through Machine Learning&lt;/em&gt; &lt;br&gt;Every year, 3 million newborns die within the first month of life. Birth asphyxia and other breathing-related conditions are a leading cause of mortality during the neonatal phase. Current diagnostic methods are too sophisticated in terms of equipment, required expertise, and general logistics. Consequently, early detection of asphyxia in newborns is very difficult in many parts of the world, especially in resource-poor settings. We are developing a machine learning system, dubbed Ubenwa, which enables diagnosis of asphyxia through automated analysis of the infant cry. Deployed via smartphone and wearable technology, Ubenwa will drastically reduce the time, cost and skill required to make accurate and potentially life-saving diagnoses.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ousmane Dia&lt;br&gt;ElementAI&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;Adversarial Functionality-Preserving Training in the Malware Domain&lt;/em&gt; &lt;br&gt;Multiple approaches of generating adversarial examples have been proposed to deceive deep neural networks into predicting an incorrect target for a given observation [1, 2, 4, 7, 8, 10]. Most of the existing techniques that deal with images involve either computing the gradients of a loss function with respect to the images pixels [3, 7, 10], or they inject some noise generally sampled from a random or a normal distribution [1, 4, 8] into a true case in the hope that the network will take an unexpected decision. While for images, the adversarial examples are generated in a way to be identical to the true cases, the precise locations of some details in a true image may still not be preserved in the perturbed one [2]. However, exact locations of those fine details are not usually important for perceptual image recognition or validation due to images high-entropy [6]. In Security, and specifically in malware detection, however, where the cases in hand usually consist of raw bytes or sequences of system calls, this rarely holds. In Security, being able to generate new examples that preserve the functionalities (or malignant properties) of some true cases is paramount due to the difficulty of gathering large enough quantities of data for modeling purposes. We posit that the reasons the adversary generated examples may not preserve such properties are because the noise that is injected into the true cases is not necessarily sampled within the manifold of the true cases or that the gradients that are exploited are not selected in the neighborhood of the true examples.&lt;br&gt;In this study, we explore a new approach of generating adversarial malware cases. We make use of variational autoencoders (VAEs) (similar in spirit to [5]) to generate functionality-preserving mutations of true malware and extend Stein variational gradient descent [7] where the distribution of the latent samples are approximated using the true cases data-generating distribution. We also provide two ways to assess that the generated cases are functionality-preserving mutations of true malware: 1) by sampling sequences of bytes from the (vector representation of the) adversarial cases that we validate using as Oracle the Cuckoo Sandbox [9], and 2) by comparing specific sections of our generated mutations against true cases of malware. Because our architecture is generic enough, we evaluate our approach further with existing work on adversarial training of images and audio and compare our results.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Adji Bousso Dieng&lt;br&gt;Columbia University&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;A Recurrent Neural Network with Long-Range Semantic Dependency&lt;/em&gt;&lt;br&gt; Language modeling is crucial to many NLP tasks. Applications include machine translation and speech recognition. Traditional n-gram and feed-forward neural network language models fail to capture long-range word dependencies. Previous work by Mikolov et al. has shown that adding context to a Recurrent Neural Network (RNN) language model is a promising direction to solve this issue. In this talk I will briefly review traditional language models and topic models before diving into the more recent contextual RNN-based language models. In particular, I will discuss the TopicRNN model, a RNN-based language model that captures long-range semantic dependencies using topic features. I will also highlight some results on word prediction and sentiment analysis using the TopicRNN model.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Flora Ponjou Tasse&lt;br&gt;University of Cambridge&lt;/td&gt;
+&lt;td&gt;&lt;em&gt;ShapeSearch: A Generic Engine for 3D Models, Images, and Sketches&lt;/em&gt;&lt;br&gt;We present ShapeSearch, a generic search engine for shapes that supports queries such as 3D models, images, sketches, and text. Online repositories of images and 3D objects are growing at an exponential rate, used by growing communities of makers and artists. Moreover, the proliferation of Augmented Reality platforms is creating new communities of content creators and developers in need of 3D content. However, search features in the large 3D repositories are still limited to text. On the other hand, the research community has made significant progress in context-based shape retrieval, but current methods are typically limited to one modality such as images or sketches. We propose a generic search engine able to retrieve relevant shapes based on a wide range of modalities by leveraging the latest machine learning advances in Graphics, Vision, and NLP.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;accepted-posters&#34;&gt;Accepted Posters&lt;/h2&gt;
+&lt;p style=&#34;color: black&#34;&gt;
+(More posters will be added soon)
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;AI Powered Process Improvement, Christine Custis*, NewPearl, Inc.
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Morphological classification of Radio Sources and thier Counterparts in Optical using Deep Machine Learning, Superviser: Prof R. Taylor, Wathela Alhassan*, University of Cape Town
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Orchestra Mobile Crowdsensing and Computing Platform: A Roadmap for Further Development, Sando George*, Warsaw University of Technology; Maria Ganzha, Warsaw University of Technology; Marcin Paprzycki, Systems Research Institute, Polish Academy of Sciences&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Using Dominant Sets for Data Association in Multi-Camera Tracking, Kedir Hamid Ahmed*, Ethiopian Bio technology Institute
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Churn Prediction using Structured Logical Knowledge and Convolutional Neural Networks, Gridach Mourad*, High Institute of Technology - Agadir
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Evolving Realistic 3D Facial Expressions using Interactive Genetic Algorithms, Meareg Hailemariam*, Hanson Robtotics/Labs iCog
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Amharic-English Speech Translation, Michael Woldeyohannis*, Addis Ababa University, Addis Ababa, Ethiopia; Million Meshesha, Addis Ababa University; Laurent Besacier, LIG, Univ. Grenoble Alpes
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Machine Learning Approach On Detection of Privilege Escalation Attacks in Android Smartphones, Bruno Ssekiwere*, Uganda Technology and Management University
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;A signature-based Denial of Service and Probe detector model based on data mining techniques, Claire Babirye*, Uganda Technology and Management University; Ernest Mwebaze, Uganda Technology and Management University
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Modelling Virtual Enterprises Using a Multi-Agent Systems Approach, George Musumba*, Dedan Kimathi University of Technology
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Behavioural Multi-Factor Authentication Using Keystroke Dynamics, Roy Henha Eyono*, University of Cape Town
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Feature Extraction and Selection of Optical Galaxy Data, Roy Henha Eyono*, University of Cape Town
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Compressive Sampling for Phenotype Classification, Eric Brooks*, Air Force
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;An iterative Dynamic Game Approach for Robust Deep Reinforcement Learning, Olalekan Ogunmolu*, University of Texas at Dallas; Nicholas Gans, UT Dallas; Tyler Summers, UT Dallas
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Saving Newborn Lives at Birth through Machine Learning, Charles Onu*, McGill University
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Predicting Road Traffic Accident Severity: A Small Case Study in South Africa, Mpho Mokoatle*, CSIR; Vukosi Marivate, CSIR
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;ShapeSearch: a generic search engine for 3D models, images and sketches, Flora Ponjou Tasse*, University of Cambridge
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;ZCal: Machine learning for calibrating radio interferometric data., Simphiwe Zitha*, Rhodes university &amp;amp; SKA-SA
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;A translation-based approach to the learning of the morphology of an under-resourced language, Tewodros Gebreselassie*, Addis Ababa University; Michael Gasser, Indiana University
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Snake: a Stochastic Proximal Gradient Algorithm for Regularized Problems over Large Graphs, Adil SALIM*, Telecom ParisTech; Pascal BIANCHI, Telecom ParisTech; Walid HACHEM, Universite Paris-Est Marne-la-Vallee
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Orthographic Representation Learning for Modeling Dyslexia, HENRY WOLF VII*, University of Connecticut
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Enhanced Robustness in Speech Emotion Recognition: using Acoustic and Linguistic Features, hana tisasu*, iCog-Labs
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Semi-Supervised Learning in Brain Imaging Data for Classification of Schizophrenia, Tewodros Dagnew*, Università degli studi di milano
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Language Guided Pixel-Space Planning, Emmanuel Kahembwe*, Edinburgh University
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;The UMD Neural Machine Translation Systemsat WMT17 Bandit Learning Task, kiante brantley*, The University of Maryland College Park
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;FPGA-Based CNN Processor Utilizing Parallel Feature Processing And Pseudo Parallel Memories, Muluken Hailesellasie*, Tennessee Tech.
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Weakly Supervised Classification in High Energy Physics, Lucio Dery*, Stanford University
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Prediction of neuropsychiatric conditions through switch detection in fluency tasks, Felipe Paula*, Federal University of Rio Grande do Sul - UFRGS; Rodrigo Wilkens, Université Catholique de Louvain - CENTAL; Marco Idiart, Federal University of Rio Grande do Sul - UFRGS; Aline Villavicencio, Federal University of Rio Grande do Sul - UFRGS
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;DETECTION OF ULCERS FROM CAPSULE ENDOSCOPIC IMAGES USING CONVOLUTIONAL NEURAL NETWORKS, Isa Nuruddeen*, Makerere University Uganda
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Intelligent License Plate Recognition and Reporting, Yaecob Girmay Gezahegn, Addis Ababa University; Misgina Tsighe Hagos*, Ethiopian Biotechnology Institute; Dereje H.Mariam W.Gebreal, Addis Ababa University; Teklay GebreSlassie Zeferu, Addis Ababa University; G.agziabher Ngusse G.Tekle, Addis Ababa University; Yakob Kiros T.Haimanot, Mekelle University
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;MODELLING CONTEXT FOR A DEEP RECURRENT NEURAL NETWORK LANGUAGE MODEL, Linda Khumalo*, University of the Witwatersrand
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Convolutional Sequence to Sequence Learning, Yann Dauphin*, Facebook
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Integrating Attention Model into Hierarchical Recurrent Encoder-Decoder to Improve Dialogue Response Generation, Oluwatobi Olabiyi*, Capital One; Erik Mueller, Capital One
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Advantages of Deep Learning Techniques on Grayscale Radiographs, Obioma Pelka*, University of Applied Sciences and Arts Dortmund
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Hybrid Intelligent System for Lung Cancer Type Identification, yenatfanta Bayleyegn*, Ethiopian Biotechnology Institute; Kumudha Raimond, Karunya University
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Towards impactful artificial intelligence on the African continent, Bonolo Mathibela*, IBM Research
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Soft-biometrics Attributes Multi-Label Classification with Deep Residual Networks, Esube Bekele*, US Naval Research Lab; Wallace Lawson, Naval Research Laboratory
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Learning an Interactive Attention Policy for Neural Machine Translation, Samee Ibraheem*, UC Berkeley
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Ubiquitous Monitoring of Abnormal Respiratory Sounds, Justice Amoh*, Dartmouth College
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Question Arbitration for Robot Task Learning, Kalesha Bullard*, Georgia Institute of Technology
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Cluster-based Approach to Improve Affect Recognition from Passively Sensed Data, Mawulolo Ameko*, University of Virginia
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Gaze and Voice as an Input Tool for Software Interfaces, Timothy Mwiti*, NORTHWESTERN UNIVERSITY
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Transferring Agent Behaviors from Videos via Motion GANs, Ashley Edwards*, Georgia Institute of Technology; Charles Isbell, Georgia Institute of Technology
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;TopicRNN: A Recurrent Neural Network With Long-Range Semantic Dependency, Adji Bousso Dieng*, Columbia University
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Probabilistic Multi-view based Diagnosis and Anomaly Detection of Sensors in Weather Station, Tadesse Zemicheal*, Oregon State University
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Reinforcement Learning-based Simultaneous Translation with Final Verb Prediction, Alvin Grissom II*, Ursinus College
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Towards a real-time in-seat activity tracker, Austin Little*, Georgia Institute of Technology
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Robust Visual 6D Pose Tracking Using Learned Dense Data Association, Lanke Frank Tarimo Fu*, Independent Researcher (Formerly ETH Zurich)
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;An Ensemble-based Approach to Click-Through Rate Prediction for Promoted Listings at Etsy, Devin Guillory*, Etsy
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Fluorescence Bioimaging of Organellar Network Evolution, Chinasa Okolo*, Pomona College
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Intersectional Phenotypic and Demographic Evaluation of Gender Classification, Joy Buolamwini*, MIT
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Generalizable Intention Prediction of Human Drivers at Intersections, Derek Phillips*, Stanford University
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Application for Travel Grant, Samuel Fufa*, NA
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Gender classification using facial components, Mayibongwe Bayana*, University of Kwazulu Natal
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Noisy Expectation-Maximization: Applications and Generalizations, Osonde Osoba*, RAND Corporation
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;SEGCloud: Semantic Segmentation of 3D Point Clouds, Lyne Tchapmi*, Stanford University; Christopher Choy, Stanford University; Iro Armeni, Stanford University; JunYoung Gwak, Stanford University; Silvio Savarese, Stanford University
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;The Promise and Peril of Human Evaluation for Model Interpretability, Bernease Herman*, University of Washington
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Adversarial Functionality-Preserving Training in the Malware Domain, Ousmane Dia*, ElementAI
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Synchronized Video and Motion Capture Dataset and Quantitative Evaluation of Vision Based Skeleton Tracking Methods for Robotic Action Imitation, selamawet atnafu*, Bahirdar University
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Constrained Dominant Sets with Applications in Computer Vision, Alemu Leulseged*, Ca’ Foscari University of Venice
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Generalization Properties of Adaptive Gradient Methods in Machine Learning, Ashia Wilson*, UC Berkeley
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Nods and Daps: Encouraging Gesture, Movement Rhythm &amp;amp; Motion that honors the black experience and in the creation of Data Sets that drive AI, Micah Morgan*, African American Art and Culture Complex
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Collecting Data in VR For Generating Natural Language Descriptions of 3D Space, Danielle Olson*, MIT
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;AWE-CM Vectors: Augmenting Word Embeddings with a Clinical Metathesaurus, Mohamed Kane-Hassan
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Convolutional Neural Networks for Breast Cancer Screening: Transfer Learning with Exponential Decay, Hiba CHOUGRAD
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;A comparison of the conditional inference survival forest model to random survival forests based on a simulation study as well on two applications with time-to-event data, Justine Nasajje
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Automated detection of Malaria Parasites using CNN via Smartphones, Sanni Oluwatoyin Yetunde
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Using Machine Learning to Detect Potential Child Suicide Bombers, Cisca Oladipo
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Reducing Students Dropout Rate - A machine Learning Approach, Neema Mduma
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Generating Natural Language Descriptions of Virtual Reality (VR) Spaces, Danielle Olson
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Social Attention for Part-of-Speech Tagging, Taha Merghani
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Automatic Radio Galaxy Classification using Deep Convolutional Neural Networks, Wathela Alhassan, University of Cape Town; R. Taylor, University of Cape Town, University of the Western Cape; Mattia Vaccari, University of the Western Cape
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Dynamic Modelling of Cybercriminals Behaviour by Deep Neural Networks, Abiodun Modupe*
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Big data clustering with the use of the random projection features reduction and collaborative Fuzzy C-Means, Dang Trong Hop, Hanoi University of Industry; Pham The Long, Le Quy Don Technical University; Ngo Thanh Long, Le Quy Don Technical University; Fadugba Jeremiah, FPT University
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Orchestra Mobile Crowdsensing and Computing Platform: A Roadmap for Further Development, Sando George, Warsaw University of Technology; Maria Ganzha, Warsaw University of Technology; Marcin Paprzycki, Polish Academy of Sciences
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;An empirical experimental survey of application of Wilson’s edited Nearest Neighbour as a sampling and data reduction scheme to alleviate class imbalance problem,  S. O. Folorunso, Olabisi Onabanjo University; A. B. Adeyemo, University of Ibadan
+&lt;br&gt;&lt;br&gt;&lt;/li&gt;
+&lt;li&gt;Luganda Text-to-Speech Machine, Irene Nandutu, Uganda Technology and Management University; Ernest Mwebaze, Makerere University
+&lt;br&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Sponsors 2017</title>
-      <link>https://blackinai.github.io/workshop/2017/sponsors/</link>
+      <link>blackinai.github.io/workshop/2017/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blackinai.github.io/workshop/2017/sponsors/</guid>
-      <description>Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.
- Platinum Sponsors (Black Power in AI) -- ## Gold Sponsors --  Gold Sponsors (System) --  Silver Sponsors (Component) --  Supporters We thank B4 Capital Group for their support We also thank the following institutions for sponsoring their students to attend the workshop</description>
+      <guid>blackinai.github.io/workshop/2017/sponsors/</guid>
+      <description>&lt;p&gt;Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.&lt;/p&gt;
+&lt;hr&gt;
+## Platinum Sponsors (Black Power in AI)
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-icon&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/blackinai.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/blackinai.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+ --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/facebook.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/facebook.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;!-- &lt;hr&gt; ## Gold Sponsors --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/microsoft.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/microsoft.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/google.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/google.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;hr&gt;
+## Gold Sponsors (System)
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/fa-code.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/fa-code.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+ --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/deepmind.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/deepmind.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;hr&gt;
+## Silver Sponsors (Component)
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-third-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/fa-chip.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/fa-chip.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+ --&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-third-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/elementai.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/elementai.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-third-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/airbnb.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/airbnb.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-third-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/savoy.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/savoy.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;img-sponsor-third-c&#34; &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/uber.png&#34; &gt;
+
+
+  &lt;img src=&#34;blackinai.github.io/img/uber.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;hr&gt;
+&lt;h2 id=&#34;supporters&#34;&gt;Supporters&lt;/h2&gt;
+&lt;p&gt;We thank 
+&lt;a href=&#34;https://b4capitalgroup.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;B4 Capital Group&lt;/a&gt; for their support
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;We also thank the following institutions  for sponsoring their students to attend the  workshop&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cornell University&lt;/li&gt;
+&lt;li&gt;Duke University&lt;/li&gt;
+&lt;li&gt;Harvard University&lt;/li&gt;
+&lt;li&gt;Stanford University&lt;/li&gt;
+&lt;li&gt;University of California, Berkeley&lt;/li&gt;
+&lt;li&gt;University of Illinois at Urbana-Champaign&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Submission Instructions 2017</title>
-      <link>https://blackinai.github.io/workshop/2017/submissions/</link>
+      <link>blackinai.github.io/workshop/2017/submissions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blackinai.github.io/workshop/2017/submissions/</guid>
-      <description>We welcome theoretical, empirical, and applied work in machine learning and artificial intelligence, including, but not limited to, search, planning, knowledge representation, reasoning, natural language processing, computer vision, robotics, multiagent systems, statistical reasoning, and deep learning. Work may be previously published, completed, or ongoing. Submissions will be peer-reviewed by at least 2 reviewers. The workshop will not publish proceedings. The presenter must be a Black researcher in AI, and does not need to be first author.</description>
+      <guid>blackinai.github.io/workshop/2017/submissions/</guid>
+      <description>&lt;p&gt;We welcome theoretical, empirical, and applied work in machine learning and artificial intelligence, including, but not limited to, search, planning, knowledge representation, reasoning, natural language processing, computer vision, robotics, multiagent systems, statistical reasoning, and deep learning. Work may be previously published, completed, or ongoing. Submissions will be peer-reviewed by at least 2 reviewers. The workshop will not publish proceedings. The presenter must be a Black researcher in AI, and does not need to be first author.&lt;/p&gt;
+&lt;p&gt;Submissions can be up to two page abstracts and must state the research problem, motivation, and technical contribution. Submissions must be self-contained and include all figures, tables, and references.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Submission page: 
+&lt;a href=&#34;https://cmt3.research.microsoft.com/BLACKINAI2017&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Black in AI CMT Page&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Travel Grants: In order to be considered for a travel grant, please select yes to the question Do you need a travel grant?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
       <title>Travel Grants 2017</title>
-      <link>https://blackinai.github.io/workshop/2017/grants/</link>
+      <link>blackinai.github.io/workshop/2017/grants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://blackinai.github.io/workshop/2017/grants/</guid>
-      <description>Travel Awards Need-based travel grants will be awarded to workshop participants. The travel grant can be used for covering costs associated with the workshop such as NIPS registration, accommodation and travel. Please note that the travel grants may not cover all of your costs and we may not be able to award them to all applicants. The amount of money we award to each person will depend on the number of applicants and the location each applicant will be traveling from.</description>
+      <guid>blackinai.github.io/workshop/2017/grants/</guid>
+      <description>&lt;h2 id=&#34;travel-awards&#34;&gt;Travel Awards&lt;/h2&gt;
+&lt;p&gt;Need-based travel grants will be awarded to workshop participants. The travel grant can be used for covering costs associated with the workshop such as NIPS registration, accommodation and travel. Please note that the travel grants may not cover all of your costs and we may not be able to award them to all applicants. The amount of money we award to each person will depend on the number of applicants and the location each applicant will be traveling from.&lt;/p&gt;
+&lt;p&gt;If you are a student who has not conducted research and would like a travel grant to attend our workshop, you may do so by either:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Submitting an abstract, and a paragraph describing financial need on the conference submission page OR&lt;/li&gt;
+&lt;li&gt;Submitting a one page statement describing your research interests in AI and reasons for participating in the workshop, and a paragraph describing financial need on the conference submission page&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;These must be done by the deadline, &lt;strong&gt;October 13, 2017&lt;/strong&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

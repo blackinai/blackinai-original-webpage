@@ -1,229 +1,157 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/publication/</loc>
-      <lastmod>2018-04-09T19:10:15+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/authors/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/talk/</loc>
-      <lastmod>2018-04-09T19:10:15+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/</loc>
-      <lastmod>2018-08-12T22:57:56+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/author/black-in-ai/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/2017/cfp/</loc>
-      <lastmod>2018-09-05T21:58:37-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/categories/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/2018/cfp/</loc>
-      <lastmod>2018-11-28T00:40:40-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/workshop/2017/cfp/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/2019/cfp/</loc>
-      <lastmod>2019-10-04T17:03:32-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/workshop/2018/cfp/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/workshop/2019/cfp/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/2017/organizers/</loc>
-      <lastmod>2018-09-05T21:58:37-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/workshop/2020/cfp/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/2018/organizers/</loc>
-      <lastmod>2018-09-30T20:45:48-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/workshop/2017/organizers/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/2019/organizers/</loc>
-      <lastmod>2019-11-22T19:52:37-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/workshop/2018/organizers/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/2017/programs/</loc>
-      <lastmod>2018-11-12T17:55:22-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/workshop/2019/organizers/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/2018/programs/</loc>
-      <lastmod>2018-12-02T00:51:49-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/workshop/2020/organizers/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/2019/programs/</loc>
-      <lastmod>2019-11-24T17:19:43-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/post/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/workshop/2017/programs/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/2017/sponsors/</loc>
-      <lastmod>2018-11-12T17:55:22-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/workshop/2018/programs/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/2018/sponsors/</loc>
-      <lastmod>2018-11-28T16:38:03-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/workshop/2019/programs/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/2019/sponsors/</loc>
-      <lastmod>2019-11-19T01:36:33-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/workshop/2020/programs/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/2019/submissions/</loc>
-      <lastmod>2019-08-19T12:06:10+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/publication_types/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/2017/submissions/</loc>
-      <lastmod>2018-09-05T21:58:37-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/publication/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/2018/submissions/</loc>
-      <lastmod>2018-09-05T21:58:37-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/talk/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/workshop/2017/sponsors/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/2017/grants/</loc>
-      <lastmod>2018-09-05T21:58:37-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/workshop/2018/sponsors/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/2018/grants/</loc>
-      <lastmod>2018-09-05T21:58:37-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/workshop/2019/sponsors/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/2019/grants/</loc>
-      <lastmod>2019-08-19T12:06:10+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/workshop/2020/sponsors/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/2017/</loc>
-      <lastmod>2018-08-26T19:35:39-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/workshop/2019/submissions/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/2018/</loc>
-      <lastmod>2018-08-26T19:35:39-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/workshop/2020/submissions/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/2019/</loc>
-      <lastmod>2019-07-13T17:34:58+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/workshop/2017/submissions/</loc>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://blackinai.github.io/workshop/</loc>
-      <lastmod>2018-08-26T19:35:39-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>blackinai.github.io/workshop/2018/submissions/</loc>
+  </url>
+  
+  <url>
+    <loc>blackinai.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>blackinai.github.io/workshop/2017/grants/</loc>
+  </url>
+  
+  <url>
+    <loc>blackinai.github.io/workshop/2018/grants/</loc>
+  </url>
+  
+  <url>
+    <loc>blackinai.github.io/workshop/2019/grants/</loc>
+  </url>
+  
+  <url>
+    <loc>blackinai.github.io/workshop/2020/grants/</loc>
+  </url>
+  
+  <url>
+    <loc>blackinai.github.io/workshop/2017/</loc>
+  </url>
+  
+  <url>
+    <loc>blackinai.github.io/workshop/2018/</loc>
+  </url>
+  
+  <url>
+    <loc>blackinai.github.io/workshop/2019/</loc>
+  </url>
+  
+  <url>
+    <loc>blackinai.github.io/workshop/2020/</loc>
+  </url>
+  
+  <url>
+    <loc>blackinai.github.io/workshop/</loc>
+  </url>
   
 </urlset>

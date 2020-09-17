@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Black in AI</title>
+    <link>blackinai.github.io/author/black-in-ai/</link>
+      <atom:link href="blackinai.github.io/author/black-in-ai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Black in AI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Black in AI</copyright>
+    <image>
+      <url>blackinai.github.io/img/blackinai.png</url>
+      <title>Black in AI</title>
+      <link>blackinai.github.io/author/black-in-ai/</link>
+    </image>
+    
+  </channel>
+</rss>

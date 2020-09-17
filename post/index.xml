@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Black in AI</title>
-    <link>https://esube.github.io/post/</link>
-    <description>Recent content in Posts on Black in AI</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018 Black in AI</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://esube.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Posts | Black in AI</title>
+    <link>blackinai.github.io/post/</link>
+      <atom:link href="blackinai.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Black in AI</copyright>
+    <image>
+      <url>blackinai.github.io/img/blackinai.png</url>
+      <title>Posts</title>
+      <link>blackinai.github.io/post/</link>
+    </image>
     
   </channel>
 </rss>

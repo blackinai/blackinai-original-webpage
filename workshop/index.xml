@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Workshops on Black in AI</title>
-    <link>https://blackinai.github.io/workshop/</link>
-    <description>Recent content in Workshops on Black in AI</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2019 Black in AI</copyright>
-    <lastBuildDate>Sun, 26 Aug 2018 19:35:39 -0400</lastBuildDate>
-    
-	<atom:link href="https://blackinai.github.io/workshop/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Workshops | Black in AI</title>
+    <link>blackinai.github.io/workshop/</link>
+      <atom:link href="blackinai.github.io/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <description>Workshops</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Black in AI</copyright>
+    <image>
+      <url>blackinai.github.io/img/blackinai.png</url>
+      <title>Workshops</title>
+      <link>blackinai.github.io/workshop/</link>
+    </image>
     
   </channel>
 </rss>
