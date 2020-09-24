@@ -68,7 +68,7 @@
     </item>
     
     <item>
-      <title>Organizers 2019</title>
+      <title></title>
       <link>blackinai.github.io/workshop/2019/organizers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>blackinai.github.io/workshop/2019/organizers/</guid>
@@ -507,11 +507,12 @@
     </item>
     
     <item>
-      <title>Programs 2019</title>
+      <title></title>
       <link>blackinai.github.io/workshop/2019/programs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>blackinai.github.io/workshop/2019/programs/</guid>
-      <description>&lt;hr&gt;
+      <description>&lt;h1 id=&#34;programs-2019&#34;&gt;Programs 2019&lt;/h1&gt;
+&lt;hr&gt;
 &lt;p&gt;The 3rd Black in AI event will be co-located with  
 &lt;a href=&#34;https://nips.cc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeurIPS 2019&lt;/a&gt; at the 
 &lt;a href=&#34;https://www.vancouverconventioncentre.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vancouver Convention Center Vancouver Canada&lt;/a&gt; on &lt;b&gt;December 9th from 7:30 am to 8:00 pm PST&lt;/b&gt;. The workshop will feature a panel discussion and invited talks from prominent researchers and practitioners, oral presentations, and a poster session. We invite all members of the AI community to attend the workshop. Please, register at 
@@ -519,7 +520,7 @@
 &lt;p&gt;There will also be a reception followed by the annual dinner to facilitate networking, discussion of different career opportunities in AI, and sharing of ideas to increase participation of Black researchers in the field. The dinner will take place on &lt;b&gt;December 13th&lt;/b&gt; at the 
 &lt;a href=&#34;https://www.marriott.com/hotels/travel/yvrws-sheraton-vancouver-wall-centre/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sheraton Vancouver Wall Centre&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h1 id=&#34;schedule-2019&#34;&gt;Schedule 2019&lt;/h1&gt;
+&lt;h2 id=&#34;schedule-2019&#34;&gt;Schedule 2019&lt;/h2&gt;
 &lt;hr&gt;
 &lt;p&gt;This program is &lt;b&gt;tentative&lt;/b&gt; and things might change before the workshop date.&lt;/p&gt;
 &lt;p&gt;Workshop is at &lt;b&gt;the convention Center Eastern Building Rooms 1,2,3&lt;/b&gt;&lt;/p&gt;
@@ -1837,13 +1838,14 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
     </item>
     
     <item>
-      <title>Sponsors 2019</title>
+      <title></title>
       <link>blackinai.github.io/workshop/2019/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>blackinai.github.io/workshop/2019/sponsors/</guid>
-      <description>&lt;p&gt;Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.&lt;/p&gt;
+      <description>&lt;h1 id=&#34;sponsors-2019&#34;&gt;Sponsors 2019&lt;/h1&gt;
+&lt;p&gt;Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.&lt;/p&gt;
 &lt;hr&gt;
-## &lt;span style=&#34;color:Gold&#34;&gt;Title Sponsor&lt;/span&gt;
+&lt;h2 id=&#34;span-stylecolorgoldtitle-sponsorspan&#34;&gt;&lt;span style=&#34;color:Gold&#34;&gt;Title Sponsor&lt;/span&gt;&lt;/h2&gt;
 
 
 
@@ -2506,11 +2508,12 @@ We also thank the following institutions for sponsoring their students to attend
     </item>
     
     <item>
-      <title>Submission Instructions 2019</title>
+      <title></title>
       <link>blackinai.github.io/workshop/2019/submissions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>blackinai.github.io/workshop/2019/submissions/</guid>
-      <description>&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;__The deadline for submissions has officially passed!__&lt;/span&gt;&lt;/p&gt;
+      <description>&lt;h1 id=&#34;submission-instrucitons&#34;&gt;Submission Instrucitons&lt;/h1&gt;
+&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;__The deadline for submissions has officially passed!__&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;We welcome works in artificial intelligence, including, but not limited to, computer vision, deep learning, knowledge reasoning, machine learning, multi-agent systems, natural language processing, statistical reasoning, theory, robotics, as well as applications of AI to other domains such as health and education, and submissions concerning fairness, ethics, and transparency in AI. Papers may introduce new theory, methodology, or applications.&lt;/p&gt;
 &lt;p&gt;We also welcome position papers and demos related to these areas. Work may be previously published, completed, or ongoing. Submissions will be peer-reviewed by at least 2 reviewers in the area. The workshop will not publish proceedings. We encourage all Black researchers in the field to submit their work, and do not need to be first author of the work.&lt;/p&gt;
 &lt;h3 id=&#34;formatting-instructions&#34;&gt;Formatting instructions&lt;/h3&gt;
@@ -2530,7 +2533,7 @@ Submissions may be up to two pages including all figures and tables, with an add
     </item>
     
     <item>
-      <title>Travel Grants 2019</title>
+      <title></title>
       <link>blackinai.github.io/workshop/2019/grants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>blackinai.github.io/workshop/2019/grants/</guid>
