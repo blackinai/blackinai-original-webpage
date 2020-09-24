@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>blackinai.github.io/post/academic_programs/</loc>
+  </url>
+  
+  <url>
     <loc>blackinai.github.io/authors/</loc>
   </url>
   
@@ -32,6 +36,10 @@
   
   <url>
     <loc>blackinai.github.io/workshop/2020/cfp/</loc>
+  </url>
+  
+  <url>
+    <loc>blackinai.github.io/workshop/2020/grants/</loc>
   </url>
   
   <url>
@@ -128,10 +136,6 @@
   
   <url>
     <loc>blackinai.github.io/workshop/2019/grants/</loc>
-  </url>
-  
-  <url>
-    <loc>blackinai.github.io/workshop/2020/grants/</loc>
   </url>
   
   <url>

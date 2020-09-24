@@ -18,9 +18,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>blackinai.github.io/workshop/2020/cfp/</guid>
       <description>&lt;h3 id=&#34;black-in-ai-2020-call-for-submissions&#34;&gt;Black in AI 2020: Call for Submissions&lt;/h3&gt;
-&lt;!---
-&lt;span style=&#34;color:red&#34;&gt;__The deadline for submissions has officially passed!__&lt;/span&gt;
---&gt;
 &lt;p&gt;We invite submissions for the Fourth Black in AI Workshop (Virtual) Workshop (co-located with 
 &lt;a href=&#34;https://nips.cc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeurIPS 2020&lt;/a&gt;. Both the Black in AI workshop and the NeurIPS conference will be held in a virtual (online) format.&lt;/p&gt;
 &lt;p&gt;We welcome research papers, position papers, survey papers, vision papers, or papers that inform about neglected/abandoned areas of study where AI
@@ -37,7 +34,8 @@ Mining and, Robotics. We also welcome papers about applications of AI to Health,
 &lt;/ul&gt;
 &lt;p&gt;Work may be previously published, completed, or ongoing. The workshop will not publish proceedings. We encourage all Black researchers in areas
 related to AI to submit their work. The work should include at least one Black researcher either as main author or co-author.&lt;/p&gt;
-&lt;p&gt;For further details on the paper submissions please refer to &lt;strong&gt;Submissions&lt;/strong&gt; page.&lt;/p&gt;
+&lt;p&gt;For further details on the paper submissions please refer to 
+&lt;a href=&#34;../submissions/&#34;&gt;Submissions&lt;/a&gt; page.&lt;/p&gt;
 &lt;h3 id=&#34;invited-talks&#34;&gt;Invited talks&lt;/h3&gt;
 &lt;p&gt;The workshop will feature invited talks from prominent researchers and practitioners, oral presentations, and a poster session. There will also be socials to facilitate networking, discussion of different career opportunities in AI, and sharing of ideas to increase participation of Black researchers in the field. We invite all members of the AI community to attend the workshop.&lt;/p&gt;
 &lt;h3 id=&#34;registration&#34;&gt;Registration&lt;/h3&gt;
@@ -59,8 +57,19 @@ related to AI to submit their work. The work should include at least one Black r
 * &lt;span style=&#34;color:red&#34;&gt;~~__31st August, 2019:__ Notification of paper submission acceptance/rejection~~&lt;/span&gt;
 * __Sun October 13, 2019 11:59 EST:__ NeurIPS early registration deadline
 * __Monday December 9th, 2019 9:00 am to 5:30 pm EST:__ Third BAI Workshop
---&gt;&lt;blockquote&gt;
-&lt;/blockquote&gt;
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data Grants 2020</title>
+      <link>blackinai.github.io/workshop/2020/grants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>blackinai.github.io/workshop/2020/grants/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;__The deadline for Travel Grants has officially passed!__&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Need-based travel grants will be awarded to workshop participants. Participants do not need to submit a paper in order to be considered for a travel grant. The travel grant can be used for covering costs associated with the workshop such as NIPS registration, accommodation and travel. Please note that the travel grants may not cover all of your costs and we may not be able to award them to all applicants. The amount of money we award to each person will depend on the number of applicants and the location each applicant will be traveling from.&lt;/p&gt;
+&lt;p&gt;Travel grants are available for eligible attendees, and &lt;em&gt;must&lt;/em&gt; be submitted by &lt;del&gt;&lt;span style=&#34;color:red&#34;&gt;__Wed July 31, 2019 11:00 PM UTC__&lt;/span&gt; &lt;span style=&#34;color:blue&#34;&gt;__Now extended to:__&lt;/span&gt; __Wed Aug 07, 2019 11:00 PM UTC:__&lt;/del&gt; at the latest (Note that this is one day after the paper submission deadline).&lt;/p&gt;
+&lt;p&gt;Notifications about Travel Grants will be sent out from &lt;strong&gt;30th August, 2019&lt;/strong&gt;! Please check your email from this date.&lt;/p&gt;
 </description>
     </item>
     
@@ -212,7 +221,7 @@ related to AI to submit their work. The work should include at least one Black r
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Amadou  DIABAGATE&lt;/td&gt;
-&lt;td&gt;University FÃ©lix Houphouet Boigny&lt;/td&gt;
+&lt;td&gt;University Félix Houphouet Boigny&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Amanuel Lemma  Jagisso&lt;/td&gt;
@@ -339,7 +348,7 @@ related to AI to submit their work. The work should include at least one Black r
 &lt;td&gt;University of the Witwatersrand&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Hal  DaumÃ© III&lt;/td&gt;
+&lt;td&gt;Hal  Daumé III&lt;/td&gt;
 &lt;td&gt;University of Maryland / Microsoft Research&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -2546,18 +2555,6 @@ We also thank the following institutions for sponsoring their students to attend
 &lt;p&gt;Resources on paper writing could be found 
 &lt;a href=&#34;https://rabeshi.github.io/blackhelp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;For any questions, please contact the organisers at &lt;strong&gt;blackinai2020@googlegroups.com&lt;/strong&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Travel Grants 2020</title>
-      <link>blackinai.github.io/workshop/2020/grants/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2020/grants/</guid>
-      <description>&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;__The deadline for Travel Grants has officially passed!__&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Need-based travel grants will be awarded to workshop participants. Participants do not need to submit a paper in order to be considered for a travel grant. The travel grant can be used for covering costs associated with the workshop such as NIPS registration, accommodation and travel. Please note that the travel grants may not cover all of your costs and we may not be able to award them to all applicants. The amount of money we award to each person will depend on the number of applicants and the location each applicant will be traveling from.&lt;/p&gt;
-&lt;p&gt;Travel grants are available for eligible attendees, and &lt;em&gt;must&lt;/em&gt; be submitted by &lt;del&gt;&lt;span style=&#34;color:red&#34;&gt;__Wed July 31, 2019 11:00 PM UTC__&lt;/span&gt; &lt;span style=&#34;color:blue&#34;&gt;__Now extended to:__&lt;/span&gt; __Wed Aug 07, 2019 11:00 PM UTC:__&lt;/del&gt; at the latest (Note that this is one day after the paper submission deadline).&lt;/p&gt;
-&lt;p&gt;Notifications about Travel Grants will be sent out from &lt;strong&gt;30th August, 2019&lt;/strong&gt;! Please check your email from this date.&lt;/p&gt;
 </description>
     </item>
     

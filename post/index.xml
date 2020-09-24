@@ -1,16 +1,84 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Black in AI</title>
+    <title>Post | Black in AI</title>
     <link>blackinai.github.io/post/</link>
       <atom:link href="blackinai.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <description>Post</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Black in AI</copyright>
     <image>
       <url>blackinai.github.io/img/blackinai.png</url>
-      <title>Posts</title>
+      <title>Post</title>
       <link>blackinai.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Academic Programs</title>
+      <link>blackinai.github.io/post/academic_programs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>blackinai.github.io/post/academic_programs/</guid>
+      <description>&lt;h1 id=&#34;academic-program&#34;&gt;Academic Program&lt;/h1&gt;
+&lt;h3 id=&#34;the-program&#34;&gt;The Program&lt;/h3&gt;
+&lt;p&gt;The Black in AI Academic program is committed to serving as a resource and supporting Black junior researchers as they apply to graduate programs, navigate graduate school, and enter the postgraduate job market. To that end, we conduct online information sessions, provide scholarships to cover costs related to applications, assign participants to peer and senior mentors, and share crowdsourced documents that demystify application processes.&lt;/p&gt;
+&lt;p&gt;In addition to these efforts, we conduct research studies to explore and expose the barriers that affect Black junior researchers, and advocate for structural changes to remove these barriers and foster equitable research environments.&lt;/p&gt;
+&lt;p&gt;Our program is presently designed to cover three areas of graduate education:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Graduate application mentoring program:&lt;/strong&gt; to support Black students seeking admission into masters and Ph.D. programs around the world. This program currently serves over 200 Black applicants in this application cycle.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Graduate school mentoring:&lt;/strong&gt; to offer guidance, mentorship, and resources for current graduate students.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Postgraduate application network:&lt;/strong&gt; to empower soon-to-be or recent Black Ph.D. students seeking postdoctoral, faculty, and research scientist positions. This program is currently serving over 100 Black applicants during this application cycle.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Since 2017, the graduate application mentoring program has served over 400 students overall, with the support of nearly 100 mentors. Participants in this program have enrolled at universities including Australian National University, University of California - Berkeley, University of British Columbia, University of Capetown, Carnegie Mellon University - Africa, University College Dublin, Cornell University, Georgia Institute of Technology, University of Oxford, Stanford University, University of the Witwatersrand, and many others.&lt;/p&gt;
+&lt;p&gt;Starting 2020, this program expanded into the Black in AI Academic Positions program, now serving current graduate students and over 100 Black junior scholars applying to postgraduate positions during the 2020/21 application cycle. Members of this program are interested in research careers in academia, industry, and policy, and previous participants have already had a significant impact in the field of AI.&lt;/p&gt;
+&lt;p&gt;On this page we will answer frequently asked questions and provide opportunities to advertise graduate, fellowship, postdoctoral, faculty, and research scientist positions. (See below.)&lt;/p&gt;
+&lt;p&gt;If you are interested in supporting us by volunteering your time as a mentor, donating to the program, or supporting us with our advocacy, please reach out to the organizers&lt;/p&gt;
+&lt;h3 id=&#34;contact&#34;&gt;Contact:&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:bai-acad-team@googlegroups.com&#34;&gt;bai-acad-team@googlegroups.com&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;organizers&#34;&gt;Organizers:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Rediet Abebe, Ph.D., Harvard University&lt;/li&gt;
+&lt;li&gt;Moses Namara, Clemson University&lt;/li&gt;
+&lt;li&gt;Daniel Nkemelu, Georgia Institute of Technology&lt;/li&gt;
+&lt;li&gt;Ezinne Nwankwo, Duke University&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;faculty-advisors&#34;&gt;Faculty Advisors:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Rediet Abebe, Ph.D., Harvard University&lt;/li&gt;
+&lt;li&gt;Sanmi Koyejo, Ph.D., University of Illinois, Urbana Champaign&lt;/li&gt;
+&lt;li&gt;Dina Machuve, Ph.D., Nelson Mandela African Institute of Science and Technology&lt;/li&gt;
+&lt;li&gt;Brandeis Marshall, Ph.D., Spelman College&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;supported-by&#34;&gt;Supported By:&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Black in AI&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;faqs&#34;&gt;FAQs:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;How can I take part in this program?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;If you self-identify as Black and are applying to graduate or postgraduate positions or are currently in graduate school, please sign up to join the Black in AI google group 
+&lt;a href=&#34;https://goo.gl/forms/CMDkD5CuLjc0IAJi1&#34; title=&#34;here&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and follow instructions sent out over our email list.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;How can I support this program as an academic?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;You can sign up to mentor by first joining the Black in AI group 
+&lt;a href=&#34;https://goo.gl/forms/CMDkD5CuLjc0IAJi1&#34; title=&#34;here&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, then reaching out to us at &lt;a href=&#34;mailto:bai-acad-team@googlegroups.com&#34;&gt;bai-acad-team@googlegroups.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;How can my organization support the program?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;For partnership and sponsorship, please email us at &lt;a href=&#34;mailto:bai-acad-team@googlegroups.com&#34;&gt;bai-acad-team@googlegroups.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;How can I advertise graduate student, postdoctoral fellowship, faculty, or research scientist positions at my institutions?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;To advertise graduate programs (masters, professional, and doctorate degrees), please fill out this form.&lt;/li&gt;
+&lt;li&gt;To advertise fellowships or scholarships, please fill out this form.&lt;/li&gt;
+&lt;li&gt;To advertise postdoctoral, faculty, or research scientist positions, please fill out this form.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;resources&#34;&gt;Resources:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Help us identify graduate programs with lower financial barriers by filling out the respective forms below:&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdyrhg_dR5RC_R5fr5P0Pq-0C6ozYuDDBplI7SN_ODVZdIdig/viewform?usp=sf_link&#34; title=&#34;GRE-optional/free programs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GRE-optional/free programs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdyrhg_dR5RC_R5fr5P0Pq-0C6ozYuDDBplI7SN_ODVZdIdig/viewform?usp=sf_link&#34; title=&#34;Programs with application fee-waivers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Programs with application fee-waivers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLScujfBJHwgzG69hO66GPDUQtezszjNlttA3Z1n638n7Gdghsw/viewform?usp=sf_link&#34; title=&#34;Funded masters programs &#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Funded masters programs &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfx-u2XWl74G40tweim3q0Xrdh7iCxQSzTYE1ukS-A9DWEykg/viewform?usp=sf_link&#34; title=&#34;Graduate Fellowships/scholarships&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graduate Fellowships/scholarships&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
