@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshop 2019 | Black in AI</title>
-    <link>blackinai.github.io/workshop/2019/</link>
-      <atom:link href="blackinai.github.io/workshop/2019/index.xml" rel="self" type="application/rss+xml" />
+    <link>/workshop/2019/</link>
+      <atom:link href="/workshop/2019/index.xml" rel="self" type="application/rss+xml" />
     <description>Workshop 2019</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Black in AI</copyright>
     <image>
-      <url>blackinai.github.io/img/vancouver_convention_centre.png</url>
+      <url>/img/vancouver_convention_centre.png</url>
       <title>Workshop 2019</title>
-      <link>blackinai.github.io/workshop/2019/</link>
+      <link>/workshop/2019/</link>
     </image>
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2019/cfp/</link>
+      <link>/workshop/2019/cfp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2019/cfp/</guid>
+      <guid>/workshop/2019/cfp/</guid>
       <description>&lt;h3 id=&#34;black-in-ai-2019-call-for-submissions&#34;&gt;Black in AI 2019: Call for Submissions&lt;/h3&gt;
 &lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;__The deadline for submissions has officially passed!__&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;We invite submissions for the Third Black in AI Workshop (co-located with 
@@ -69,9 +69,9 @@
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2019/organizers/</link>
+      <link>/workshop/2019/organizers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2019/organizers/</guid>
+      <guid>/workshop/2019/organizers/</guid>
       <description>&lt;h2 id=&#34;2019-workshop-chairs&#34;&gt;2019 Workshop Chairs&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -86,7 +86,7 @@
 &lt;td&gt;Esube Bekele, In-Q-Tel, Sponsorships &amp;amp; Logistics&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/ezinne-nwankwo-119586101/&#34;&gt;&lt;img src=&#34;blackinai.github.io/img/EzinneNwankwo.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Ezinne Nwankwo&#34; alt=&#34;Ezinne&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/ezinne-nwankwo-119586101/&#34;&gt;&lt;img src=&#34;/img/EzinneNwankwo.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Ezinne Nwankwo&#34; alt=&#34;Ezinne&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Ezinne Nwankwo, Harvard University, Accomodations &amp;amp; Travel&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -94,19 +94,19 @@
 &lt;td&gt;Ignatius Ezeani, Lancaster University, Publicity&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.ubenwa.ai/&#34;&gt;&lt;img src=&#34;blackinai.github.io/img/CharlesOnu2.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Charles C Onu&#34; alt=&#34;Charles Onu&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.ubenwa.ai/&#34;&gt;&lt;img src=&#34;/img/CharlesOnu2.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Charles C Onu&#34; alt=&#34;Charles Onu&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Charles Onu, McGill University, Accomodations &amp;amp; Travel&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://charlesearl.blog/&#34;&gt;&lt;img src=&#34;blackinai.github.io/img/CharlesEarl.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Charles C Earl&#34; alt=&#34;Charles Earl&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://charlesearl.blog/&#34;&gt;&lt;img src=&#34;/img/CharlesEarl.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Charles C Earl&#34; alt=&#34;Charles Earl&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Charles Earl, Automattic.com, Travel Grants&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://ftasse.github.io&#34;&gt;&lt;img src=&#34;blackinai.github.io/img/flora.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Flora Tasse&#34; alt=&#34;Flora Tasse&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://ftasse.github.io&#34;&gt;&lt;img src=&#34;/img/flora.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Flora Tasse&#34; alt=&#34;Flora Tasse&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Flora Tasse, Streem Inc, Publications&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/daniel-nkemelu-280174105/&#34;&gt;&lt;img src=&#34;blackinai.github.io/img/dnkemelu.jpeg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Daniel Nkemelu&#34; alt=&#34;Daniel Nkemelu&#34;&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.linkedin.com/in/daniel-nkemelu-280174105/&#34;&gt;&lt;img src=&#34;/img/dnkemelu.jpeg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Daniel Nkemelu&#34; alt=&#34;Daniel Nkemelu&#34;&gt;&lt;/td&gt;
 &lt;td&gt;Daniel Nkemelu, Georgia Institute of Technology, Sponsorships &amp;amp; Logistics&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -114,7 +114,7 @@
 &lt;td&gt;Victor Silva, University of Alberta, Recruitment&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.berneaseherman.com&#34;&gt;&lt;img src=&#34;blackinai.github.io/img/bernease_headshot2.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Bernease Herman&#34; alt=&#34;Bernease Herman&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.berneaseherman.com&#34;&gt;&lt;img src=&#34;/img/bernease_headshot2.jpg&#34; style=&#34;width:100px; height:100px&#34; title=&#34;Bernease Herman&#34; alt=&#34;Bernease Herman&#34;&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Bernease Herman, University of Washington, Finance&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -508,9 +508,9 @@
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2019/programs/</link>
+      <link>/workshop/2019/programs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2019/programs/</guid>
+      <guid>/workshop/2019/programs/</guid>
       <description>&lt;h1 id=&#34;programs-2019&#34;&gt;Programs 2019&lt;/h1&gt;
 &lt;hr&gt;
 &lt;p&gt;The 3rd Black in AI event will be co-located with  
@@ -736,10 +736,10 @@
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/ruha.jpeg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/ruha.jpeg&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/ruha.jpeg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/ruha.jpeg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -769,10 +769,10 @@
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/charity.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/charity.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/charity.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/charity.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -805,10 +805,10 @@
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/nsoesie.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/nsoesie.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/nsoesie.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/nsoesie.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -840,10 +840,10 @@
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/sara.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/sara.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/sara.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/sara.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -875,10 +875,10 @@
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/matthew.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/matthew.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/matthew.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/matthew.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1839,9 +1839,9 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2019/sponsors/</link>
+      <link>/workshop/2019/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2019/sponsors/</guid>
+      <guid>/workshop/2019/sponsors/</guid>
       <description>&lt;h1 id=&#34;sponsors-2019&#34;&gt;Sponsors 2019&lt;/h1&gt;
 &lt;p&gt;Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.&lt;/p&gt;
 &lt;hr&gt;
@@ -1864,10 +1864,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/mcarthur.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/mcarthur.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/mcarthur.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/mcarthur.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1893,10 +1893,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-icon&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/blackinai.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/blackinai.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/blackinai.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/blackinai.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1921,10 +1921,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/accenture.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/accenture.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/accenture.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/accenture.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1949,10 +1949,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/deepmind.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/deepmind.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/deepmind.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/deepmind.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1977,10 +1977,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/facebook.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/facebook.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/facebook.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/facebook.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2005,10 +2005,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/google.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/google.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/google.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/google.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2033,10 +2033,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/hopper-dean.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/hopper-dean.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/hopper-dean.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/hopper-dean.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2061,10 +2061,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/rockefeller.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rockefeller.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/rockefeller.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/rockefeller.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2091,10 +2091,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/apple.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/apple.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/apple.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/apple.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2119,10 +2119,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/microsoft.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/microsoft.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/microsoft.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/microsoft.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2147,10 +2147,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/openai.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/openai.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/openai.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/openai.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2175,10 +2175,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/pai.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/pai.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/pai.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/pai.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2205,10 +2205,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/amazon.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/amazon.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/amazon.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/amazon.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2233,10 +2233,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/ibm.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/ibm.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/ibm.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/ibm.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2263,10 +2263,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/nvidia.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/nvidia.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/nvidia.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/nvidia.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2291,10 +2291,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/bloomberg.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/bloomberg.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/bloomberg.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/bloomberg.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2319,10 +2319,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/oracle.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/oracle.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/oracle.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/oracle.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2347,10 +2347,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/uber-new.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/uber-new.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/uber-new.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/uber-new.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2380,10 +2380,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/2-sigma.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/2-sigma.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/2-sigma.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/2-sigma.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2408,10 +2408,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/mila.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/mila.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/mila.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/mila.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2436,10 +2436,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/elementai.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/elementai.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/elementai.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/elementai.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2464,10 +2464,10 @@ Mikiyas Gulema Tefera (Bahir Dar Univerity)&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/vector.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/vector.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/vector.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/vector.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2509,9 +2509,9 @@ We also thank the following institutions for sponsoring their students to attend
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2019/submissions/</link>
+      <link>/workshop/2019/submissions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2019/submissions/</guid>
+      <guid>/workshop/2019/submissions/</guid>
       <description>&lt;h1 id=&#34;submission-instrucitons&#34;&gt;Submission Instrucitons&lt;/h1&gt;
 &lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;__The deadline for submissions has officially passed!__&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;We welcome works in artificial intelligence, including, but not limited to, computer vision, deep learning, knowledge reasoning, machine learning, multi-agent systems, natural language processing, statistical reasoning, theory, robotics, as well as applications of AI to other domains such as health and education, and submissions concerning fairness, ethics, and transparency in AI. Papers may introduce new theory, methodology, or applications.&lt;/p&gt;
@@ -2534,9 +2534,9 @@ Submissions may be up to two pages including all figures and tables, with an add
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2019/grants/</link>
+      <link>/workshop/2019/grants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2019/grants/</guid>
+      <guid>/workshop/2019/grants/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;color:red&#34;&gt;__The deadline for Travel Grants has officially passed!__&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Need-based travel grants will be awarded to workshop participants. Participants do not need to submit a paper in order to be considered for a travel grant. The travel grant can be used for covering costs associated with the workshop such as NIPS registration, accommodation and travel. Please note that the travel grants may not cover all of your costs and we may not be able to award them to all applicants. The amount of money we award to each person will depend on the number of applicants and the location each applicant will be traveling from.&lt;/p&gt;
 &lt;p&gt;Travel grants are available for eligible attendees, and &lt;em&gt;must&lt;/em&gt; be submitted by &lt;del&gt;&lt;span style=&#34;color:red&#34;&gt;__Wed July 31, 2019 11:00 PM UTC__&lt;/span&gt; &lt;span style=&#34;color:blue&#34;&gt;__Now extended to:__&lt;/span&gt; __Wed Aug 07, 2019 11:00 PM UTC:__&lt;/del&gt; at the latest (Note that this is one day after the paper submission deadline).&lt;/p&gt;

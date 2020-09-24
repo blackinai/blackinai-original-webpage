@@ -5,14 +5,14 @@
   "theme_color": "rgb(12,95,135)",
   "background_color": "rgb(12,95,135)",
   "icons": [{
-    "src": "/blackinai.github.io/images/icon_hu5edd0432c6c80078831f78f14d772ba6_20842_192x192_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu5edd0432c6c80078831f78f14d772ba6_20842_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/blackinai.github.io/images/icon_hu5edd0432c6c80078831f78f14d772ba6_20842_512x512_fill_lanczos_center_2.png",
+    "src": "/images/icon_hu5edd0432c6c80078831f78f14d772ba6_20842_512x512_fill_lanczos_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/blackinai.github.io/?utm_source=web_app_manifest"
+  "start_url": "/?utm_source=web_app_manifest"
 }

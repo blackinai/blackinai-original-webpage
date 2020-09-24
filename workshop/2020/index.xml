@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshop 2020 | Black in AI</title>
-    <link>blackinai.github.io/workshop/2020/</link>
-      <atom:link href="blackinai.github.io/workshop/2020/index.xml" rel="self" type="application/rss+xml" />
+    <link>/workshop/2020/</link>
+      <atom:link href="/workshop/2020/index.xml" rel="self" type="application/rss+xml" />
     <description>Workshop 2020</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Black in AI</copyright>
     <image>
-      <url>blackinai.github.io/img/blackinai.png</url>
+      <url>/img/blackinai.png</url>
       <title>Workshop 2020</title>
-      <link>blackinai.github.io/workshop/2020/</link>
+      <link>/workshop/2020/</link>
     </image>
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2020/cfp/</link>
+      <link>/workshop/2020/cfp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2020/cfp/</guid>
+      <guid>/workshop/2020/cfp/</guid>
       <description>&lt;h1 id=&#34;call-for-submissions&#34;&gt;Call for Submissions&lt;/h1&gt;
 &lt;p&gt;We invite submissions for the Fourth Black in AI Workshop (Virtual) Workshop (co-located with 
 &lt;a href=&#34;https://nips.cc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeurIPS 2020&lt;/a&gt;. Both the Black in AI workshop and the NeurIPS conference will be held in a virtual (online) format.&lt;/p&gt;
@@ -63,9 +63,9 @@ related to AI to submit their work. The work should include at least one Black r
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2020/grants/</link>
+      <link>/workshop/2020/grants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2020/grants/</guid>
+      <guid>/workshop/2020/grants/</guid>
       <description>&lt;h1 id=&#34;grants&#34;&gt;Grants&lt;/h1&gt;
 &lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
 </description>
@@ -73,9 +73,9 @@ related to AI to submit their work. The work should include at least one Black r
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2020/organizers/</link>
+      <link>/workshop/2020/organizers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2020/organizers/</guid>
+      <guid>/workshop/2020/organizers/</guid>
       <description>&lt;h1 id=&#34;organizers-2020&#34;&gt;Organizers 2020&lt;/h1&gt;
 &lt;h3 id=&#34;2020-workshop-chairs&#34;&gt;2020 Workshop Chairs&lt;/h3&gt;
 &lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
@@ -90,9 +90,9 @@ related to AI to submit their work. The work should include at least one Black r
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2020/programs/</link>
+      <link>/workshop/2020/programs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2020/programs/</guid>
+      <guid>/workshop/2020/programs/</guid>
       <description>&lt;h1 id=&#34;programs-2020&#34;&gt;Programs 2020&lt;/h1&gt;
 &lt;hr&gt;
 &lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
@@ -115,9 +115,9 @@ related to AI to submit their work. The work should include at least one Black r
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2020/sponsors/</link>
+      <link>/workshop/2020/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2020/sponsors/</guid>
+      <guid>/workshop/2020/sponsors/</guid>
       <description>&lt;h1 id=&#34;sponsors-2020&#34;&gt;Sponsors 2020&lt;/h1&gt;
 &lt;p&gt;Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.&lt;/p&gt;
 &lt;hr&gt;
@@ -142,10 +142,10 @@ related to AI to submit their work. The work should include at least one Black r
 &lt;figure class=&#34;img-sponsor-icon&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/blackinai.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/blackinai.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/blackinai.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/blackinai.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -173,9 +173,9 @@ related to AI to submit their work. The work should include at least one Black r
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2020/submissions/</link>
+      <link>/workshop/2020/submissions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2020/submissions/</guid>
+      <guid>/workshop/2020/submissions/</guid>
       <description>&lt;h1 id=&#34;submission-instructions&#34;&gt;Submission Instructions&lt;/h1&gt;
 &lt;!---
 &lt;span style=&#34;color:red&#34;&gt;__The deadline for submissions has officially passed!__&lt;/span&gt;

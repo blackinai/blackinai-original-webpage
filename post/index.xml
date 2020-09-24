@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post | Black in AI</title>
-    <link>blackinai.github.io/post/</link>
-      <atom:link href="blackinai.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Post</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Black in AI</copyright>
     <image>
-      <url>blackinai.github.io/img/blackinai.png</url>
+      <url>/img/blackinai.png</url>
       <title>Post</title>
-      <link>blackinai.github.io/post/</link>
+      <link>/post/</link>
     </image>
     
     <item>
       <title>Academic Programs</title>
-      <link>blackinai.github.io/post/academic_programs/</link>
+      <link>/post/academic_programs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/post/academic_programs/</guid>
+      <guid>/post/academic_programs/</guid>
       <description>&lt;p&gt;The Black in AI Academic program is committed to serving as a resource and supporting Black junior researchers as they apply to graduate programs, navigate graduate school, and enter the postgraduate job market. To that end, we conduct online information sessions, provide scholarships to cover costs related to applications, assign participants to peer and senior mentors, and share crowdsourced documents that demystify application processes.&lt;/p&gt;
 &lt;p&gt;In addition to these efforts, we conduct research studies to explore and expose the barriers that affect Black junior researchers, and advocate for structural changes to remove these barriers and foster equitable research environments.&lt;/p&gt;
 &lt;p&gt;Our program is presently designed to cover three areas of graduate education:&lt;/p&gt;

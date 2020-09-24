@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshop 2018 | Black in AI</title>
-    <link>blackinai.github.io/workshop/2018/</link>
-      <atom:link href="blackinai.github.io/workshop/2018/index.xml" rel="self" type="application/rss+xml" />
+    <link>/workshop/2018/</link>
+      <atom:link href="/workshop/2018/index.xml" rel="self" type="application/rss+xml" />
     <description>Workshop 2018</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Black in AI</copyright>
     <image>
-      <url>blackinai.github.io/img/convention.jpg</url>
+      <url>/img/convention.jpg</url>
       <title>Workshop 2018</title>
-      <link>blackinai.github.io/workshop/2018/</link>
+      <link>/workshop/2018/</link>
     </image>
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2018/cfp/</link>
+      <link>/workshop/2018/cfp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2018/cfp/</guid>
+      <guid>/workshop/2018/cfp/</guid>
       <description>&lt;p&gt;The second Black in AI event will be co-located with 
 &lt;a href=&#34;https://nips.cc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIPS 2018&lt;/a&gt; at the 
 &lt;a href=&#34;https://congresmtl.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Palais des Congrès de Montréal (Montreal Convention Centre)&lt;/a&gt;  in Montréal CANADA on December 7th from 9:00 am to 5:30 pm. The workshop will feature invited talks from prominent researchers and practitioners, oral presentations, and a poster session. There will also be socials to facilitate networking, discussion of different career opportunities in AI, and sharing of ideas to increase participation of Black researchers in the field. We invite all members of the AI community to attend the workshop. The early registration deadline for the conference is October 24, 2018. We strongly encourage workshop attendees to register for the workshops as early as possible. The registration can be found 
@@ -34,9 +34,9 @@
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2018/organizers/</link>
+      <link>/workshop/2018/organizers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2018/organizers/</guid>
+      <guid>/workshop/2018/organizers/</guid>
       <description>&lt;h2 id=&#34;workshop-co-chairs&#34;&gt;Workshop Co-Chairs&lt;/h2&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://www.cs.cornell.edu/~red/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rediet Abebe&lt;/a&gt;, Cornell University&lt;br&gt;
@@ -386,9 +386,9 @@
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2018/programs/</link>
+      <link>/workshop/2018/programs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2018/programs/</guid>
+      <guid>/workshop/2018/programs/</guid>
       <description>&lt;h1 id=&#34;schedule-2018&#34;&gt;Schedule 2018&lt;/h1&gt;
 &lt;p&gt;&lt;b&gt;Workshop is at the convention Center Room 520&lt;/b&gt;&lt;/p&gt;
 &lt;table&gt;
@@ -604,10 +604,10 @@
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/ayana.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/ayana.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/ayana.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/ayana.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -636,10 +636,10 @@
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/brittny.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/brittny.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/brittny.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/brittny.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -669,10 +669,10 @@
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/karim.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/karim.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/karim.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/karim.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -703,10 +703,10 @@
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/stephanie.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/stephanie.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/stephanie.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/stephanie.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -735,10 +735,10 @@
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/terrence.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/terrence.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/terrence.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/terrence.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -766,10 +766,10 @@
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/vukosi-marivate.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/vukosi-marivate.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/vukosi-marivate.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/vukosi-marivate.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -798,10 +798,10 @@
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/yann.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/yann.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/yann.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/yann.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1861,9 +1861,9 @@ avatar to create the animation.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2018/sponsors/</link>
+      <link>/workshop/2018/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2018/sponsors/</guid>
+      <guid>/workshop/2018/sponsors/</guid>
       <description>&lt;p&gt;Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.&lt;/p&gt;
 &lt;hr&gt;
 ## &lt;span style=&#34;color:lightblue&#34;&gt;Diamond Sponsors&lt;/span&gt;
@@ -1885,10 +1885,10 @@ avatar to create the animation.&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-icon&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/blackinai.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/blackinai.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/blackinai.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/blackinai.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1913,10 +1913,10 @@ avatar to create the animation.&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/facebook.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/facebook.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/facebook.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/facebook.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1941,10 +1941,10 @@ avatar to create the animation.&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/google.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/google.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/google.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/google.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1969,10 +1969,10 @@ avatar to create the animation.&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/intel.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/intel.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/intel.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/intel.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -1997,10 +1997,10 @@ avatar to create the animation.&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/walton-family.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/walton-family.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/walton-family.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/walton-family.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2027,10 +2027,10 @@ avatar to create the animation.&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/ibm.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/ibm.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/ibm.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/ibm.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2055,10 +2055,10 @@ avatar to create the animation.&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/amazon.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/amazon.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/amazon.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/amazon.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2083,10 +2083,10 @@ avatar to create the animation.&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/salesforce.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/salesforce.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/salesforce.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/salesforce.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2111,10 +2111,10 @@ avatar to create the animation.&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/uber.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/uber.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/uber.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/uber.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2139,10 +2139,10 @@ avatar to create the animation.&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/apple.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/apple.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/apple.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/apple.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2169,10 +2169,10 @@ avatar to create the animation.&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/nvidia.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/nvidia.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/nvidia.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/nvidia.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2197,10 +2197,10 @@ avatar to create the animation.&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/deepmind.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/deepmind.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/deepmind.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/deepmind.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2225,10 +2225,10 @@ avatar to create the animation.&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/microsoft.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/microsoft.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/microsoft.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/microsoft.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2255,10 +2255,10 @@ avatar to create the animation.&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/etsy.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/etsy.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/etsy.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/etsy.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2283,10 +2283,10 @@ avatar to create the animation.&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/elementai.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/elementai.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/elementai.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/elementai.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2311,10 +2311,10 @@ avatar to create the animation.&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/pinterest.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/pinterest.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/pinterest.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/pinterest.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2344,10 +2344,10 @@ avatar to create the animation.&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/airbnb.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/airbnb.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/airbnb.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/airbnb.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2373,10 +2373,10 @@ avatar to create the animation.&lt;/p&gt;
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/kaggle.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/kaggle.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/kaggle.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/kaggle.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -2419,9 +2419,9 @@ avatar to create the animation.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2018/submissions/</link>
+      <link>/workshop/2018/submissions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2018/submissions/</guid>
+      <guid>/workshop/2018/submissions/</guid>
       <description>&lt;p&gt;We welcome work in artificial intelligence, including, but not limited to, computer vision, deep learning, knowledge reasoning, machine learning, multi-agent systems, natural language processing, statistical reasoning, theory, robotics, as well as applications of AI to other domains such as health and education, and submissions concerning fairness, ethics, and transparency in AI. Papers may introduce new theory, methodology, or applications. We also welcome position papers and demos related to these areas. Work may be previously published, completed, or ongoing. Submissions will be peer-reviewed by at least 2 reviewers in the area. The workshop will not publish proceedings. We encourage all Black researchers in the field to submit their work, and do not need to be first author of the work.&lt;br&gt;
 &lt;br&gt;
 Submissions may be up to two pages including all figures and tables, with an additional page for references. The submissions should be in a single column. They should be typeset using 11-point or larger fonts and should have at least 1-inch margin all around. Submissions that do not follow these guidelines risk being rejected without consideration of their merits.&lt;br&gt;
@@ -2435,9 +2435,9 @@ Submissions must state the research problem, motivation, and technical contribut
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2018/grants/</link>
+      <link>/workshop/2018/grants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2018/grants/</guid>
+      <guid>/workshop/2018/grants/</guid>
       <description>&lt;p&gt;Need-based travel grants will be awarded to workshop participants. Participants do not need to submit a paper in order to be considered for a travel grant. The travel grant can be used for covering costs associated with the workshop such as NIPS registration, accommodation and travel. Please note that the travel grants may not cover all of your costs and we may not be able to award them to all applicants. The amount of money we award to each person will depend on the number of applicants and the location each applicant will be traveling from. Please submit your travel grant application by &lt;strong&gt;5:00 PM EST, August 24st&lt;/strong&gt; by filling out 
 &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSfhjdWiCTPDneG-u226iXCxcXLy9sqDyEHjdeXO9X6vTDDAQw/viewform&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the travel grant application form&lt;/a&gt;.&lt;/p&gt;
 </description>

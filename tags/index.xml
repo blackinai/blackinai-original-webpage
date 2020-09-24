@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Black in AI</title>
-    <link>blackinai.github.io/tags/</link>
-      <atom:link href="blackinai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Black in AI</copyright>
     <image>
-      <url>blackinai.github.io/img/blackinai.png</url>
+      <url>/img/blackinai.png</url>
       <title>Tags</title>
-      <link>blackinai.github.io/tags/</link>
+      <link>/tags/</link>
     </image>
     
   </channel>

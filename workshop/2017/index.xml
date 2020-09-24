@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshop 2017 | Black in AI</title>
-    <link>blackinai.github.io/workshop/2017/</link>
-      <atom:link href="blackinai.github.io/workshop/2017/index.xml" rel="self" type="application/rss+xml" />
+    <link>/workshop/2017/</link>
+      <atom:link href="/workshop/2017/index.xml" rel="self" type="application/rss+xml" />
     <description>Workshop 2017</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Black in AI</copyright>
     <image>
-      <url>blackinai.github.io/img/blackinai.png</url>
+      <url>/img/blackinai.png</url>
       <title>Workshop 2017</title>
-      <link>blackinai.github.io/workshop/2017/</link>
+      <link>/workshop/2017/</link>
     </image>
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2017/cfp/</link>
+      <link>/workshop/2017/cfp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2017/cfp/</guid>
+      <guid>/workshop/2017/cfp/</guid>
       <description>&lt;p&gt;The first Black in AI event will be co-located with 
 &lt;a href=&#34;https://nips.cc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIPS 2017&lt;/a&gt; in the &lt;strong&gt;Pike Ballroom&lt;/strong&gt; at the 
 &lt;a href=&#34;http://www.marriott.com/hotels/travel/lgbrn-renaissance-long-beach-hotel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Renaissance Long Beach Hotel&lt;/a&gt;  in Long Beach, California on December 8th from 1:00pm to 6:00pm. The poster session will be held at the &lt;strong&gt;Broadlind 2&lt;/strong&gt; room on the second floor of the Renaissance hotel. The workshop will be followed by dinner 6:30-8:30. We invite Black AI researchers from around the world to share their work and learn about others’ research. The workshop will have invited talks from prominent researchers, oral presentations, and a poster session. There will also be socials to facilitate networking, discussion of different career opportunities in AI, and sharing of ideas to increase participation of Black researchers in the field. We invite all Black researchers, including undergraduates, graduate students, faculty, and researchers in industry to participate in this workshop. People of all races are also invited to attend the workshop to learn about the research being conducted by Black researchers across the world. Deadline for registration is October 31, 2017 and can done 
@@ -36,9 +36,9 @@
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2017/organizers/</link>
+      <link>/workshop/2017/organizers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2017/organizers/</guid>
+      <guid>/workshop/2017/organizers/</guid>
       <description>&lt;h1 id=&#34;workshop-co-chairs&#34;&gt;Workshop Co-Chairs&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Rediet Abebe&lt;/strong&gt;, Cornell University&lt;br&gt;
 &lt;strong&gt;Sarah M. Brown&lt;/strong&gt;, University of California, Berkeley&lt;br&gt;
@@ -96,9 +96,9 @@
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2017/programs/</link>
+      <link>/workshop/2017/programs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2017/programs/</guid>
+      <guid>/workshop/2017/programs/</guid>
       <description>&lt;h2 id=&#34;schedule-2017&#34;&gt;Schedule 2017&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -386,9 +386,9 @@
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2017/sponsors/</link>
+      <link>/workshop/2017/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2017/sponsors/</guid>
+      <guid>/workshop/2017/sponsors/</guid>
       <description>&lt;p&gt;Thanks to our corporate sponsors, the workshop is free to attendees and we are able to provide inclusive travel funding to select participants.&lt;/p&gt;
 &lt;hr&gt;
 ## Platinum Sponsors (Black Power in AI)
@@ -410,10 +410,10 @@
 &lt;figure class=&#34;img-sponsor-icon&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/blackinai.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/blackinai.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/blackinai.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/blackinai.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -438,10 +438,10 @@
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/facebook.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/facebook.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/facebook.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/facebook.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -467,10 +467,10 @@
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/microsoft.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/microsoft.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/microsoft.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/microsoft.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -495,10 +495,10 @@
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/google.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/google.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/google.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/google.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -525,10 +525,10 @@
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/fa-code.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/fa-code.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/fa-code.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/fa-code.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -553,10 +553,10 @@
 &lt;figure class=&#34;img-sponsor-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/deepmind.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/deepmind.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/deepmind.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/deepmind.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -583,10 +583,10 @@
 &lt;figure class=&#34;img-sponsor-third-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/fa-chip.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/fa-chip.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/fa-chip.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/fa-chip.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -611,10 +611,10 @@
 &lt;figure class=&#34;img-sponsor-third-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/elementai.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/elementai.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/elementai.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/elementai.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -639,10 +639,10 @@
 &lt;figure class=&#34;img-sponsor-third-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/airbnb.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/airbnb.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/airbnb.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/airbnb.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -667,10 +667,10 @@
 &lt;figure class=&#34;img-sponsor-third-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/savoy.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/savoy.jpg&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/savoy.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/savoy.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -695,10 +695,10 @@
 &lt;figure class=&#34;img-sponsor-third-c&#34; &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;blackinai.github.io/img/uber.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/uber.png&#34; &gt;
 
 
-  &lt;img src=&#34;blackinai.github.io/img/uber.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;/img/uber.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -724,9 +724,9 @@
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2017/submissions/</link>
+      <link>/workshop/2017/submissions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2017/submissions/</guid>
+      <guid>/workshop/2017/submissions/</guid>
       <description>&lt;p&gt;We welcome theoretical, empirical, and applied work in machine learning and artificial intelligence, including, but not limited to, search, planning, knowledge representation, reasoning, natural language processing, computer vision, robotics, multiagent systems, statistical reasoning, and deep learning. Work may be previously published, completed, or ongoing. Submissions will be peer-reviewed by at least 2 reviewers. The workshop will not publish proceedings. The presenter must be a Black researcher in AI, and does not need to be first author.&lt;/p&gt;
 &lt;p&gt;Submissions can be up to two page abstracts and must state the research problem, motivation, and technical contribution. Submissions must be self-contained and include all figures, tables, and references.&lt;/p&gt;
 &lt;ul&gt;
@@ -739,9 +739,9 @@
     
     <item>
       <title></title>
-      <link>blackinai.github.io/workshop/2017/grants/</link>
+      <link>/workshop/2017/grants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>blackinai.github.io/workshop/2017/grants/</guid>
+      <guid>/workshop/2017/grants/</guid>
       <description>&lt;h2 id=&#34;travel-awards&#34;&gt;Travel Awards&lt;/h2&gt;
 &lt;p&gt;Need-based travel grants will be awarded to workshop participants. The travel grant can be used for covering costs associated with the workshop such as NIPS registration, accommodation and travel. Please note that the travel grants may not cover all of your costs and we may not be able to award them to all applicants. The amount of money we award to each person will depend on the number of applicants and the location each applicant will be traveling from.&lt;/p&gt;
 &lt;p&gt;If you are a student who has not conducted research and would like a travel grant to attend our workshop, you may do so by either:&lt;/p&gt;

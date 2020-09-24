@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Black in AI</title>
-    <link>blackinai.github.io/publication/</link>
-      <atom:link href="blackinai.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Black in AI</copyright>
     <image>
-      <url>blackinai.github.io/img/blackinai.png</url>
+      <url>/img/blackinai.png</url>
       <title>Publications</title>
-      <link>blackinai.github.io/publication/</link>
+      <link>/publication/</link>
     </image>
     
   </channel>
